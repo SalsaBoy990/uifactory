@@ -1,9 +1,9 @@
 // Add your global site properties here
 module.exports = {
   site: {
-    url: '',
+    url: 'https://uifactory.netlify.com',
     title: `Gulácsi András UI design portfóliója`,
-    defaultImage: '/assets/images/uifactory_cover.jpg',
+    defaultImage: 'https://uifactory.netlify.com/assets/images/uifactory_cover.jpg',
     author: 'Gulácsi András',
     quote: 'UI/UX designer-nek tanulok és munkát keresek UI designer pozícióba. Az Udemy kurzusaiból tanulok (oktatóim: Muhammad Ahsan Pervaiz, Joe Natoli, Krisztina Szerovay), továbbá teljesítettem az UXstudio nyolc hetes Digital Product Design tanfolyamát is.',
     description: 'UI/UX designer-nek tanulok és munkát keresek UI designer pozícióba.',
