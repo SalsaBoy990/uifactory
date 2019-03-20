@@ -1,0 +1,28 @@
+backend:
+  name: git-gateway
+  branch: master # Branch to update (optional; defaults to master)
+
+# This line should *not* be indented
+publish_mode: editorial_workflow
+
+# These lines should *not* be indented
+media_folder: "src/assets/images/design/" # Media files will be stored in the repo under static/images/design
+public_folder: "/assets/images/design/" # The src attribute for uploaded media will begin with /images/design
+
+slug:
+  encoding: "ascii"
+  clean_accents: true
+
+collections:
+  - name: "design" # Used in routes, e.g., /admin/collections/blog
+    label: "add design item" # Used in the UI
+    folder: "src/posts/" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Design item name", name: "title", widget: "string"}
+      - {label: "Publication date", name: "date", widget: "string"}
+       - {label: "Thumbnail image with extension", name: "thumbnail", widget: "string"}
+      - {label: "Short description", name: "excerpt", widget: "string"}
+      - {label: "Type (website, banner, bc)", name: "type", widget: "string"}
+      - {label: "The presentation of my design item", name: "body", widget: "markdown"}

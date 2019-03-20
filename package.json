@@ -1,0 +1,91 @@
+{
+  "_from": "static-site-express",
+  "_id": "static-site-express@4.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-3AT+cENbqYOzSisaO8UfHJeUEdbTkz4Sya1MgoGUkxGNOa/avm6ZxMsbc70v5PBgtjV8eIs0ggd7S+P/7JjUGA==",
+  "_location": "/static-site-express",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "static-site-express",
+    "name": "static-site-express",
+    "escapedName": "static-site-express",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/static-site-express/-/static-site-express-4.0.0.tgz",
+  "_shasum": "80102a3448730dd7b8f08d0ffb44e27167848481",
+  "_spec": "static-site-express",
+  "_where": "G:\\malembe_project",
+  "author": {
+    "name": "András Gulácsi"
+  },
+  "bugs": {
+    "url": "https://github.com/SalsaBoy990/static-site-express/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "chokidar": "^2.0.4",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "front-matter": "^2.3.0",
+    "fs-extra": "^5.0.0",
+    "helmet": "^3.12.1",
+    "helmet-csp": "^2.7.0",
+    "highlightjs": "^9.10.0",
+    "markdown-it": "^8.4.1",
+    "markdown-it-attrs": "^2.2.0",
+    "markdown-it-highlightjs": "^3.0.0",
+    "markdown-it-implicit-figures": "^0.9.0",
+    "markdown-it-multimd-table": "^3.1.2",
+    "markdown-it-podcast": "^0.2.3",
+    "markdown-it-sub": "^1.0.0",
+    "markdown-it-sup": "^1.0.0",
+    "markdown-it-video": "^0.6.3",
+    "serve-favicon": "^2.4.5"
+  },
+  "deprecated": false,
+  "description": "A simple Node.js based static site generator that uses EJS and Markdown",
+  "devDependencies": {
+    "node-sass": "^4.11.0",
+    "standard": "^11.0.1"
+  },
+  "homepage": "https://github.com/SalsaBoy990/static-site-express#readme",
+  "keywords": [
+    "Node.js",
+    "Express",
+    "ejs",
+    "markdown",
+    "SCSS",
+    "static-site",
+    "static site generator",
+    "static files",
+    "netlify",
+    "heroku"
+  ],
+  "license": "MIT",
+  "main": "./lib/build.js",
+  "name": "static-site-express",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SalsaBoy990/static-site-express.git"
+  },
+  "scripts": {
+    "sass:build": "node-sass --include-path ./src/assets/stylesheet/ ./scss/main.scss ./src/assets/stylesheet/main.css",
+    "build": "node ./lib/build.js",
+    "heroku": "node ./lib/build.js && node ./lib/serve.js",
+    "serve": "node ./lib/serve.js",
+    "watch": "nodemon -L --watch ./src --watch site.config.js ./lib/build.js -e *",
+    "watch-exp": "node ./lib/watch.js",
+    "standard": "standard ./lib/build.js",
+    "standard-fix": "standard --fix ./lib/build.js"
+  },
+  "version": "4.0.0"
+}

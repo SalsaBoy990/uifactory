@@ -1,0 +1,97 @@
+<div class="container-fluid p0 m0">
+  <div class="row mx-responsive">
+    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-9 col-xl-9 mt3 mb2 p0">
+      <h2 class="uppercase m0 mb2">Munkáim</h2>
+      <% for (var i = 0; i < postsDataForIndexPage.length; i++) { %>
+      <section class="design-item mb2">
+        <div class="row">
+          <div class="col-11 bg-light-gray border-light-gray2 plhalf pr0 pb1">
+            <div class="outer-bg float-right mt-38px">
+              <img class="m0 label-shape" src="/assets/images/label.png">
+              <div class="inner-text">
+                <% if (postsDataForIndexPage[i].type === 'website') { %>
+                <span class="min-size darker-san-juan sans-serif expanded">honlap</span>
+                <% } else if (postsDataForIndexPage[i].type === 'banner') { %>
+                <span class="min-size darker-san-juan sans-serif expanded">reklám</span>
+                <% } else if (postsDataForIndexPage[i].type === 'bc') { %>
+                <span class="small-size darker-san-juan sans-serif expanded">Nj. kártya</span>
+                <% } else { %>
+                <span class="small-size darker-san-juan sans-serif expanded"><%= postsDataForIndexPage[i].type %></span>
+                <% } %>
+              </div>
+            </div>
+            <h3 class="mb1 mt1"><a href="<%= postsDataForIndexPage[i].pathToPost %>"><%= postsDataForIndexPage[i].title %></a></h3>
+            <div class="row">
+              <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 col-xl-4 p0">
+                <a href="<%= postsDataForIndexPage[i].pathToPost %>">
+                  <img class="m0 mlhalf mt-9px" src="/assets/images/design/<%= postsDataForIndexPage[i].thumbnail %>" alt="<%= postsDataForIndexPage[i].title %>">
+                </a>
+              </div>
+              <div class="col-xs-12 col-sm-6 col-md-8 col-lg-8 col-xl-8 p0 pr1">
+                <p class="mb0 m-mlhalf"><%= postsDataForIndexPage[i].excerpt %></p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <% } %>
+    </div>
+    <div class="col-xs-8 col-sm-6 col-md-4 col-lg-3 col-xl-3 mb2 p0 mt-207px">
+      <div class="bg-light-gray border-light-gray2 pl1">
+        <h4 class="uppercase mt1">Képességeim</h4>
+        <ul class="no-bullets m0 p0 sans-serif">
+          <li class="pbhalf">
+            <span class="small-size">UI Design</span>
+            <div class="bg-hawkes-blue level-bar-outer mt-4px">
+              <div class="bg-light-pink level-bar-inner135"></div>
+            </div>
+          </li>
+          <li class="pbhalf">
+            <span class="small-size">Rajz, prototípus</span>
+            <div class="bg-hawkes-blue level-bar-outer mt-4px">
+              <div class="bg-light-pink level-bar-inner125"></div>
+            </div>
+          </li>
+          <li class="pbhalf">
+            <span class="small-size">UX kutatás</span>
+            <div class="bg-hawkes-blue level-bar-outer mt-4px">
+              <div class="bg-light-pink level-bar-inner36"></div>
+            </div>
+          </li>
+          <li class="pbhalf">
+            <span class="small-size">HTML, CSS</span>
+            <div class="bg-hawkes-blue level-bar-outer mt-4px">
+              <div class="bg-light-pink level-bar-inner125"></div>
+            </div>
+          </li>
+          <li class="pbhalf">
+            <span class="small-size">JavaScript, Node.js</span>
+            <div class="bg-hawkes-blue level-bar-outer mt-4px">
+              <div class="bg-light-pink level-bar-inner75"></div>
+            </div>
+          </li>
+          <li class="mb2">
+            <span class="small-size">Angol nyelv</span>
+            <div class="bg-hawkes-blue level-bar-outer mt-4px">
+              <div class="bg-light-pink level-bar-inner85"></div>
+            </div>
+          </li>
+        </ul>
+        <h4 class="uppercase">Eszközeim</h4>
+        <ul class="no-bullets m0 mb1 p0 sans-serif small-size lh15">
+          <li>Figma</li>
+          <li>Axure RP 8</li>
+          <li>Photoshop CC2015</li>
+          <li>Inkscape</li>
+          <li>GIMP 2</li>
+          <li>Visual Studio Code</li>
+          <li>Github</li>
+          <li>Netlify</li>
+          <li>Bootstrap 3-4</li>
+          <li>Google Analytics</li>
+          <li>Hotjar</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div> 
