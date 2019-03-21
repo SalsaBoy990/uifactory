@@ -554,7 +554,7 @@ figcaption {
   margin-bottom: 1.5rem;
   font-size: 0.81818rem;
   font-style: italic;
-  margin-left: 1rem;
+  margin-left: 0rem;
   margin-right: 1rem; }
 
 .normal-font {
@@ -571,8 +571,17 @@ caption {
 img {
   margin-top: 1.5rem;
   margin-bottom: .5rem;
-  margin-left: 1rem;
-  margin-right: 1rem;
+  margin-left: 0rem;
+  margin-right: 0rem;
+  display: block;
+  height: auto;
+  max-width: 100%; }
+
+.thumbnail-img {
+  margin-top: 1.5rem;
+  margin-bottom: .5rem;
+  margin-left: 0.5rem;
+  margin-right: 0.5rem;
   display: block;
   height: auto;
   width: -webkit-calc(100% - 2rem);
