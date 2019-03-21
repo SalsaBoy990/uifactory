@@ -986,7 +986,7 @@ textarea {
   .mt-62px {
     margin-top: 2rem !important; }
   .mt-207px {
-    margin-top: 1rem !important; } }
+    margin-top: 0rem !important; } }
 
 @media (max-width: 768px) {
   .mx-responsive {

@@ -7,7 +7,4 @@ excerpt: >-
 type: banner
 ---
 
-# Strong Shoes
-Strong Shoes cipőreklám – 35% leárazás az áruház őszi kollekciójából. A reklám csupán kitaláció.
-
-![Strong Shoes reklám banner, 1440px * 900px](https://dl.dropboxusercontent.com/s/4dfg8d7adul5kfc/Strong_Shoes_UI_advertisement_final_2019.jpg)
+![Strong Shoes reklám banner, 1440px * 900px, 300dpi](https://dl.dropboxusercontent.com/s/4dfg8d7adul5kfc/Strong_Shoes_UI_advertisement_final_2019.jpg)

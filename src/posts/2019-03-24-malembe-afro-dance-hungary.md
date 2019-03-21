@@ -7,7 +7,4 @@ excerpt: >-
 type: website
 ---
 
-# Malembe Afro Dance Hungary
-Célunk, hogy tánctanfolyamok, bemutatók és bulik szervezésével népszerűsítsük a Magyarországon még kevésbé ismert afro-táncokat, zenéket.
-
 *Feltöltés alatt...*
