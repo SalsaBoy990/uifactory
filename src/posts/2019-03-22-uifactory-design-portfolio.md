@@ -1,7 +1,7 @@
 ---
 title: UIfactory design portfólió
 date: '2019-03-22'
-thumbnail: ui_factory_design_portfoliooldal_2019.jpg
+thumbnail: uifactory_portfoliooldal_2019.jpg
 excerpt: >-
   Az UIfactory a személyes portfólió oldalam, ahol a saját UI designmunkáimat
   adom közre. A stílusát tekintve egyezik az UIfactory névjegykártyám
