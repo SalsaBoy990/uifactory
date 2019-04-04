@@ -11,6 +11,7 @@ module.exports = {
     google_analytics: 'UA-136754581-1',
     linkedin: 'https://www.linkedin.com/in/andr%C3%A1s-gul%C3%A1csi-548b5a176/',
     email: 'mailto:gulandras90@gmail.com',
-    cv: 'https://www.docdroid.net/QnUORxI/gulacsi-andras-oneletrajz-2018.pdf'
+    cv: 'https://www.docdroid.net/QnUORxI/gulacsi-andras-oneletrajz-2018.pdf',
+    workflow: 'https://www.dropbox.com/s/qkwffh3zkrpeodl/UX_folyamat_Gul%C3%A1csi_Andr%C3%A1s.docx?dl=0'
   }
 }

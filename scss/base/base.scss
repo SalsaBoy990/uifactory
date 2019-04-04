@@ -907,7 +907,7 @@ a {
   transition: color 0.3s ease-in
 }
 a:focus, a:hover {
-  color: #0022bb;
+  color: hsl(349, 56%, 46%);
   text-decoration: none;
 }
 
@@ -1313,6 +1313,58 @@ border-radius: 0px 7px;
         margin-right: 17px !important;
     }
 
+    .large-title {
+      font-size: 34px !important;
+    }
+
+    .page-title {
+      font-size: 17px !important;
+    }
+
+    .sub-title {
+      font-size: 22px !important;
+    }
+
+    h1 {
+      font-size: 28px
+    }
+
+    h2 {
+      font-size: 22px
+    }
+
+    h3 {
+      font-size: 20px
+    }
+
+    h4 {
+      font-size: 17px
+    }
+
+    p {
+      font-size: 17px;
+    }
+
+    .small-size {
+      font-size: 15px !important
+    }
+
+    .min-size {
+      font-size: 13px !important
+    }
+
+    caption, figcaption {
+      font-size: 15px !important
+    }
+
+    .mb-62px {
+      margin-bottom: 31px !important
+    }
+
+    .mt-80px {
+      margin-top: 40px !important
+    }
+
     .m-mlhalf {
       margin-left: 0.6rem;
     }
@@ -1322,12 +1374,15 @@ border-radius: 0px 7px;
       height: 200px !important;
       margin-bottom: 1rem;
     }
+
+    .logo {
+      height: 25px !important;
+      width: 25px !important;
+    }
 }
 
 @media (max-width: 347px) {
-  .mobile-title {
-    font-size: 2.681818rem !important;
-  }
+
 }
 
 
@@ -1342,8 +1397,8 @@ border-radius: 0px 7px;
   margin-top: 9px
 }
 
-.mt-38px {
-  margin-top: 38px
+.mt-36px {
+  margin-top: 36px
 }
 
 
@@ -1356,7 +1411,7 @@ border-radius: 0px 7px;
 }
 
 .mt-207px {
-  margin-top: 207px
+  margin-top: 77px
 }
 
 .mr-7px {
@@ -1378,7 +1433,7 @@ border-radius: 0px 7px;
   margin-bottom: 66px
 }
 
-.fs72 {
+.large-title {
   font-size: 72px
 }
 

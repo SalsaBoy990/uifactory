@@ -1,12 +1,21 @@
 <div class="container-fluid p0 m0">
   <div class="row mx-responsive">
     <div class="col-xs-12 col-sm-12 col-md-12 col-lg-9 col-xl-9 mo mt3 mb2 p0">
-      <h2 class="uppercase m0 mb2">Munkáim</h2>
+      <h2 class="uppercase m0 mb1">A Módszerem</h2>
+      <figure>
+      <img class="mt0" src="/assets/images/doublediamonddesignprocess.png" alt="Dupla Gyémánt Modell">
+      <figcaption>A Dupla Gyémánt Tervezési Folyamat</figcaption>
+    </figure>
+      <p>Emberközpontú tervezési folyamat. A lényege, hogy kutatásra alapozzuk a termékötletet, megkeressük a célközönség (a perszónánk) problémáit, majd egy arra reflektáló termékötletet adunk. A Double Diamond modellt alkalmazom a tervezés során: felfedez, definiál, kifejleszt, véglegesít.
+        A saját UX/UI design munkamenetemet <a href="<%= site.workflow %>">itt tekintheted meg (pdf)</a>.</p>
+    </div>
+    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-9 col-xl-9 mo mt0 mb1 p0">
+      <h2 class="uppercase m0 mb1">A Munkáim</h2>
       <% for (var i = 0; i < postsDataForIndexPage.length; i++) { %>
       <section class="design-item mb2">
         <div class="row p0 m0">
           <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11 col-xl-11 bg-light-gray border-light-gray2 plhalf pr0 pb1">
-            <div class="outer-bg float-right mt-38px">
+            <div class="outer-bg float-right mt-36px">
               <img class="m0 label-shape" src="/assets/images/label.png">
               <div class="inner-text">
                 <% if (postsDataForIndexPage[i].type === 'website') { %>
@@ -14,9 +23,9 @@
                 <% } else if (postsDataForIndexPage[i].type === 'banner') { %>
                 <span class="min-size darker-san-juan sans-serif expanded">reklám</span>
                 <% } else if (postsDataForIndexPage[i].type === 'bc') { %>
-                <span class="small-size darker-san-juan sans-serif expanded">kártya</span>
+                <span class="min-size darker-san-juan sans-serif expanded">kártya</span>
                 <% } else { %>
-                <span class="small-size darker-san-juan sans-serif expanded"><%= postsDataForIndexPage[i].type %></span>
+                <span class="min-size darker-san-juan sans-serif expanded"><%= postsDataForIndexPage[i].type %></span>
                 <% } %>
               </div>
             </div>
