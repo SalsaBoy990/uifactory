@@ -8,11 +8,11 @@ excerpt: >-
 type: website
 ---
 
-Személyes információt nem adok ki az ügyfelemről, ami elhangzott az üléseken az UX tervezés során. Éppen ezért „Jane” néven fogok rá hivatkozni. Kizárólag csak összefoglaló jelleggel szeretném bemutatni annak a folyamatát, hogy hogyan, milyen tények és következtetések alapján jutottam a megoldáshoz. Megindoklom, hogy miért ezeket a design megoldásokat alkalmaztam.
+Személyes információt nem adok ki az ügyfelemről, ami elhangzott az üléseken az UX tervezés során. Éppen ezért „Jane” néven fogok rá hivatkozni. Összefoglaló jelleggel szeretném bemutatni annak a folyamatát, hogy hogyan, milyen tények és következtetések alapján jutottam a megoldáshoz. Megindoklom, hogy miért ezeket a megoldásokat választottam.
 
 ## Az első alkalom
 
-Az egész tervezést az ügyféllel folytatott interjúval kezdtem. Tudtam, hogy egy pszichológusnak (az egyik ismerősömnek) kell honlapot készítenem a magánpraxisa beindításához. Azt mondta nekem, hogy gyászfeldolgozással foglalkozik. Egy kicsit utánajártam az interneten a dolgoknak és kigondoltam, hogy mikre szeretnék rákérdezni, majd készítettem egy interjú szkriptet.
+A tervezést az ügyféllel folytatott interjúval kezdtem. Tudtam, hogy egy pszichológusnak (az egyik ismerősömnek) kell honlapot készítenem a magánpraxisa beindításához. Azt mondta nekem, hogy gyászfeldolgozással foglalkozik. Egy kicsit utánajártam az interneten a dolgoknak és kigondoltam, hogy mikre szeretnék rákérdezni, majd készítettem egy interjú szkriptet.
 
 Az interjú során kiderült, hogy Jane nem csak a gyászfeldolgozással foglalkozik, hanem sokkal több mindennel, így aztán változtatnom kellett az előre kigondolt  kérdéseken. Jane felsorolt „tíz millió dolgot” a magánpraxisával kapcsolatban, hogy miket szeretne csinálni. Világosan látszott, hogy erősen priorizálni kell a későbbiekben a problémákat, hogy mely területekre essen a fókusz.
 
@@ -30,7 +30,7 @@ Jane-t egyébként is korlátozza a titoktartás abban, hogy beszéljen a legut�
 
 Brainstorming-gal kezdtük, mely során post-it-ekre írtuk fel az ügyfelek problémáit (beleértve a pszichológusokról alkotott negatív képet). Utána csoportosítottuk a problémákat és mindegyik problémahalmaznak nevet is adtunk. Ezt követően Jane-nek elsőnek ki kellett választania a három, szerinte legfontosabb problémacsoportot. Végezetül e három csoport közül is meg kellett határoznia a legeslegfontosabbat.
 
-![A brainstorming eredménye Post-it-eken](https://dl.dropboxusercontent.com/s/zz1hqxf0vpv8q7z/20190429_144032-min.jpg)
+![A brainstorming eredménye post-it-eken](https://dl.dropboxusercontent.com/s/zz1hqxf0vpv8q7z/20190429_144032-min.jpg)
 
 ### Az alábbi problémacsoportokat állítottuk fel:
 
@@ -63,11 +63,9 @@ Ezután mondattam Jane-nel felhasználói történeteket *“Én mint [felhaszn�
 
 Nehézséget jelentett, hogy túl szerteágazóak a kliensek, sokféle problémával küszködnek, és emiatt nehéz általános perszónával lefedni őket. A problémák személyspecifikusak és a megoldás rájuk szintén az. Emiatt inkább a felhasználói történetekből indultam ki, majd hozzájuk rendeltem képeket.
 
-![](https://dl.dropboxusercontent.com/s/7j2pytghgfy5myd/persz%C3%B3n%C3%A1k1-min.png)
+![Perszónák Jane Doe pszichológus honlapjához](https://dl.dropboxusercontent.com/s/7j2pytghgfy5myd/persz%C3%B3n%C3%A1k1-min.png)
 
-![](https://dl.dropboxusercontent.com/s/7j2pytghgfy5myd/persz%C3%B3n%C3%A1k1-min.png)
-
-Ennek ellenére megállapítható volt, hogy alapvetően inkább a fiatal felnőtt korosztály lehet fogékony a pszichológiai tanácsadás/veszteségfeldolgozás/stresszkezelés iránt. Méghozzá középosztálybeliek, akik meg tudják fizetni a pszichológust. Ez sajnos így igaz.
+Ennek ellenére megállapítható volt, hogy alapvetően inkább a fiatal felnőtt korosztály lehet fogékony a pszichológiai tanácsadás, veszteségfeldolgozás, stresszkezelés hármas iránt. Méghozzá középosztálybeliek, akik meg tudják fizetni a pszichológust. Ez sajnos igaz.
 
 
 ### Értékajánlat, branding
