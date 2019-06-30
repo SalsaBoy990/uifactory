@@ -7,7 +7,6 @@ excerpt: >-
   pszichológiai segítségnyújtásra, amihez szüksége volt egy honlapra.
 type: website
 ---
-# Nehézségek és kihívások „Jane Doe” pszichológus honlapjának tervezése során
 
 Személyes információt nem adok ki az ügyfelemről, ami elhangzott az üléseken az UX tervezés során. Éppen ezért „Jane” néven fogok rá hivatkozni. Kizárólag csak összefoglaló jelleggel szeretném bemutatni annak a folyamatát, hogy hogyan, milyen tények és következtetések alapján jutottam a megoldáshoz. Megindoklom, hogy miért ezeket a design megoldásokat alkalmaztam.
 
@@ -103,6 +102,7 @@ Néhány összefoglaló statisztikai információt közreadok:
 
 Feltűnt nekem, hogy a pszichológus honlapok tekintélyes részén hiányzott az adatkezelési tájékoztató. Ugyanúgy fontos lehet hangsúlyozni a pszichológusok titoktartási kötelezettségeit, hogy könnyebben elnyerhessük az ügyfél bizalmát. Ez különösen fontos a pszichológusokhoz társított negatív kép miatt. Mindazonáltal lehet alapja pszichológusokkal szembeni előítéleteknek, ha pl. valakinek negatív tapasztalatai volt egy pszichológussal. Problémát jelent, hogy az interneten vannak kókler „tanácsadók”, akik nem rendelkeznek olyan végzettséggel, hogy pszichológusnak nevezhetnék magukat.
 
+## A negyedik alkalom
 
 [Axure wireframe]
 
