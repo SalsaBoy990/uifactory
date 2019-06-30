@@ -20,17 +20,17 @@ Sajnos a lehetséges felhasználókkal nem lehetett interjút készíteni, hisze
 
 Jane-t egyébként is korlátozza a titoktartás abban, hogy beszéljen a legutóbbi esetekről részletesen. Ezért úgy éreztem, hogy kicsit általánosabb síkon kellett mozognom a vele folytatott interjú alatt. Viszont Jane pszichológus révén nagyon jól ismeri a hozzá forduló egyének problémáit, rengeteg tapasztalatot szerzett ezen a téren. Teljesen elfogadhatónak tartottam az ő elmondásaira hagyatkozni a tervezés során. Nem befolyásoltam a válaszait, hanem hagytam őt kibontakozni az interjú alatt. Az interjúról hangfelvétel készült.
 
-### Az interjúnak 3 célkitűzése volt
+### Az interjúnak 3 célkitűzése volt:
 
-1. Megtudni, hogy Jane pontosan mely területekkel foglalkozik a pszichológián belül (veszteségfeldolgozás, ??).
-2. Annak kiderítése, hogy kik járnak hozzá.
+1. Megtudni, hogy Jane pontosan mely területekkel foglalkozik a pszichológián belül (veszteségfeldolgozás, ??).
+2. Annak kiderítése, hogy kik járnak hozzá.
 3. Feltárni, hogy az első alkalmakkor mire kérdeznek rá a pszichológiai tanácsadással kapcsolatban.
 
 ## A második alkalom
 
 Brainstorming-gal kezdtük, mely során post-it-ekre írtuk fel az ügyfelek problémáit (beleértve a pszichológusokról alkotott negatív képet). Utána csoportosítottuk a problémákat és mindegyik problémahalmaznak nevet is adtunk. Ezt követően Jane-nek elsőnek ki kellett választania a három, szerinte legfontosabb problémacsoportot. Végezetül e három csoport közül is meg kellett határoznia a legeslegfontosabbat.
 
-![A brainstorming eredménye post-it-eken](https://dl.dropboxusercontent.com/s/zz1hqxf0vpv8q7z/20190429_144032-min.jpg)
+![A brainstorming eredménye post-it-eken](https://dl.dropboxusercontent.com/s/zz1hqxf0vpv8q7z/20190429_144032-min.jpg)
 
 ### Az alábbi problémacsoportokat állítottuk fel:
 
@@ -76,9 +76,9 @@ Jane Doe pszichológus magánpraxisa
 segít rávezetni őket a megoldásra.*
 
 Jane Doe **közvetlen**, **megközelíthető** és **profi** pszichológus.
-* módszertanilag sokféle
-* spontán, facilitátor
-* személyében közvetlen
+* módszertanilag sokféle,
+* spontán, facilitátor,
+* személyében közvetlen.
 
 ## A harmadik alkalom – Versenytárs-kutatás
 
