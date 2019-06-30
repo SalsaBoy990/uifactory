@@ -3,8 +3,72 @@ title: Jane Doe pszichológus magánpraxisának honlapja
 date: '2019-06-30'
 thumbnail: y.jpg
 excerpt: >-
-  Jane Doe magánpraxisban is szeretné, hogy menjenek hozzá kliensek
-  pszichológiai segítségnyújtásra..
+  „Jane Doe” magánpraxisban is szeretné, hogy menjenek hozzá kliensek
+  pszichológiai segítségnyújtásra, amihez szüksége volt egy honlapra.
 type: website
 ---
-x
+# Nehézségek és kihívások „Jane Doe” pszichológus honlapjának tervezése során
+
+Személyes információt nem adok ki az ügyfelemről, ami elhangzott az üléseken az UX tervezés során. Éppen ezért „Jane” néven fogok rá hivatkozni. Kizárólag csak összefoglaló jelleggel szeretném bemutatni annak a folyamatát, hogy hogyan, milyen tények és következtetések alapján jutottam a megoldáshoz. Megindoklom, hogy miért ezeket a design megoldásokat alkalmaztam.
+
+## Az első alkalom
+
+Az egész tervezést az ügyféllel folytatott interjúval kezdtem. Tudtam, hogy egy pszichológusnak (az egyik ismerősömnek) kell honlapot készítenem a magánpraxisa beindításához. Azt mondta nekem, hogy gyászfeldolgozással foglalkozik. Egy kicsit utánajártam az interneten a dolgoknak és kigondoltam, hogy mikre szeretnék rákérdezni, majd készítettem egy interjú szkriptet.
+
+Az interjú során kiderült, hogy Jane nem csak a gyászfeldolgozással foglalkozik, hanem sokkal több mindennel, így aztán változtatnom kellett az előre kigondolt  kérdéseken. Jane felsorolt „tíz millió dolgot” a magánpraxisával kapcsolatban, hogy miket szeretne csinálni. Világosan látszott, hogy erősen priorizálni kell a későbbiekben a problémákat, hogy mely területekre essen a fókusz.
+
+Sajnos a lehetséges felhasználókkal nem lehetett interjút készíteni, hiszen etikai szemszögből nem lenne elfogadható, ha az emberek a személyes problémáikról beszéljenek egy idegennek, aki még csak nem is pszichológus. Nem is akarnának.
+
+Jane-t egyébként is korlátozza a titoktartás abban, hogy beszéljen a legutóbbi esetekről részletesen. Ezért úgy éreztem, hogy kicsit általánosabb síkon kellett mozognom a vele folytatott interjú alatt. Viszont Jane pszichológus révén nagyon jól ismeri a hozzá forduló egyének problémáit, rengeteg tapasztalatot szerzett ezen a téren. Teljesen elfogadhatónak tartottam az ő elmondásaira hagyatkozni a tervezés során. Nem befolyásoltam a válaszait, hanem hagytam őt kibontakozni az interjú alatt.
+
+[Kép 1]
+
+## A második alkalom
+Brainstorming-gal kezdtük, mely során post-it-ekre írtuk fel az ügyfelek problémáit (beleértve a pszichológusokról alkotott negatív képet). Utána csoportosítottuk a problémákat és mindegyik problémahalmaznak nevet is adtunk. Ezt követően Erikának elsőnek ki kellett választania a három, szerinte legfontosabb problémacsoportot. Végezetül e három csoport közül is meg kellett határoznia a legeslegfontosabbat.
+
+[Kép 2]
+
+### Az alábbi problémacsoportokat állítottuk fel:
+* **Elérhetőség** (a pszichológus személyének megközelíthetősége)
+* **Keretek** (pl. biztonságot ad a kliensnek, magázás fontossága, lemorzsolódás, hatékonyság stb.)
+* **Etika** (pl. titoktartás, adatvédelem, anonimitás stb.)
+* Indikációk (pl. Cry for help)
+* Előítéletek (pszichológussal szemben, illetve, hogy a pszichológust felkeressék)
+* Anyagiak (drága)
+
+**A legfontosabb problémának az Elérhetőséget tekintette, utána jött a Keretek és az Etika.** Utána rákérdeztem, hogy a pszichológusokkal szembeni előítéletet miért nem választotta. Azt válaszolta, hogy ennek a fenti háromnak a megoldásával ez is megoldódik. Elfogadtam az érvelését.
+
+A következő lépésben felírattam vele azokat a területeket, amelyekkel szeretne foglalkozni a magánpraxisában. Utána ezeket fontosság szerinti sorba rendeztettem vele. A prioritás szerinti sorrend:
+
+1. **Veszteségfeldolgozás**
+2. **Krízis intervenció** (később ez Tanácsadásra módosult)
+3. **Stresszkezelés**
+4. Karrier és pályatanácsadás
+5. Életvezetési kérdések
+6. Egyéni/csoportos tréningek (autogén, pszichodráma, szoc. készségek)
+
+Jane sokféle területtel szeretett volna foglalkozni, beleértve a gyerekekkel foglalkozást, pszichodrámát, csoportos foglalkozásokat stb. Azonban Jane egyszer megemlítette, hogy ő inkább 18 éves kortól felfelé szeretne tanácsadást nyújtani. Itt javasoltam neki, hogy szűkítsük le a célcsoportot a felnőttekre.
+
+
+### Felhasználói történetek és perszónaalkotás
+
+Ezután mondattam Jane-nel felhasználói történeteket *“Én mint [felhasználó típusa], szeretnék [valamit elérni] azért, hogy [valamilyen okból]”* formában.
+
+Nehézséget jelentett, hogy túl szerteágazóak a kliensek, sokféle problémával küszködnek, és emiatt nehéz általános perszónával lefedni őket. A problémák személyspecifikusak és a megoldás rájuk szintén az. Emiatt inkább a felhasználói történetekből indultam ki, majd hozzájuk rendeltem képeket.
+
+[Kép 3]
+
+Ennek ellenére megállapítható volt, hogy alapvetően inkább a fiatal felnőtt korosztály lehet fogékony a pszichológiai tanácsadás/veszteségfeldolgozás/stresszkezelés iránt. Méghozzá középosztálybeliek, akik meg tudják fizetni a pszichológust.
+
+
+### Értékajánlat, branding
+
+*Azoknak a középosztálybeli fiatal felnőtteknek,
+akik pszichológus tanácsára szorulnak,
+Tóth Erika pszichológus magánpraxisa
+segít rávezetni őket a megoldásra.*
+
+Jane Doe **közvetlen**, **megközelíthető** és **profi** pszichológus.
+* módszertanilag sokféle
+* spontán, facilitátor
+* személyében közvetlen
