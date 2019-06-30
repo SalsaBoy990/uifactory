@@ -72,3 +72,31 @@ Jane Doe **közvetlen**, **megközelíthető** és **profi** pszichológus.
 * módszertanilag sokféle
 * spontán, facilitátor
 * személyében közvetlen
+
+## A harmadik alkalom – Versenytárs-kutatás
+
+Rákerestem más pszichológusok honlapjaira (23 db) és kielemeztem őket az előnyeik és a hátrányaik tekintetében.
+
+Néhány összefoglaló statisztikai információt közreadok:
+* Magázódás: 17 oldalon (74%)
+* Leggyakoribb domináns szín: a zöld (7 oldalon, 30%)
+* Az árak nincsenek feltüntetve: 14 oldalon (61%)
+* Az egyes menüpontok és előfordulási gyakoriságuk:
+  1. **Kapcsolat**, Elérhetőségeim: 18
+  2. **Bemutatkozás**, Bemutatkozom: 16
+  3. **Amivel hozzám fordulhat**, Mivel fordulhat hozzám?: 8
+  4. **Módszerek**, Alkalmazott módszerek: 7
+  5. Terápia, ár és/vagy családterápia: 7
+  6. Blog, cikkek: 7
+  7. Árak, információ, időpontfoglalás: 7
+  8. **Főoldal** vagy kezdőlap: 6
+  9. stb.
+
+Versenytárs | Előnyök | Hátrányok
+---|---|---
+Lázár Gergely http://gery.hu/ |A vélemények rész nagyon ötletes! Vannak interjúi, videói és cikkei (Youtube, Facebook). Szép ikonok. Pénzvisszafizetési garancia. | Tegeződik. Túl sok önsztárolás. Nincs elég végzettsége hozzá. Nem elég feltűnő a kapcsolat rész. Túl sok szöveg, elég apró betűvel, sorkizárás, egyértelműbbé is tehetné, hogy mely területek kiemeltek
+
+
+
+
+
