@@ -61,18 +61,18 @@ Jane sokféle területtel szeretett volna foglalkozni, beleértve a gyerekekkel 
 
 Ezután mondattam Jane-nel felhasználói történeteket *“Én mint [felhasználó típusa], szeretnék [valamit elérni] azért, hogy [valamilyen okból]”* formában.
 
-Nehézséget jelentett, hogy túl szerteágazóak a kliensek, sokféle problémával küszködnek, és emiatt nehéz általános perszónával lefedni őket. A problémák személyspecifikusak és a megoldás rájuk szintén az. Emiatt inkább a felhasználói történetekből indultam ki, majd hozzájuk rendeltem képeket.
+Nehézséget jelentett, hogy túl szerteágazóak a kliensek, sokféle problémával küszködnek, és emiatt nehéz általános perszónával lefedni őket. A problémák személyspecifikusak és a megoldás rájuk szintén az. Emiatt inkább a felhasználói történetekből indultam ki, majd hozzájuk rendeltem a képeket.
 
 ![Perszónák Jane Doe pszichológus honlapjához](https://dl.dropboxusercontent.com/s/7j2pytghgfy5myd/persz%C3%B3n%C3%A1k1-min.png)
 
-Ennek ellenére megállapítható volt, hogy alapvetően inkább a fiatal felnőtt korosztály lehet fogékony a pszichológiai tanácsadás, veszteségfeldolgozás, stresszkezelés hármas iránt. Méghozzá középosztálybeliek, akik meg tudják fizetni a pszichológust. Ez sajnos igaz.
+Ennek ellenére megállapítható volt, hogy alapvetően inkább a fiatal felnőtt korosztály lehet fogékony a pszichológiai tanácsadás, veszteségfeldolgozás, stresszkezelés hármas iránt. Méghozzá középosztálybeliek, akik meg tudják fizetni a pszichológust.
 
 
 ### Értékajánlat, branding
 
 *Azoknak a középosztálybeli fiatal felnőtteknek,
 akik pszichológus tanácsára szorulnak,
-Tóth Erika pszichológus magánpraxisa
+Jane Doe pszichológus magánpraxisa
 segít rávezetni őket a megoldásra.*
 
 Jane Doe **közvetlen**, **megközelíthető** és **profi** pszichológus.
