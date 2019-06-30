@@ -126,9 +126,9 @@ A drótvázazáshoz az Axure RP 8-at használom diákliszensszel. Az UI designt 
 
 Sajnos kénytelen voltam néhány helyen Lorem Ipsum szöveget használni. Továbbá a [CreativeMarket.com](https://creativemarket.com/) oldalon kerestem képeket a design-hoz.
 
-[Axure RP wireframe]
+* [A drótváz ezen a linken érhető el](https://ouu2o2.axshare.com/#g=1&p=home).
 
-[Figma UI design]
+* [Az UI design ezen a linken érhető el](https://www.figma.com/file/P2XOgxteMM62pzWGb6tmJ9LP/totherika?node-id=23%3A59)
 
 **Felhívom a figyelmet**, hogy ezek csak előzetes design tervek, melyek nincsenek még letesztelve a felhasználókkal! Ha Jane úgy döntene, hogy mégis akarja a honlapot, akkor természetesen el fogom végezni. Mondjuk 2 tesztelés-javítás iteráció elég lenne egy ilyen egyszerű landing page-hez.
 
