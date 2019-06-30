@@ -19,12 +19,12 @@ Az interjú során kiderült, hogy Jane nem csak a gyászfeldolgozással foglalk
 
 Sajnos a lehetséges felhasználókkal nem lehetett interjút készíteni, hiszen etikai szemszögből nem lenne elfogadható, ha az emberek a személyes problémáikról beszéljenek egy idegennek, aki még csak nem is pszichológus. Nem is akarnának.
 
-Jane-t egyébként is korlátozza a titoktartás abban, hogy beszéljen a legutóbbi esetekről részletesen. Ezért úgy éreztem, hogy kicsit általánosabb síkon kellett mozognom a vele folytatott interjú alatt. Viszont Jane pszichológus révén nagyon jól ismeri a hozzá forduló egyének problémáit, rengeteg tapasztalatot szerzett ezen a téren. Teljesen elfogadhatónak tartottam az ő elmondásaira hagyatkozni a tervezés során. Nem befolyásoltam a válaszait, hanem hagytam őt kibontakozni az interjú alatt.
+Jane-t egyébként is korlátozza a titoktartás abban, hogy beszéljen a legutóbbi esetekről részletesen. Ezért úgy éreztem, hogy kicsit általánosabb síkon kellett mozognom a vele folytatott interjú alatt. Viszont Jane pszichológus révén nagyon jól ismeri a hozzá forduló egyének problémáit, rengeteg tapasztalatot szerzett ezen a téren. Teljesen elfogadhatónak tartottam az ő elmondásaira hagyatkozni a tervezés során. Nem befolyásoltam a válaszait, hanem hagytam őt kibontakozni az interjú alatt. Az interjúról hangfelvétel készült.
 
 [Kép 1]
 
 ## A második alkalom
-Brainstorming-gal kezdtük, mely során post-it-ekre írtuk fel az ügyfelek problémáit (beleértve a pszichológusokról alkotott negatív képet). Utána csoportosítottuk a problémákat és mindegyik problémahalmaznak nevet is adtunk. Ezt követően Erikának elsőnek ki kellett választania a három, szerinte legfontosabb problémacsoportot. Végezetül e három csoport közül is meg kellett határoznia a legeslegfontosabbat.
+Brainstorming-gal kezdtük, mely során post-it-ekre írtuk fel az ügyfelek problémáit (beleértve a pszichológusokról alkotott negatív képet). Utána csoportosítottuk a problémákat és mindegyik problémahalmaznak nevet is adtunk. Ezt követően Jane-nek elsőnek ki kellett választania a három, szerinte legfontosabb problémacsoportot. Végezetül e három csoport közül is meg kellett határoznia a legeslegfontosabbat.
 
 [Kép 2]
 
@@ -40,9 +40,9 @@ Brainstorming-gal kezdtük, mely során post-it-ekre írtuk fel az ügyfelek pro
 
 A következő lépésben felírattam vele azokat a területeket, amelyekkel szeretne foglalkozni a magánpraxisában. Utána ezeket fontosság szerinti sorba rendeztettem vele. A prioritás szerinti sorrend:
 
-1. **Veszteségfeldolgozás**
+1. **Veszteségfeldolgozás**
 2. **Krízis intervenció** (később ez Tanácsadásra módosult)
-3. **Stresszkezelés**
+3. **Stresszkezelés**
 4. Karrier és pályatanácsadás
 5. Életvezetési kérdések
 6. Egyéni/csoportos tréningek (autogén, pszichodráma, szoc. készségek)
@@ -58,7 +58,7 @@ Nehézséget jelentett, hogy túl szerteágazóak a kliensek, sokféle problém�
 
 [Kép 3]
 
-Ennek ellenére megállapítható volt, hogy alapvetően inkább a fiatal felnőtt korosztály lehet fogékony a pszichológiai tanácsadás/veszteségfeldolgozás/stresszkezelés iránt. Méghozzá középosztálybeliek, akik meg tudják fizetni a pszichológust.
+Ennek ellenére megállapítható volt, hogy alapvetően inkább a fiatal felnőtt korosztály lehet fogékony a pszichológiai tanácsadás/veszteségfeldolgozás/stresszkezelés iránt. Méghozzá középosztálybeliek, akik meg tudják fizetni a pszichológust. Ez sajnos így igaz.
 
 
 ### Értékajánlat, branding
@@ -66,7 +66,7 @@ Ennek ellenére megállapítható volt, hogy alapvetően inkább a fiatal felnő
 *Azoknak a középosztálybeli fiatal felnőtteknek,
 akik pszichológus tanácsára szorulnak,
 Tóth Erika pszichológus magánpraxisa
-segít rávezetni őket a megoldásra.*
+segít rávezetni őket a megoldásra.*
 
 Jane Doe **közvetlen**, **megközelíthető** és **profi** pszichológus.
 * módszertanilag sokféle
@@ -92,9 +92,17 @@ Néhány összefoglaló statisztikai információt közreadok:
   8. **Főoldal** vagy kezdőlap: 6
   9. stb.
 
-Versenytárs | Előnyök | Hátrányok
----|---|---
-Lázár Gergely http://gery.hu/ |A vélemények rész nagyon ötletes! Vannak interjúi, videói és cikkei (Youtube, Facebook). Szép ikonok. Pénzvisszafizetési garancia. | Tegeződik. Túl sok önsztárolás. Nincs elég végzettsége hozzá. Nem elég feltűnő a kapcsolat rész. Túl sok szöveg, elég apró betűvel, sorkizárás, egyértelműbbé is tehetné, hogy mely területek kiemeltek
+|  Versenytárs                                         | Előnyök                                                                                                                             | Hátrányok                                                                                                                                                                                                                                                                                            |
+| ---------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Lázár Gergely http://gery.hu/                        | A vélemények rész nagyon ötletes! Vannak interjúi, videói és cikkei (Youtube, Facebook). Szép ikonok. Pénzvisszafizetési garancia
+  | Tegeződik. Túl sok önsztárolás. Nincs elég végzettsége hozzá. Nem elég feltűnő a kapcsolat rész. Túl sok szöveg, elég apró betűvel, sorkizárás, egyértelműbbé is tehetné, hogy mely területek kiemeltek                                                                                              |
+| Kiss Anna https://kiss-anna.hu/                      | Szép, terápiás zöld szín, kifejező kép. Jó arckép a pszichológusról                                                                 | Talán túlságosan is nagy a fotója. Accessibility hiba a gombnál (alacsony kontraszt-arány). A bemutatkozás sok, kevésbé releváns infó a felhasználók számára, nem a CV bemutatása a lényeg, az ügyfél az első                                                                                        |
+| Mindset Pszichológia https://mindsetpszichologia.hu/ | A design profi                                                                                                                      | Lila = kreativitás és zöld = nyugtató kombó talán nem jó ide. “Pszichológiai központunkban cikkek, terápia, tanácsadás, tréningek, rendezvények, oktatás és kutatás által segítjük a társadalom és a benne élő egyének fejlődését – a te fejlődésedet.” Túl általánosnak érzem, bár lehet még jó is. |
+| Torma Zita http://tormazita.hu/index.php             | Egyszerű honlap, egészen jó. A felhőanimáció ötletes                                                                                | Túl csajos színek (pasztell), ha a célcsoport döntően nőkből áll, akkor ez teljesen oké.                                                                                                                                                                                                             |
+| Ferles Péter https://ferlespeter.hu/                 | Egész jó design, színek is jók. Adatkezelési tájékoztató van (bár az elhelyezése nem szerencsés)                                    | Középre igazítást ne! Vizuális hierarchia, betővastagság problémák. Néhol zsúfolt (kevés padding).                                                                                                                                                                                                   |
+| Deliága Éva http://gyermekpszichologia.info/         | 10 ezer facebook követő. Sok médiaszereplés.                                                                                        | Bal felső sarok hamburger menü hiba (konvenciók). Margók rosszak, zsúfolt                                                                                                                                                                                                                            |
+| stb.                                                 |                                                                                                                                     |                                                                                                                                                                                                                                                                                                      |
+|                                                      |                                                                                                                                     |                                                                                                                                                                                                                                                                                                      |
 
 
 
