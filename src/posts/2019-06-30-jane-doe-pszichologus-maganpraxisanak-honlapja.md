@@ -20,14 +20,20 @@ Sajnos a lehetséges felhasználókkal nem lehetett interjút készíteni, hisze
 
 Jane-t egyébként is korlátozza a titoktartás abban, hogy beszéljen a legutóbbi esetekről részletesen. Ezért úgy éreztem, hogy kicsit általánosabb síkon kellett mozognom a vele folytatott interjú alatt. Viszont Jane pszichológus révén nagyon jól ismeri a hozzá forduló egyének problémáit, rengeteg tapasztalatot szerzett ezen a téren. Teljesen elfogadhatónak tartottam az ő elmondásaira hagyatkozni a tervezés során. Nem befolyásoltam a válaszait, hanem hagytam őt kibontakozni az interjú alatt. Az interjúról hangfelvétel készült.
 
-[Kép 1]
+### Az interjúnak 3 célkitűzése volt
+
+1. Megtudni, hogy Jane pontosan mely területekkel foglalkozik a pszichológián belül (veszteségfeldolgozás, ??).
+2. Annak kiderítése, hogy kik járnak hozzá.
+3. Feltárni, hogy az első alkalmakkor mire kérdeznek rá a pszichológiai tanácsadással kapcsolatban.
 
 ## A második alkalom
+
 Brainstorming-gal kezdtük, mely során post-it-ekre írtuk fel az ügyfelek problémáit (beleértve a pszichológusokról alkotott negatív képet). Utána csoportosítottuk a problémákat és mindegyik problémahalmaznak nevet is adtunk. Ezt követően Jane-nek elsőnek ki kellett választania a három, szerinte legfontosabb problémacsoportot. Végezetül e három csoport közül is meg kellett határoznia a legeslegfontosabbat.
 
-[Kép 2]
+![A brainstorming eredménye Post-it-eken](https://dl.dropboxusercontent.com/s/zz1hqxf0vpv8q7z/20190429_144032-min.jpg)
 
 ### Az alábbi problémacsoportokat állítottuk fel:
+
 * **Elérhetőség** (a pszichológus személyének megközelíthetősége)
 * **Keretek** (pl. biztonságot ad a kliensnek, magázás fontossága, lemorzsolódás, hatékonyság stb.)
 * **Etika** (pl. titoktartás, adatvédelem, anonimitás stb.)
@@ -46,6 +52,8 @@ A következő lépésben felírattam vele azokat a területeket, amelyekkel szer
 5. Életvezetési kérdések
 6. Egyéni/csoportos tréningek (autogén, pszichodráma, szoc. készségek)
 
+![A témakörök fontossági sorba való rendezése](https://dl.dropboxusercontent.com/s/x0sn2nfpuikkcq4/20190429_145222-min.jpg)
+
 Jane sokféle területtel szeretett volna foglalkozni, beleértve a gyerekekkel foglalkozást, pszichodrámát, csoportos foglalkozásokat stb. Azonban Jane egyszer megemlítette, hogy ő inkább 18 éves kortól felfelé szeretne tanácsadást nyújtani. Itt javasoltam neki, hogy szűkítsük le a célcsoportot a felnőttekre.
 
 
@@ -55,7 +63,9 @@ Ezután mondattam Jane-nel felhasználói történeteket *“Én mint [felhaszn�
 
 Nehézséget jelentett, hogy túl szerteágazóak a kliensek, sokféle problémával küszködnek, és emiatt nehéz általános perszónával lefedni őket. A problémák személyspecifikusak és a megoldás rájuk szintén az. Emiatt inkább a felhasználói történetekből indultam ki, majd hozzájuk rendeltem képeket.
 
-[Kép 3]
+![](https://dl.dropboxusercontent.com/s/7j2pytghgfy5myd/persz%C3%B3n%C3%A1k1-min.png)
+
+![](https://dl.dropboxusercontent.com/s/7j2pytghgfy5myd/persz%C3%B3n%C3%A1k1-min.png)
 
 Ennek ellenére megállapítható volt, hogy alapvetően inkább a fiatal felnőtt korosztály lehet fogékony a pszichológiai tanácsadás/veszteségfeldolgozás/stresszkezelés iránt. Méghozzá középosztálybeliek, akik meg tudják fizetni a pszichológust. Ez sajnos így igaz.
 
@@ -104,7 +114,20 @@ Feltűnt nekem, hogy a pszichológus honlapok tekintélyes részén hiányzott a
 
 ## A negyedik alkalom
 
+Átbeszéltük, hogy milyen információkat szeretnénk a honlapon prezentálni. Kértem Jane-től szövegeket, amiket felhasználok majd a honlapon, beleértve a bemutatkozást, a 3 fő terület (veszteségfeldolgozás, tanácsadás és stresszkezelés) és a módszerek rövid leírását.
+
+Megterveztem az oldal információs architektúráját. Szintén beleástam magamat a GDPR és az adatkezelési tájékoztatók rejtelmeibe, ami igen hasznosnak bizonyult.
+
+Sajnos a későbbiekben Jane elfoglaltsága (és személyes okok) miatt miatt félbemaradt a projekt. Nagy kár érte, mert már a usability tesztelést is tervezgettem előre. Mindenesetre a bonyodalmak után egyedül folytattam a munkát, mert nem szokásom feladni, szükségem van referenciákra a portfóliómhoz. Mindenki elkezdte valahogy a designer pályafutását.
+
+## Egyedül folytatva – Drótvázazás, look&feel, UI design
+
+A drótvázazáshoz az Axure RP 8-at használom diákliszensszel. Az UI designt a Figmával készítettem, amihez ismerek jó pár billentyűkombinációt, így gyorsabban haladok.
+
 [Axure wireframe]
 
 [Figma UI design]
+
+
+*Folytatása következik...*
 
