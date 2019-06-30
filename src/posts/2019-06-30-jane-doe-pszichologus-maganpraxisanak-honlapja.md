@@ -102,32 +102,35 @@ Néhány összefoglaló statisztikai információt közreadok:
   9. stb.
 
 | Versenytárs | Előnyök | Hátrányok                                                                                                                                                                                                                                                                                            | --- | --- | ---
-| Lázár Gergely http://gery.hu/ | A vélemények rész nagyon ötletes! Vannak interjúi, videói és cikkei (Youtube, Facebook). Szép ikonok. Pénzvisszafizetési garancia. | Tegeződik. Túl sok önsztárolás. Nincs elég végzettsége hozzá. Nem elég feltűnő a kapcsolat rész. Túl sok szöveg, elég apró betűvel, sorkizárás, egyértelműbbé is tehetné, hogy mely területek kiemeltek.
-| Kiss Anna https://kiss-anna.hu/ | Szép, terápiás zöld szín, kifejező kép. Jó arckép a pszichológusról. | Talán túlságosan is nagy a fotója. Accessibility hiba a gombnál (alacsony kontraszt-arány). A bemutatkozás sok, kevésbé releváns infó a felhasználók számára, nem a CV bemutatása a lényeg, az ügyfél az első.
-| Mindset Pszichológia https://mindsetpszichologia.hu/ | A design profi | Lila = kreativitás és zöld = nyugtató kombó talán nem jó ide. A zöld gomb kontrasztaránya pocsék (1,99!) „Pszichológiai központunkban cikkek, terápia, tanácsadás, tréningek, rendezvények, oktatás és kutatás által segítjük a társadalom és a benne élő egyének fejlődését – a te fejlődésedet.” Túl általánosnak érzem, bár lehet még jó is.
-| Torma Zita http://tormazita.hu/index.php | Egyszerű honlap, egészen jó. A felhőanimáció ötletes. | Túl csajos színek (pasztell), ha a célcsoport döntően nőkből áll, akkor ez teljesen oké.
-| Ferles Péter https://ferlespeter.hu/ | Tűrhető design, de semmi extra, fapados. Adatkezelési tájékoztató van (bár az elhelyezése nem szerencsés) | Középre igazítást ne! Vizuális hierarchia, betővastagság problémák. Néhol zsúfolt (kevés padding). Nagyon lassan tölt be.
-| Deliága Éva http://gyermekpszichologia.info/ | 10 ezer facebook követő. Sok médiaszereplés. | Bal felső sarok hamburger menü hiba (konvenciók). Margók rosszak, zsúfolt.
+| [Lázár Gergely](http://gery.hu/) | A vélemények rész nagyon ötletes! Vannak interjúi, videói és cikkei (Youtube, Facebook). Szép ikonok. Pénzvisszafizetési garancia. | Tegeződik. Túl sok önsztárolás. Nincs elég végzettsége hozzá. Nem elég feltűnő a kapcsolat rész. Túl sok szöveg, elég apró betűvel, sorkizárás, egyértelműbbé is tehetné, hogy mely területek kiemeltek.
+| [Kiss Anna](https://kiss-anna.hu/) | Szép, terápiás zöld szín, kifejező kép. Jó arckép a pszichológusról. | Talán túlságosan is nagy a fotója. Accessibility hiba a gombnál (alacsony kontraszt-arány). A bemutatkozás sok, kevésbé releváns infó a felhasználók számára, nem a CV bemutatása a lényeg, az ügyfél az első.
+| [Mindset Pszichológia](https://mindsetpszichologia.hu/) | A design profi | Lila = kreativitás és zöld = nyugtató kombó talán nem jó ide. A zöld gomb kontrasztaránya pocsék (1,99!) „Pszichológiai központunkban cikkek, terápia, tanácsadás, tréningek, rendezvények, oktatás és kutatás által segítjük a társadalom és a benne élő egyének fejlődését – a te fejlődésedet.” Túl általánosnak érzem, bár lehet még jó is.
+| [Torma Zita](http://tormazita.hu/index.php) | Egyszerű honlap, egészen jó. A felhőanimáció ötletes. | Túl csajos színek (pasztell), ha a célcsoport döntően nőkből áll, akkor ez teljesen oké.
+| [Ferles Péter](https://ferlespeter.hu/) | Tűrhető design, de semmi extra, fapados. Adatkezelési tájékoztató van (bár az elhelyezése nem szerencsés) | Középre igazítást ne! Vizuális hierarchia, betővastagság problémák. Néhol zsúfolt (kevés padding). Nagyon lassan tölt be.
+| [Deliága Éva](http://gyermekpszichologia.info/) | 10 ezer facebook követő. Sok médiaszereplés. | Bal felső sarok hamburger menü hiba (konvenciók). Margók rosszak, zsúfolt.
 | stb. |  |
 
 Feltűnt nekem, hogy a pszichológus honlapok tekintélyes részén hiányzott az adatkezelési tájékoztató. Ugyanúgy fontos lehet hangsúlyozni a pszichológusok titoktartási kötelezettségeit, hogy könnyebben elnyerhessük az ügyfél bizalmát. Ez különösen fontos a pszichológusokhoz társított negatív kép miatt. Mindazonáltal lehet alapja pszichológusokkal szembeni előítéleteknek, ha pl. valakinek negatív tapasztalatai volt egy pszichológussal. Problémát jelent, hogy az interneten vannak kókler „tanácsadók”, akik nem rendelkeznek olyan végzettséggel, hogy pszichológusnak nevezhetnék magukat.
 
 ## A negyedik alkalom
 
-Átbeszéltük, hogy milyen információkat szeretnénk a honlapon prezentálni. Kértem Jane-től szövegeket, amiket felhasználok majd a honlapon, beleértve a bemutatkozást, a 3 fő terület (veszteségfeldolgozás, tanácsadás és stresszkezelés) és a módszerek rövid leírását.
+Átbeszéltük, hogy milyen információkat szeretnénk a honlapon prezentálni. Kértem Jane-től szövegeket, amiket felhasználok majd a honlapon, beleértve a bemutatkozást, a 3 fő terület (veszteségfeldolgozás, tanácsadás és stresszkezelés) és a módszerek rövid leírását. Plusz egy profi fotót is kértem, hogy csináltasson magáról.
 
 Megterveztem az oldal információs architektúráját. Szintén beleástam magamat a GDPR és az adatkezelési tájékoztatók rejtelmeibe, ami igen hasznosnak bizonyult.
 
-Sajnos a későbbiekben Jane elfoglaltsága (és személyes okok) miatt miatt félbemaradt a projekt. Nagy kár érte, mert már a usability tesztelést is tervezgettem előre. Mindenesetre a bonyodalmak után egyedül folytattam a munkát, mert nem szokásom feladni, szükségem van referenciákra a portfóliómhoz. Mindenki elkezdte valahogy a designer pályafutását.
+Sajnos a későbbiekben Jane elfoglaltsága (és személyes okok) miatt miatt félbemaradt a projekt. Nagy kár érte, mert már a usability tesztelést is tervezgettem. Mindenesetre a bonyodalmak után egyedül folytattam a munkát, mert nem szokásom feladni, szükségem van referenciákra a portfóliómhoz. Mindenki elkezdte valahogy a designer pályafutását.
 
 ## Egyedül folytatva – Drótvázazás, look&feel, UI design
 
 A drótvázazáshoz az Axure RP 8-at használom diákliszensszel. Az UI designt a Figmával készítettem, amihez ismerek jó pár billentyűkombinációt, így gyorsabban haladok.
 
-[Axure wireframe]
+Sajnos kénytelen voltam néhány helyen Lorem Ipsum szöveget használni. Továbbá a [CreativeMarket.com](https://creativemarket.com/) oldalon kerestem képeket a design-hoz.
+
+[Axure RP wireframe]
 
 [Figma UI design]
 
+**Felhívom a figyelmet**, hogy ezek csak előzetes design tervek, melyek nincsenek még letesztelve a felhasználókkal! Ha Jane úgy döntene, hogy mégis akarja a honlapot, akkor természetesen el fogom végezni. Mondjuk 2 tesztelés-javítás iteráció elég lenne egy ilyen egyszerű landing page-hez.
 
-*Folytatása következik...*
+*Folytatása következik (remélhetőleg)...*
 
