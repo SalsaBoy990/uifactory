@@ -101,14 +101,14 @@ Néhány összefoglaló statisztikai információt közreadok:
 
 | Versenytárs | Előnyök | Hátrányok                                                                                                                                                                                                                                                                                            | --- | --- | ---
 | [Lázár Gergely](http://gery.hu/) | A vélemények rész nagyon ötletes! Vannak interjúi, videói és cikkei (Youtube, Facebook). Szép ikonok. Pénzvisszafizetési garancia. | Tegeződik. Túl sok önsztárolás. Nincs elég végzettsége hozzá. Nem elég feltűnő a kapcsolat rész. Túl sok szöveg, elég apró betűvel, sorkizárás, egyértelműbbé is tehetné, hogy mely területek kiemeltek.
-| [Kiss Anna](https://kiss-anna.hu/) | Szép, terápiás zöld szín, kifejező kép. Jó arckép a pszichológusról. | Talán túlságosan is nagy a fotója. Accessibility hiba a gombnál (alacsony kontraszt-arány). A bemutatkozás sok, kevésbé releváns infó a felhasználók számára, nem a CV bemutatása a lényeg, az ügyfél az első.
+| [Kiss Anna](https://kiss-anna.hu/) | Szép, terápiás zöld szín, kifejező kép. Jó arckép a pszichológusról. | Talán túlságosan is nagy a fotója. Accessibility hiba a gombnál (alacsony kontrasztarány). A bemutatkozás sok, kevésbé releváns infó a felhasználók számára, nem a CV bemutatása a lényeg, az ügyfél az első.
 | [Mindset Pszichológia](https://mindsetpszichologia.hu/) | A design profi | Lila = kreativitás és zöld = nyugtató kombó talán nem jó ide. A zöld gomb kontrasztaránya pocsék (1,99!) „Pszichológiai központunkban cikkek, terápia, tanácsadás, tréningek, rendezvények, oktatás és kutatás által segítjük a társadalom és a benne élő egyének fejlődését – a te fejlődésedet.” Túl általánosnak érzem, bár lehet még jó is.
 | [Torma Zita](http://tormazita.hu/index.php) | Egyszerű honlap, egészen jó. A felhőanimáció ötletes. | Túl csajos színek (pasztell), ha a célcsoport döntően nőkből áll, akkor ez teljesen oké.
-| [Ferles Péter](https://ferlespeter.hu/) | Tűrhető design, de semmi extra, fapados. Adatkezelési tájékoztató van (bár az elhelyezése nem szerencsés) | Középre igazítást ne! Vizuális hierarchia, betővastagság problémák. Néhol zsúfolt (kevés padding). Nagyon lassan tölt be.
+| [Ferles Péter](https://ferlespeter.hu/) | Tűrhető design, de semmi extra, fapados. Adatkezelési tájékoztató van (bár az elhelyezése nem szerencsés) | Középre igazítást ne! Vizuális hierarchia, betűvastagság problémák. Néhol zsúfolt (kevés padding). Nagyon lassan tölt be.
 | [Deliága Éva](http://gyermekpszichologia.info/) | 10 ezer facebook követő. Sok médiaszereplés. | Bal felső sarok hamburger menü hiba (konvenciók). Margók rosszak, zsúfolt.
-| stb. |  |
+[Versenytárskutatás: előnyök és hátrányok. Egy részlet.]
 
-Feltűnt nekem, hogy a pszichológus honlapok tekintélyes részén hiányzott az adatkezelési tájékoztató. Ugyanúgy fontos lehet hangsúlyozni a pszichológusok titoktartási kötelezettségeit, hogy könnyebben elnyerhessük az ügyfél bizalmát. Ez különösen fontos a pszichológusokhoz társított negatív kép miatt. Mindazonáltal lehet alapja pszichológusokkal szembeni előítéleteknek, ha pl. valakinek negatív tapasztalatai volt egy pszichológussal. Problémát jelent, hogy az interneten vannak kókler „tanácsadók”, akik nem rendelkeznek olyan végzettséggel, hogy pszichológusnak nevezhetnék magukat.
+Feltűnt nekem, hogy a pszichológus honlapok tekintélyes részén hiányzott az adatkezelési tájékoztató. Ugyanúgy fontos lehet hangsúlyozni a pszichológusok titoktartási kötelezettségeit, hogy könnyebben elnyerhessük az ügyfél bizalmát. Ez különösen fontos a pszichológusokhoz társított negatív kép miatt. Mindazonáltal lehet alapja pszichológusokkal szembeni előítéleteknek, ha például valakinek negatív tapasztalatai voltak egy pszichológussal. Problémát jelent, hogy az interneten vannak kókler „tanácsadók”, akik nem rendelkeznek olyan végzettséggel, hogy pszichológusnak nevezhetnék magukat.
 
 ## A negyedik alkalom
 
@@ -116,7 +116,9 @@ Feltűnt nekem, hogy a pszichológus honlapok tekintélyes részén hiányzott a
 
 Megterveztem az oldal információs architektúráját. Szintén beleástam magamat a GDPR és az adatkezelési tájékoztatók rejtelmeibe, ami igen hasznosnak bizonyult.
 
-Sajnos a későbbiekben Jane elfoglaltsága (és személyes okok) miatt miatt félbemaradt a projekt. Nagy kár érte, mert már a usability tesztelést is tervezgettem. Mindenesetre a bonyodalmak után egyedül folytattam a munkát, mert nem szokásom feladni, szükségem van referenciákra a portfóliómhoz. Mindenki elkezdte valahogy a designer pályafutását.
+User journey-t nem csináltam, mert a pszichológiai tanácsadásnak van egy szakmailag megszabott folyamata, ami a telefonhívással kezdődik. Betekintést azért kaptam Jane-től, mert sokat kérdeztem a tanácsadás menetéről. Még soha az életemben nem vettem részt pszichológiai tanácsadáson. Jane azt is említette, hogy sokan mások ajánlása alapján választanak maguknak pszichológust, akiknek már segített.
+
+Sajnos a későbbiekben Jane elfoglaltsága (és személyes okok) miatt miatt félbemaradt a projekt. Nagy kár érte, mert már a usability tesztelést is tervezgettem. Mindenesetre a bonyodalmak után egyedül folytattam a munkát, mert nem szokásom feladni, szükségem van referenciákra a portfóliómhoz.
 
 ## Egyedül folytatva – Drótvázazás, look&feel, UI design
 
@@ -130,5 +132,5 @@ Sajnos kénytelen voltam néhány helyen Lorem Ipsum szöveget használni. Tová
 
 **Felhívom a figyelmet**, hogy ezek csak előzetes design tervek, melyek nincsenek még letesztelve a felhasználókkal! Ha Jane úgy döntene, hogy mégis akarja a honlapot, akkor természetesen el fogom végezni. Mondjuk 2 tesztelés-javítás iteráció elég lenne egy ilyen egyszerű landing page-hez.
 
-*Folytatása következik (remélhetőleg)...*
+*Folytatása következik...*
 
