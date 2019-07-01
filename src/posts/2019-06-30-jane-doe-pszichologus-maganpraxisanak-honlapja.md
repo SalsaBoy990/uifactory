@@ -137,18 +137,20 @@ A magázásnak fontos szerepe van a tanácsadás során, mert ezek a formális k
 
 A design világos, a színösszetétele színvakbarát és a kontrasztarány mindenhol megfelelő (WCAG 2.1 kompatibilis). A nyugtató, terápiás zöldes-türkizes színt kombináltam a profizmust, komolyságot sugallmazó „sötétkék” színnel, ami egészen feketének hat. A fotón látható modell meleg színe, barátságos megjelenése kontrasztban áll a türkiz és a sötétkék nyugodtságával és hűvösségével.
 
-A tipográfia terén talpatlan betűtípusokat választottam.
+A tipográfia terén talpatlan betűtípusokat választottam. Nekem az „A változat tetszik egy picivel jobban.
 
-* az A változat: **Ubuntu** címsor, **PT Sans** szövegtörzs
-* a B változat: **PT Sans** címsor, **Muli** szövegtörzs
+* az „A” változat: **Ubuntu** címsor, **PT Sans** szövegtörzs
+* a „B” változat: **PT Sans** címsor, **Muli** szövegtörzs
 
 Az Ubuntu kortárs stílusú, precíz, megbízható és szabad szemléletet közvetít. Nagyon jó az olvashatósága, szépek benne a lágyabb ívű geometrikus formák félkövér stílusban. Tetszik az 'l' betű ívelt vége.
 
-A PT Sans egy keskenyebb betűkkel rendelkező (jól látszik ez az o betű tojásdad alakján), modern, humanisztikus betűcsalád. Az ívelt 'l' betű itt is gyönyörű.
+A PT Sans egy keskenyebb betűkkel rendelkező (jól látszik ez az 'o' betű tojásdad alakján), modern, humanisztikus betűcsalád. Az ívelt 'l' betű itt is gyönyörű.
 
 A Muli egy jól olvasható, minimalisztikus talpatlan betűcsalád kifejezetten kijelzőkhöz tervezve. Számomra neutrális, semleges hatású. A PT Sans és a Muli x-magassága (x-height) azonos.
 
 A választott modernebb stílusú betűcsaládok jobban passzolnak a fiatalosabb célcsoport számára. Természetesen szubjektív lehet, hogy kinek melyik tetszik, viszont a legjobb, ha a felhasználónak nem is tűnik fel, hogy milyen betűcsaládokat használtam, hiszen ha feltűnne, akkor nyilvánvalóan az olvashatóságukkal probléma van.
+
+![A kész UI design „A” változata]()
 
 
 
