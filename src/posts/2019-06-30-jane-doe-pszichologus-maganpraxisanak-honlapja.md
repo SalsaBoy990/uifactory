@@ -65,7 +65,7 @@ Nehézséget jelentett, hogy túl szerteágazóak a kliensek, sokféle problém�
 
 ![Perszónák Jane Doe pszichológus honlapjához](https://dl.dropboxusercontent.com/s/7j2pytghgfy5myd/persz%C3%B3n%C3%A1k1-min.png)
 
-Ennek ellenére megállapítható volt, hogy alapvetően inkább a fiatal felnőtt korosztály lehet fogékony a pszichológiai tanácsadás, veszteségfeldolgozás, stresszkezelés hármas iránt. Méghozzá középosztálybeliek, akik meg tudják fizetni a pszichológust.
+Ennek ellenére megállapítható volt, hogy alapvetően inkább a fiatal felnőtt korosztály lehet fogékony a pszichológiai tanácsadás, veszteségfeldolgozás, stresszkezelés hármas iránt. Méghozzá középosztálybeliek, akik meg tudják fizetni a pszichológust. Tájékoztatásul közlöm, hogy a pszichológiai tanácsadás óradíja általában 5.000-8.000 Ft között mozog. Budapesten ez 10.000 felett is lehet.
 
 
 ### Értékajánlat, branding
@@ -122,15 +122,22 @@ Sajnos a későbbiekben Jane elfoglaltsága (és személyes okok) miatt miatt f�
 
 ## Egyedül folytatva – Drótvázazás, look&feel, UI design
 
-A drótvázazáshoz az Axure RP 8-at használom diákliszensszel. Az UI designt a Figmával készítettem, amihez ismerek jó pár billentyűkombinációt, így gyorsabban haladok.
+**Felhívom a figyelmet**, hogy ezek csak előzetes design tervek, melyek nincsenek még letesztelve a felhasználókkal! Ha Jane úgy döntene, hogy mégis akarja a honlapot, akkor természetesen el fogom végezni a teszteket. Talán 2 tesztelés-javítás iteráció elég is lenne egy ilyen egyszerű landing page-hez.
+
+A drótvázazáshoz az Axure RP 8-at használom diákliszensszel. Az UI designt a Figmával készítettem, amihez ismerek jó pár billentyűkombinációt, így gyorsan haladok.
 
 Sajnos kénytelen voltam néhány helyen Lorem Ipsum szöveget használni. Továbbá a [CreativeMarket.com](https://creativemarket.com/) oldalon kerestem képeket a design-hoz.
 
 * [A drótváz ezen a linken érhető el](https://ouu2o2.axshare.com/#g=1&p=home).
 
-* [Az UI design ezen a linken érhető el](https://www.figma.com/file/P2XOgxteMM62pzWGb6tmJ9LP/totherika?node-id=23%3A59)
+* [Az UI design ezen a linken érhető el](https://www.figma.com/file/P2XOgxteMM62pzWGb6tmJ9LP/janeDoePsychologist2019?node-id=0%3A1)
 
-**Felhívom a figyelmet**, hogy ezek csak előzetes design tervek, melyek nincsenek még letesztelve a felhasználókkal! Ha Jane úgy döntene, hogy mégis akarja a honlapot, akkor természetesen el fogom végezni. Mondjuk 2 tesztelés-javítás iteráció elég lenne egy ilyen egyszerű landing page-hez.
+A design világos, a színösszetétele színvakbarát és a kontrasztarány mindenhol megfelelő.
+
+A nyugtató, terápiás zöldes-türkizes színt kombináltam a profizmust, komolyságot sugallmazó "sötétkék" színnel, ami egészen feketének hat. A fotón látható modell meleg színe, barátságos megjelenése kontrasztban áll a türkiz és a sötétkék nyugodtságával és hűvösségével.
+
+Fontos volt a megfelelő hangnem megtalálása
+A magázásnak fontos szerepe van a tanácsadás során, mert ezek a formális keretek biztonságérzést nyújtanak. Igyekeztem megtalálni az egyensúlyt a magázódás és a pszichológus személyének elérhetősége/megközelíthetősége között, amivel oldani szeretném a pszichológusokkal szembeni ellenérzéseket.
 
 *Folytatása következik...*
 
