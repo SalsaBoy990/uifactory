@@ -54,7 +54,7 @@ A következő lépésben felírattam vele azokat a területeket, amelyekkel szer
 
 ![A témakörök fontossági sorba való rendezése](https://dl.dropboxusercontent.com/s/x0sn2nfpuikkcq4/20190429_145222-min.jpg)
 
-Jane sokféle területtel szeretett volna foglalkozni, beleértve a gyerekekkel foglalkozást, pszichodrámát, csoportos foglalkozásokat stb. Azonban Jane egyszer megemlítette, hogy ő inkább 18 éves kortól felfelé szeretne tanácsadást nyújtani. Itt javasoltam neki, hogy szűkítsük le a célcsoportot a felnőttekre.
+Jane sokféle területtel szeretett volna foglalkozni, beleértve a gyerekekkel foglalkozást, pszichodrámát, csoportos foglalkozásokat stb. Azonban egyszer megemlítette, hogy ő inkább 18 éves kortól felfelé szeretne tanácsadást nyújtani. Itt javasoltam neki, hogy szűkítsük le a célcsoportot a felnőttekre.
 
 
 ### Felhasználói történetek és perszónaalkotás
@@ -76,8 +76,8 @@ Jane Doe pszichológus magánpraxisa
 segít rávezetni őket a megoldásra.*
 
 Jane Doe **közvetlen**, **megközelíthető** és **profi** pszichológus.
-* módszertanilag sokféle,
-* spontán, facilitátor,
+* módszertanilag sokféle,
+* spontán, facilitátor,
 * személyében közvetlen.
 
 ## A harmadik alkalom – Versenytárs-kutatás
@@ -104,7 +104,7 @@ Néhány összefoglaló statisztikai információt közreadok:
 | [Kiss Anna](https://kiss-anna.hu/) | Szép, terápiás zöld szín, kifejező kép. Jó arckép a pszichológusról. | Talán túlságosan is nagy a fotója. Accessibility hiba a gombnál (alacsony kontrasztarány). A bemutatkozás sok, kevésbé releváns infó a felhasználók számára, nem a CV bemutatása a lényeg, az ügyfél az első.
 | [Mindset Pszichológia](https://mindsetpszichologia.hu/) | A design profi | Lila = kreativitás és zöld = nyugtató kombó talán nem jó ide. A zöld gomb kontrasztaránya pocsék (1,99!) „Pszichológiai központunkban cikkek, terápia, tanácsadás, tréningek, rendezvények, oktatás és kutatás által segítjük a társadalom és a benne élő egyének fejlődését – a te fejlődésedet.” Túl általánosnak érzem, bár lehet még jó is.
 | [Torma Zita](http://tormazita.hu/index.php) | Egyszerű honlap, egészen jó. A felhőanimáció ötletes. | Túl csajos színek (pasztell), ha a célcsoport döntően nőkből áll, akkor ez teljesen oké.
-| [Ferles Péter](https://ferlespeter.hu/) | Tűrhető design, de semmi extra, fapados. Adatkezelési tájékoztató van (bár az elhelyezése nem szerencsés) | Középre igazítást ne! Vizuális hierarchia, betűvastagság problémák. Néhol zsúfolt (kevés padding). Nagyon lassan tölt be.
+| [Ferles Péter](https://ferlespeter.hu/) | Tűrhető design, de semmi extra. Adatkezelési tájékoztató van (bár az elhelyezése nem szerencsés) | Középre igazítást ne! Vizuális hierarchia, betűvastagság problémák. Néhol zsúfolt (kevés padding). Nagyon lassan tölt be.
 | [Deliága Éva](http://gyermekpszichologia.info/) | 10 ezer facebook követő. Sok médiaszereplés. | Bal felső sarok hamburger menü hiba (konvenciók). Margók rosszak, zsúfolt.
 [Versenytárskutatás: előnyök és hátrányok. Egy részlet.]
 
@@ -116,28 +116,44 @@ Feltűnt nekem, hogy a pszichológus honlapok tekintélyes részén hiányzott a
 
 Megterveztem az oldal információs architektúráját. Szintén beleástam magamat a GDPR és az adatkezelési tájékoztatók rejtelmeibe, ami igen hasznosnak bizonyult.
 
-User journey-t nem csináltam, mert a pszichológiai tanácsadásnak van egy szakmailag megszabott folyamata, ami a telefonhívással kezdődik. Betekintést azért kaptam Jane-től, mert sokat kérdeztem a tanácsadás menetéről. Még soha az életemben nem vettem részt pszichológiai tanácsadáson. Jane azt is említette, hogy sokan mások ajánlása alapján választanak maguknak pszichológust, akiknek már segített.
+User journey-t nem csináltam, mert a pszichológiai tanácsadásnak van egy szakmailag megszabott folyamata, ami a telefonhívással kezdődik. Betekintést azért kaptam Jane-től, mert sokat kérdeztem a tanácsadás menetéről. Még soha az életemben nem vettem részt pszichológiai tanácsadáson. Jane azt is említette, hogy sokan mások ajánlása alapján választanak maguknak pszichológust, akiknek már segítséget nyújtott.
 
 Sajnos a későbbiekben Jane elfoglaltsága (és személyes okok) miatt miatt félbemaradt a projekt. Nagy kár érte, mert már a usability tesztelést is tervezgettem. Mindenesetre a bonyodalmak után egyedül folytattam a munkát, mert nem szokásom feladni, szükségem van referenciákra a portfóliómhoz.
 
 ## Egyedül folytatva – Drótvázazás, look&feel, UI design
 
-**Felhívom a figyelmet**, hogy ezek csak előzetes design tervek, melyek nincsenek még letesztelve a felhasználókkal! Ha Jane úgy döntene, hogy mégis akarja a honlapot, akkor természetesen el fogom végezni a teszteket. Talán 2 tesztelés-javítás iteráció elég is lenne egy ilyen egyszerű landing page-hez.
+**Felhívom a figyelmet**, hogy ezek csak előzetes design tervek, melyek nincsenek még letesztelve a felhasználókkal! Ha Jane úgy döntene, hogy mégis akarja a honlapot, akkor természetesen el fogom végezni a teszteket a szürkeárnyalatos drótvázon. Talán 2 tesztelés-javítás iteráció elég is lenne egy ilyen egyszerű landing page-hez.
 
-A drótvázazáshoz az Axure RP 8-at használom diákliszensszel. Az UI designt a Figmával készítettem, amihez ismerek jó pár billentyűkombinációt, így gyorsan haladok.
+A drótvázazáshoz az Axure RP 8-at használom diákliszensszel. Az UI design-okat a Figmával készítem, amihez megjegyeztem a billentyűkombinációkat, így gyorsan haladok.
 
-Sajnos kénytelen voltam néhány helyen Lorem Ipsum szöveget használni. Továbbá a [CreativeMarket.com](https://creativemarket.com/) oldalon kerestem képeket a design-hoz.
+Sajnos kénytelen voltam néhány helyen Lorem Ipsum szöveget használni a hiányos információs architektúra miatt. Továbbá a [CreativeMarket.com](https://creativemarket.com/) oldalon kerestem képeket a design-hoz.
 
 * [A drótváz ezen a linken érhető el](https://ouu2o2.axshare.com/#g=1&p=home).
 
 * [Az UI design ezen a linken érhető el](https://www.figma.com/file/P2XOgxteMM62pzWGb6tmJ9LP/janeDoePsychologist2019?node-id=0%3A1)
 
-A design világos, a színösszetétele színvakbarát és a kontrasztarány mindenhol megfelelő.
-
-A nyugtató, terápiás zöldes-türkizes színt kombináltam a profizmust, komolyságot sugallmazó "sötétkék" színnel, ami egészen feketének hat. A fotón látható modell meleg színe, barátságos megjelenése kontrasztban áll a türkiz és a sötétkék nyugodtságával és hűvösségével.
-
 Fontos volt a megfelelő hangnem megtalálása
-A magázásnak fontos szerepe van a tanácsadás során, mert ezek a formális keretek biztonságérzést nyújtanak. Igyekeztem megtalálni az egyensúlyt a magázódás és a pszichológus személyének elérhetősége/megközelíthetősége között, amivel oldani szeretném a pszichológusokkal szembeni ellenérzéseket.
+A magázásnak fontos szerepe van a tanácsadás során, mert ezek a formális keretek biztonságérzést, kontrollérzetet nyújtanak a kliens számára. Igyekeztem megtalálni az egyensúlyt a magázódás és a pszichológus személyének elérhetősége/megközelíthetősége között, amivel oldani szeretném a pszichológusokkal szembeni ellenérzéseket.
+
+A design világos, a színösszetétele színvakbarát és a kontrasztarány mindenhol megfelelő (WCAG 2.1 kompatibilis). A nyugtató, terápiás zöldes-türkizes színt kombináltam a profizmust, komolyságot sugallmazó „sötétkék” színnel, ami egészen feketének hat. A fotón látható modell meleg színe, barátságos megjelenése kontrasztban áll a türkiz és a sötétkék nyugodtságával és hűvösségével.
+
+A tipográfia terén talpatlan betűtípusokat választottam.
+
+* az A változat: **Ubuntu** címsor, **PT Sans** szövegtörzs
+* a B változat: **PT Sans** címsor, **Muli** szövegtörzs
+
+Az Ubuntu kortárs stílusú, precíz, megbízható és szabad szemléletet közvetít. Nagyon jó az olvashatósága, szépek benne a lágyabb ívű geometrikus formák félkövér stílusban. Tetszik az 'l' betű ívelt vége.
+
+A PT Sans egy keskenyebb betűkkel rendelkező (jól látszik ez az o betű tojásdad alakján), modern, humanisztikus betűcsalád. Az ívelt 'l' betű itt is gyönyörű.
+
+A Muli egy jól olvasható, minimalisztikus talpatlan betűcsalád kifejezetten kijelzőkhöz tervezve. Számomra neutrális, semleges hatású. A PT Sans és a Muli x-magassága (x-height) azonos.
+
+A választott modernebb stílusú betűcsaládok jobban passzolnak a fiatalosabb célcsoport számára. Természetesen szubjektív lehet, hogy kinek melyik tetszik, viszont a legjobb, ha a felhasználónak nem is tűnik fel, hogy milyen betűcsaládokat használtam, hiszen ha feltűnne, akkor nyilvánvalóan az olvashatóságukkal probléma van.
+
+
+
+
+
 
 *Folytatása következik...*
 
