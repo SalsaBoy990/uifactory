@@ -1,7 +1,7 @@
 ---
 title: Jane Doe pszichológus magánpraxisának honlapja
 date: '2019-06-30'
-thumbnail: y.jpg
+thumbnail: jane_doe_pszichologus_honlap_2019.jpg
 excerpt: >-
   „Jane Doe” magánpraxisban is szeretné, hogy menjenek hozzá kliensek
   pszichológiai segítségnyújtásra, amihez szüksége volt egy honlapra.
@@ -150,12 +150,7 @@ A Muli egy jól olvasható, minimalisztikus talpatlan betűcsalád kifejezetten 
 
 A választott modernebb stílusú betűcsaládok jobban passzolnak a fiatalosabb célcsoport számára. Természetesen szubjektív lehet, hogy kinek melyik tetszik, viszont a legjobb, ha a felhasználónak nem is tűnik fel, hogy milyen betűcsaládokat használtam, hiszen ha feltűnne, akkor nyilvánvalóan az olvashatóságukkal probléma van.
 
-![A kész UI design „A” változata]()
-
-
-
-
-
+![A kész UI design „A” változata](https://dl.dropboxusercontent.com/s/4yl24eeypntt0gj/Final%20final%20version%20B.png)
 
 *Folytatása következik...*
 
