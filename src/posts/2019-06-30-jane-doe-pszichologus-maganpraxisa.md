@@ -1,5 +1,5 @@
 ---
-title: Jane Doe pszichológus magánpraxisának honlapja
+title: Jane Doe pszichológus magánpraxisa
 date: '2019-06-30'
 thumbnail: jane_doe_pszichologus_honlap_2019.jpg
 excerpt: >-
@@ -18,7 +18,8 @@ Az interjú során kiderült, hogy Jane nem csak a gyászfeldolgozással foglalk
 
 Sajnos a lehetséges felhasználókkal nem lehetett interjút készíteni, hiszen etikai szemszögből nem lenne elfogadható, ha az emberek a személyes problémáikról beszéljenek egy idegennek, aki még csak nem is pszichológus. Nem is akarnának.
 
-Jane-t egyébként is korlátozza a titoktartás abban, hogy beszéljen a legutóbbi esetekről részletesen. Ezért úgy éreztem, hogy kicsit általánosabb síkon kellett mozognom a vele folytatott interjú alatt. Viszont Jane pszichológus révén nagyon jól ismeri a hozzá forduló egyének problémáit, rengeteg tapasztalatot szerzett ezen a téren. Teljesen elfogadhatónak tartottam az ő elmondásaira hagyatkozni a tervezés során. Nem befolyásoltam a válaszait, hanem hagytam őt kibontakozni az interjú alatt. Az interjúról hangfelvétel készült.
+Jane-t egyébként is korlátozza a titoktartás abban, hogy beszéljen a legutóbbi esetekről részletesen. Ezért úgy éreztem, hogy kicsit általánosabb síkon kellett mozognom a vele folytatott interjú alatt. Viszont Jane pszichológus révén nagyon jól ismeri a hozzá forduló egyének problémáit, rengeteg tapasztalatot szerzett ezen a téren. Teljesen elfogadhatónak tartottam az ő elmondásaira hagyatkozni a tervezés során. Nem befolyásoltam a válaszait, hanem hagytam őt kibontakozni az interjú alatt.
+ Az interjúról hangfelvétel készült.
 
 ### Az interjúnak 3 célkitűzése volt:
 
@@ -28,7 +29,7 @@ Jane-t egyébként is korlátozza a titoktartás abban, hogy beszéljen a legut�
 
 ## A második alkalom
 
-Brainstorming-gal kezdtük, mely során post-it-ekre írtuk fel az ügyfelek problémáit (beleértve a pszichológusokról alkotott negatív képet). Utána csoportosítottuk a problémákat és mindegyik problémahalmaznak nevet is adtunk. Ezt követően Jane-nek elsőnek ki kellett választania a három, szerinte legfontosabb problémacsoportot. Végezetül e három csoport közül is meg kellett határoznia a legeslegfontosabbat.
+Brainstorming-gal kezdtük, mely során post-it-ekre írtuk fel az ügyfelek problémáit. Utána csoportosítottuk a problémákat és mindegyik problémahalmaznak nevet is adtunk. Ezt követően Jane-nek elsőnek ki kellett választania a három, szerinte legfontosabb problémacsoportot. Végezetül e három csoport közül is meg kellett határoznia a legeslegfontosabbat.
 
 ![A brainstorming eredménye post-it-eken](https://dl.dropboxusercontent.com/s/zz1hqxf0vpv8q7z/20190429_144032-min.jpg)
 
@@ -99,7 +100,8 @@ Néhány összefoglaló statisztikai információt közreadok:
   8. **Főoldal** vagy kezdőlap: 6
   9. stb.
 
-| Versenytárs | Előnyök | Hátrányok                                                                                                                                                                                                                                                                                            | --- | --- | ---
+| Versenytárs | Előnyök | Hátrányok                                                                                                                                                                                                                                                                                            |
+ --- | --- | ---
 | [Lázár Gergely](http://gery.hu/) | A vélemények rész nagyon ötletes! Vannak interjúi, videói és cikkei (Youtube, Facebook). Szép ikonok. Pénzvisszafizetési garancia. | Tegeződik. Túl sok önsztárolás. Nincs elég végzettsége hozzá. Nem elég feltűnő a kapcsolat rész. Túl sok szöveg, elég apró betűvel, sorkizárás, egyértelműbbé is tehetné, hogy mely területek kiemeltek.
 | [Kiss Anna](https://kiss-anna.hu/) | Szép, terápiás zöld szín, kifejező kép. Jó arckép a pszichológusról. | Talán túlságosan is nagy a fotója. Accessibility hiba a gombnál (alacsony kontrasztarány). A bemutatkozás sok, kevésbé releváns infó a felhasználók számára, nem a CV bemutatása a lényeg, az ügyfél az első.
 | [Mindset Pszichológia](https://mindsetpszichologia.hu/) | A design profi | Lila = kreativitás és zöld = nyugtató kombó talán nem jó ide. A zöld gomb kontrasztaránya pocsék (1,99!) „Pszichológiai központunkban cikkek, terápia, tanácsadás, tréningek, rendezvények, oktatás és kutatás által segítjük a társadalom és a benne élő egyének fejlődését – a te fejlődésedet.” Túl általánosnak érzem, bár lehet még jó is.
@@ -108,7 +110,7 @@ Néhány összefoglaló statisztikai információt közreadok:
 | [Deliága Éva](http://gyermekpszichologia.info/) | 10 ezer facebook követő. Sok médiaszereplés. | Bal felső sarok hamburger menü hiba (konvenciók). Margók rosszak, zsúfolt.
 [Versenytárskutatás: előnyök és hátrányok. Egy részlet.]
 
-Feltűnt nekem, hogy a pszichológus honlapok tekintélyes részén hiányzott az adatkezelési tájékoztató. Ugyanúgy fontos lehet hangsúlyozni a pszichológusok titoktartási kötelezettségeit, hogy könnyebben elnyerhessük az ügyfél bizalmát. Ez különösen fontos a pszichológusokhoz társított negatív kép miatt. Mindazonáltal lehet alapja pszichológusokkal szembeni előítéleteknek, ha például valakinek negatív tapasztalatai voltak egy pszichológussal. Problémát jelent, hogy az interneten vannak kókler „tanácsadók”, akik nem rendelkeznek olyan végzettséggel, hogy pszichológusnak nevezhetnék magukat.
+Feltűnt nekem, hogy a pszichológus honlapok tekintélyes részén hiányzott az adatkezelési tájékoztató. Ugyanúgy fontos lehet hangsúlyozni a pszichológusok titoktartási kötelezettségét, hogy könnyebben elnyerhessük az ügyfél bizalmát. Ez különösen fontos a pszichológusokhoz társított negatív kép miatt. Mindazonáltal lehet alapja pszichológusokkal szembeni előítéleteknek, ha például valakinek negatív tapasztalatai voltak egy pszichológussal. Problémát jelent, hogy az interneten vannak kókler „tanácsadók”, akik nem rendelkeznek olyan végzettséggel, hogy pszichológusnak nevezhetnék magukat.
 
 ## A negyedik alkalom
 
@@ -124,7 +126,11 @@ Sajnos a későbbiekben Jane elfoglaltsága (és személyes okok) miatt miatt f�
 
 **Felhívom a figyelmet**, hogy ezek csak előzetes design tervek, melyek nincsenek még letesztelve a felhasználókkal! Ha Jane úgy döntene, hogy mégis akarja a honlapot, akkor természetesen el fogom végezni a teszteket a szürkeárnyalatos drótvázon. Talán 2 tesztelés-javítás iteráció elég is lenne egy ilyen egyszerű landing page-hez.
 
-A drótvázazáshoz az Axure RP 8-at használom diákliszensszel. Az UI design-okat a Figmával készítem, amihez megjegyeztem a billentyűkombinációkat, így gyorsan haladok.
+Mindig papíron kezdek el tervezni filctollal. Mindig ötleteléssel kezdek, majd miután összeállt az elképzelésem, megrajzolom papíron az egész design-t (low fidelity sketch). És csak útán kezdek el digitálisan dolgozni.
+
+![A papíron elkészített egyik designtervem](https://dl.dropboxusercontent.com/s/jl9r908t6n8879n/20190701_145243-min.jpg)
+
+A drótvázazáshoz az Axure RP 8-at használom diákliszensszel. Az UI design-okat a Figmával készítem.
 
 Sajnos kénytelen voltam néhány helyen Lorem Ipsum szöveget használni a hiányos információs architektúra miatt. Továbbá a [CreativeMarket.com](https://creativemarket.com/) oldalon kerestem képeket a design-hoz.
 
@@ -133,14 +139,15 @@ Sajnos kénytelen voltam néhány helyen Lorem Ipsum szöveget használni a hiá
 * [Az UI design ezen a linken érhető el](https://www.figma.com/file/P2XOgxteMM62pzWGb6tmJ9LP/janeDoePsychologist2019?node-id=0%3A1)
 
 Fontos volt a megfelelő hangnem megtalálása
-A magázásnak fontos szerepe van a tanácsadás során, mert ezek a formális keretek biztonságérzést, kontrollérzetet nyújtanak a kliens számára. Igyekeztem megtalálni az egyensúlyt a magázódás és a pszichológus személyének elérhetősége/megközelíthetősége között, amivel oldani szeretném a pszichológusokkal szembeni ellenérzéseket.
+A magázásnak fontos szerepe van a tanácsadás során, mert ezek a formális keretek biztonságérzést, kontrollérzetet nyújtanak a kliens számára. Igyekeztem megtalálni az egyensúlyt a magázódás és a pszichológus személyének elérhetősége vagy megközelíthetősége között, amivel oldani szeretném a pszichológusokkal szembeni ellenérzéseket.
 
 A design világos, a színösszetétele színvakbarát és a kontrasztarány mindenhol megfelelő (WCAG 2.1 kompatibilis). A nyugtató, terápiás zöldes-türkizes színt kombináltam a profizmust, komolyságot sugallmazó „sötétkék” színnel, ami egészen feketének hat. A fotón látható modell meleg színe, barátságos megjelenése kontrasztban áll a türkiz és a sötétkék nyugodtságával és hűvösségével.
 
-A tipográfia terén talpatlan betűtípusokat választottam. Nekem az „A változat tetszik egy picivel jobban.
+A tipográfia terén talpatlan betűtípusokat választottam. Nekem a „B” változat tetszik egy picivel jobban.
 
-* az „A” változat: **Ubuntu** címsor, **PT Sans** szövegtörzs
-* a „B” változat: **PT Sans** címsor, **Muli** szövegtörzs
+* az „A” változat: **PT Sans** címsor, **Muli** szövegtörzs
+* a „B” változat: **Ubuntu** címsor, **PT Sans** szövegtörzs
+
 
 Az Ubuntu kortárs stílusú, precíz, megbízható és szabad szemléletet közvetít. Nagyon jó az olvashatósága, szépek benne a lágyabb ívű geometrikus formák félkövér stílusban. Tetszik az 'l' betű ívelt vége.
 
@@ -148,9 +155,9 @@ A PT Sans egy keskenyebb betűkkel rendelkező (jól látszik ez az 'o' betű to
 
 A Muli egy jól olvasható, minimalisztikus talpatlan betűcsalád kifejezetten kijelzőkhöz tervezve. Számomra neutrális, semleges hatású. A PT Sans és a Muli x-magassága (x-height) azonos.
 
-A választott modernebb stílusú betűcsaládok jobban passzolnak a fiatalosabb célcsoport számára. Természetesen szubjektív lehet, hogy kinek melyik tetszik, viszont a legjobb, ha a felhasználónak nem is tűnik fel, hogy milyen betűcsaládokat használtam, hiszen ha feltűnne, akkor nyilvánvalóan az olvashatóságukkal probléma van.
+A választott modernebb stílusú betűcsaládok jobban passzolnak a fiatalosabb célcsoport számára. Természetesen szubjektív lehet, hogy kinek melyik tetszik, viszont a legjobb, ha a felhasználónak nem is tűnik fel, hogy milyen betűcsaládokat használtam.
 
-![A kész UI design „A” változata](https://dl.dropboxusercontent.com/s/4yl24eeypntt0gj/Final%20final%20version%20B.png)
+![A kész UI design „B” változata](https://dl.dropboxusercontent.com/s/4yl24eeypntt0gj/Final%20final%20version%20B.png)
 
 *Folytatása következik...*
 

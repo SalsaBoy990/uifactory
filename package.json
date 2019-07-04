@@ -78,7 +78,7 @@
     "url": "git+https://github.com/SalsaBoy990/static-site-express.git"
   },
   "scripts": {
-    "sass:build": "node-sass --include-path ./src/assets/stylesheet/ ./scss/main.scss ./src/assets/stylesheet/main.css",
+    "sass": "node-sass --include-path ./src/assets/stylesheet/ ./scss/main.scss ./src/assets/stylesheet/main.css",
     "build": "node ./lib/build.js",
     "heroku": "node ./lib/build.js && node ./lib/serve.js",
     "serve": "node ./lib/serve.js",
