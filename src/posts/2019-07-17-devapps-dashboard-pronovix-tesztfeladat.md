@@ -14,7 +14,7 @@ Elsőnek a feladat angol nyelvű leírását adom meg, utána bemutatom a design
 ### Task description:
 We’d like to replan the layout of the Developer Apps table.
 
-![Developer Apps table](assets/images/design/developer_apps_table.png)
+![Developer Apps table](/assets/images/design/developer_apps_table.png)
 
 This is one page of a complex web based portal.
 
