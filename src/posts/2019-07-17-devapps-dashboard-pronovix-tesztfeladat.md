@@ -43,7 +43,7 @@ To demonstrate your plan we’d like to ask you to create a wireframe.
 
 Mindig papíron kezdek el tervezni filctollal. 8 perces brainstorming session-nel kezdek, de nem szoktam az időt olyan szigorúan betartani, néha dupla annyi ideig gondolkodok. Szoktam ötleteket venni más designerek munkáiból, melyek fent vannak a Dribbble és hasonló oldalakon.
 
-Készítettem egy világos és egy sötét designtervet is.
+Készítettem egy világos és egy sötét designtervet is. A megfelelő kontrasztarányokra mindenhol ügyeltem.
 
 * Elsőként fogtam gombot és levittem a lista aljára, hogy ott lehessen hozzáadni app-ot. Ugyanúgy 70px magas, mint a listában szereplő sorok.
 
