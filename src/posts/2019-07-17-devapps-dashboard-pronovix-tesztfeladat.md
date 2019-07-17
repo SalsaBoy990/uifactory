@@ -60,3 +60,8 @@ Készítettem egy világos és egy sötét designtervet is. A megfelelő kontras
 Még több dolgon is gondolkodni kell: pl. milyen sorrendben jelenjenek meg az app-ok a listában? Lehet az utolsó módosítás szerint sorbarendezni, valamint az állapot szerint.
 
 Elsőként mindenképpen állapot szerint rendeznék sorba: legfelül a „revoked”, utána a „pending”, és végül az „approved” állapot. Másodlagos rendezésként pedig a módosítás dátuma szerint raknám sorba az app-okat, hogy mindig a legaktuálisabb legyen felül.
+
+![DevAppsLight designterv](https://dl.dropboxusercontent.com/s/9a6rx413e4p57gl/DevAppsLight.png)
+
+![DevAppsDark designterv](https://dl.dropboxusercontent.com/s/n96o3vjtbf7t7ez/DevAppsDark.png)
+
