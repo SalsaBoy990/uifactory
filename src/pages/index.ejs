@@ -41,6 +41,8 @@
                   <span class="badge badge-secondary white min-size normal">vezérlőpult</span>
                   <% } else if (postsDataForIndexPage[i].type === 'bc') { %>
                   <span class="badge badge-secondary white min-size normal">névjegykártya</span>
+                  <% } else if (postsDataForIndexPage[i].type === 'drawing') { %>
+                    <span class="badge badge-secondary white min-size normal">rajz</span>
                   <% } else { %>
                   <span class="badge badge-secondary white min-size normal">
                     <%= postsDataForIndexPage[i].type %></span>
