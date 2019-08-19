@@ -122,7 +122,7 @@ h4,
 h5,
 h6 {
   font-family: "IBM Plex Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-weight: 700;
+  font-weight: 700 !important;
   color: #21263C;
   margin: 2rem 0 1.5rem 0;
   -webkit-font-smoothing: initial;
@@ -674,6 +674,9 @@ tr:nth-child(even) {
 .border-full {
   border: 1px solid #999; }
 
+.border-full-white {
+  border: 1px solid #D7DAE1; }
+
 .img-border {
   border: 2px solid #ff6600; }
 
@@ -963,14 +966,14 @@ textarea {
 
 @media (max-width: 992px) {
   .m-mt1 {
-    margin-top: 1.5rem !important; } }
+    margin-top: 1.5rem !important; }
+  .mobile-hide-nav {
+    display: none; } }
 
 @media (max-width: 768px) {
   .mx-responsive {
     margin-left: 33px !important;
     margin-right: 33px !important; }
-  .mobile-hide-nav {
-    display: none; }
   .m-pl0 {
     padding-left: 0 !important; }
   .profile {
@@ -1059,7 +1062,7 @@ textarea {
 
 .nav-pills .nav-link.active, .nav-pills .show > .nav-link {
   color: #fff;
-  background-color: #D61438; }
+  background-color: #EF163E; }
 
 .nav-link {
   display: block;
@@ -1085,3 +1088,9 @@ textarea {
 
 .dropdown-item {
   color: #47545d; }
+
+.mt70px {
+  margin-top: 70px; }
+
+.border-radius-0-7 {
+  border-radius: 0px 7px; }

@@ -2,30 +2,33 @@
   <div class="bg-dark-honeycombs">
     <div class="container-fluid pl0 pr0 ">
       <div class="row mx-responsive p0">
-        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 p0 mt1">
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6 col-xl-5 p0 mt1">
           <a id="kapcsolat"></a>
           <a href="/" class="no-underline">
-            <img class="logo m0 unselectable left mr-7px m-ml0" style="margin-left: -37px" src="/assets/images/logo.png" alt="UIfactory">
+            <img class="logo m0 unselectable left mr-7px m-ml0" style="margin-left: -37px" src="/assets/images/logo.png"
+              alt="UIfactory">
             <h1 class="footer-title m0 almost-white bold-700 mbhalf">UIfactory</h1>
           </a>
           <p class="m0 pb1 hawkes-blue expanded sans-serif ml0">Gulácsi András design portfóliója</p>
+          <section class="mt-62px">
+            <a href="<%= linkedin %>" class="midnight-express btn bg-hawkes-blue uppercase no-underline min-size m-extra-small bold-700 expanded mb1 linkedin-link mrhalf m-mrquarter">LinkedIn</a>
+            <a href="<%= email %>" class="white btn bg-torch-red-2 uppercase no-underline min-size m-extra-small btn-text bold-700 expanded mb1 mrhalf m-mrquarter">E-mail</a>
+            <a href="<%= cv %>" class="white btn bg-torch-red-2 uppercase no-underline min-size m-extra-small btn-text bold-700 expanded mb1">CV
+              (PDF)</a>
+          </section>
         </div>
-      </div>
-      <div class="row mx-responsive p0">
-        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-7 col-xl-7 p0 mt-62px">
-          <a href="<%= linkedin %>" class="midnight-express btn bg-hawkes-blue uppercase no-underline min-size m-extra-small bold-700 expanded mb1 linkedin-link mrhalf m-mrquarter">LinkedIn</a>
-          <a href="<%= email %>" class="white btn bg-torch-red-2 uppercase no-underline min-size m-extra-small btn-text bold-700 expanded mb1 mrhalf m-mrquarter">E-mail</a>
-          <a href="<%= cv %>" class="white btn bg-torch-red-2 uppercase no-underline min-size m-extra-small btn-text bold-700 expanded mb1">CV (PDF)</a>
-        </div>
-      </div>
-        
-      </div>
-      <div class="mx-responsive">
-        <div class="col-lg-5 col-xl-4 p0">
-          <p class="m0 mt1 pb1 min-size light italic hawkes-blue sans-serif expanded">&copy; <%= site.currentYear %> <%= site.author %>. Minden jog fenntartva.</h3>
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6 col-xl-5 p0 mt0">
+          <img class="border-full-white border-radius-0-7" src="/assets/images/gulacsi_andras_nevjegykartya.jpg" alt="A névjegykártyám">
         </div>
       </div>
     </div>
+    <div class="mx-responsive">
+      <div class="col-lg-5 col-xl-4 p0">
+        <p class="m0 mt1 pb1 min-size light italic hawkes-blue sans-serif expanded">&copy;
+          <%= site.currentYear %>
+          <%= site.author %>. Minden jog fenntartva.</h3>
+      </div>
+    </div>
+  </div>
   </div>
 </footer>
-  

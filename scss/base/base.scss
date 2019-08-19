@@ -194,7 +194,7 @@ h4,
 h5,
 h6 {
     font-family: $heading-font;
-    font-weight: 700;
+    font-weight: 700 !important;
     color: $midnight-express;
     margin: 2rem 0 $baseline 0;
     -webkit-font-smoothing: initial;
@@ -906,6 +906,10 @@ tr:nth-child(even) {
   border: 1px solid #999
 }
 
+.border-full-white {
+  border: 1px solid $hawkes-blue;
+}
+
 .img-border {
   border: 2px solid #ff6600
 }
@@ -1269,15 +1273,16 @@ border-radius: 0px 7px;
   .m-mt1 {
     margin-top: margin-size(1) !important;
   }
+
+  .mobile-hide-nav {
+    display:none;
+  }
 }
 
 @media (max-width: 768px) {
     .mx-responsive {
         margin-left: 33px !important;
         margin-right: 33px !important;
-    }
-    .mobile-hide-nav {
-      display:none;
     }
 
     .m-pl0 {
@@ -1440,7 +1445,7 @@ border-radius: 0px 7px;
 
 .nav-pills .nav-link.active, .nav-pills .show>.nav-link {
   color: #fff;
-  background-color: $torch-red-2;
+  background-color: $torch-red;
 }
 
 .nav-link {
@@ -1472,4 +1477,12 @@ border-radius: 0px 7px;
 
 .dropdown-item {
   color: $san-juan
+}
+
+.mt70px {
+  margin-top: 70px;
+}
+
+.border-radius-0-7 {
+  border-radius: 0px 7px
 }
