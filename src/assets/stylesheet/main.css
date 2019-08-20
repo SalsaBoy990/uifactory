@@ -185,7 +185,7 @@ ul {
   list-style-type: none;
   margin-left: 0rem;
   padding-left: 0;
-  line-height: 1.1; }
+  line-height: 1.7; }
 
 blockquote {
   font-style: italic;
@@ -711,7 +711,7 @@ a:focus, a:hover {
 
 .white-link {
   color: #fff !important;
-  text-decoration: none !important; }
+  text-decoration: none; }
 
 .white-link:hover, .white-link:active, .white-link:focus {
   transition: ease-in 0.3s;
@@ -733,12 +733,12 @@ a:focus, a:hover {
 
 .black-link {
   color: #333C42 !important;
-  text-decoration: none; }
+  text-decoration: underline; }
 
 .black-link:hover, .black-link:active {
   transition: ease-in 0.3s;
   color: #000;
-  text-decoration: underline; }
+  text-decoration: none; }
 
 /*
 a:visited {
@@ -977,7 +977,7 @@ textarea {
   .m-pl0 {
     padding-left: 0 !important; }
   .profile {
-    width: 45% !important;
+    width: 60% !important;
     height: auto !important; }
   .m-mt0 {
     margin-top: 0 !important; } }
@@ -1047,7 +1047,7 @@ textarea {
     margin-left: 18px !important;
     margin-right: 18px !important; }
   .profile {
-    width: 50% !important;
+    width: 80% !important;
     height: auto !important; }
   .logo {
     height: 25px !important;

@@ -9,9 +9,10 @@ module.exports = {
     description: 'UI/UX designer-nek tanulok és munkát keresek UI designer pozícióba.',
     currentYear: new Date().getFullYear(),
     google_analytics: 'UA-136754581-1',
-    linkedin: 'https://www.linkedin.com/in/andr%C3%A1s-gul%C3%A1csi-2a8503184/',
+    linkedin: 'https://www.linkedin.com/in/andr%C3%A1s-gul%C3%A1csi/',
     email: 'mailto:gulandras90@gmail.com',
     cv: 'https://www.docdroid.net/QnUORxI/gulacsi-andras-oneletrajz-2018.pdf',
+    facebook: 'https://www.facebook.com/uifactoryportfolio',
     workflow: 'https://www.dropbox.com/s/qkwffh3zkrpeodl/UX_folyamat_Gul%C3%A1csi_Andr%C3%A1s.docx?dl=0'
   }
 }
