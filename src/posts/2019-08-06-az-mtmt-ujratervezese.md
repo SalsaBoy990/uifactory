@@ -7,7 +7,7 @@ excerpt: >-
 type: dashboard
 ---
 
-Mondhatnánk az MTMT felülete a felhasználói élmény antitézise: milliónyi gomb összevisszasága, végletekig bonyolított keresés, apró hangyafasznyi betűméret (látszik, hogy bele akartak zsúfolni mindent egy képernyőbe), vizuális hierarchia gyatra, a design is úgy néz ki, mintha két évtizeddel ezelőtt készült volna. Amatőr munka.
+Mondhatnánk az MTMT felülete a felhasználói élmény antitézise: milliónyi gomb összevisszasága, végletekig bonyolított keresés, apró hangyányi betűméret (látszik, hogy bele akartak zsúfolni mindent egy képernyőbe), vizuális hierarchia gyatra, a design is úgy néz ki, mintha két évtizeddel ezelőtt készült volna. Amatőr munka.
 
 ![Az MTMT2 jelenlegi felülete (80%-os nagyításban, mert a monitoromon nem férne ki)](/assets/images/design/mtmt2_eredeti.png)
 
