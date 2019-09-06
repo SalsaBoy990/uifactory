@@ -24,7 +24,7 @@ Tegyük fel, hogy az UX kutatók arra az eredményre jutottak, hogy egy NaptárA
 
 A regisztráció és az onboarding folyamatáról most nem ejtek szót.
 
-A mobil kijelzőjén korlátozott hely van, ezért inkább a listanézetet találtam jobb megoldásnak. Nem lehet belepasszírozni a hét napot egymás mellé.
+A mobil kijelzőjén korlátozott hely van, ezért inkább a listanézetet találtam jobb megoldásnak. Nem lehet bepasszírozni a hét napot egymás mellé.
 
 ### Tennivalók oldal
 
@@ -36,9 +36,9 @@ Az app tennivalók oldalán **3 fül**et csináltam:
 
 ![Tennivalók oldal, aktuális fül](/assets/images/design/naptarapp/aktualisTab.png){.medium-img}
 
-Úgy gondoltam, hogy az emberek számára általában **a következő napok a legfontosabbak, így ezeket kell elsőként látniuk.** Utána időben haladunk távolabb, az egy hét felé, majd ha hosszabb távú tervekről beszélünk, akkor a naptár nézet jön be. A felosztás helyességét le kell tesztelni. Meg kel találni a megfelelő időtartamot a megjelenítéshez. Lehet, hogy nem 3, hanem 5 vagy 7 nap mutatására van szükség. Az is lehet, hogy a három közül valamelyik fül ki is esik. 
+Úgy gondoltam, hogy az emberek számára általában **a következő napok a legfontosabbak, így ezeket kell elsőként látniuk.** Utána időben haladunk távolabb, az egy hét felé, majd ha hosszabb távú tervekről beszélünk, akkor a naptár nézet jön be. A felosztás helyességét le kell tesztelni. Meg kell találni a megfelelő időtartamot a megjelenítéshez. Lehet, hogy nem 3, hanem 5 vagy 7 nap mutatására van szükség. Az is lehet, hogy a három közül valamelyik fül ki is esik. 
 
-További tesztelni való, hogy **az aktuális tabon a lokális vagy a globális hozzáadás gombot használják inkább** a felhasználók. A naracssárga globális hozzáadás gomb a **FAB** (floating action button) mintázatot követi, ami jól ismert pl. a Gmail levelező app-nál. Lehetne A/B tesztelést is végezni: pl. az egyik változatban hiányzik a lokális vagy a globális hozzáadás gomb. Kérdés, hogy hiányolják-e majd valamelyiket?
+További tesztelni való, hogy **az aktuális tabon a lokális vagy a globális hozzáadás gombot használják inkább** a felhasználók. A narancssárga globális hozzáadás gomb a **FAB** (floating action button) mintázatot követi, ami jól ismert pl. a Gmail levelező app-nál. Lehetne A/B tesztelést is végezni: pl. az egyik változatban hiányzik a lokális vagy a globális hozzáadás gomb. Kérdés, hogy hiányolják-e majd valamelyiket?
 
 ![Aktuális fül: a globális hozzáadás menete](/assets/images/design/naptarapp/globalisHozzaadasAktivTab.png)
 
