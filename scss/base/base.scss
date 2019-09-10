@@ -858,6 +858,12 @@ img {
   border-radius: 0px 7px;
 }
 
+.profile-img {
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+}
+
 .medium-img {
   width: 50%;
 }
@@ -1241,24 +1247,33 @@ border-radius: 0px 7px;
 
 
 /* MEDIA QUERIES */
-@media (min-width: 60rem) {
+@media (min-width: 1500px) {
 
 }
 
 @media (max-width: 1800px) {
     .mx-responsive {
-        margin-left: 125px !important;
-        margin-right: 125px !important;
+        margin-left: margin-size(5) !important;
+        margin-right: margin-size(5) !important
     }
 }
 
 @media (min-width: 1441px) {
+  body, html {
+    font-size: 26px;;
+  }
+  .mx-responsive {
+    margin-left: margin-size(7) !important;
+    margin-right: margin-size(7) !important
+}
 }
 
 @media (max-width: 1440px) {
     .mx-responsive {
-        margin-left: 66px !important;
-        margin-right: 66px !important;
+      margin-left: margin-size(5) !important;
+      margin-right: margin-size(5) !important
+        /*margin-left: 66px !important;
+        margin-right: 66px !important;*/
     }
 }
 
@@ -1268,8 +1283,8 @@ border-radius: 0px 7px;
 
 @media (max-width: 1024px) {
     .mx-responsive {
-        margin-left: 50px !important;
-        margin-right: 50px !important;
+        margin-left: margin-size(3) !important;
+        margin-right: margin-size(3) !important
     }
 }
 
@@ -1285,8 +1300,8 @@ border-radius: 0px 7px;
 
 @media (max-width: 768px) {
     .mx-responsive {
-        margin-left: 33px !important;
-        margin-right: 33px !important;
+      margin-left: margin-size(2) !important;
+      margin-right: margin-size(2) !important
     }
 
     .m-pl0 {
@@ -1483,8 +1498,8 @@ border-radius: 0px 7px;
   color: $san-juan
 }
 
-.mt70px {
-  margin-top: 70px;
+.mt96px {
+  margin-top: 96px;
 }
 
 .border-radius-0-7 {

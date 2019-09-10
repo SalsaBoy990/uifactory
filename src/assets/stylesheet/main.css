@@ -629,6 +629,11 @@ img {
 .profile {
   border-radius: 0px 7px; }
 
+.profile-img {
+  border-radius: 50%;
+  width: 150px;
+  height: 150px; }
+
 .medium-img {
   width: 50%; }
 
@@ -954,18 +959,25 @@ textarea {
 /* MEDIA QUERIES */
 @media (max-width: 1800px) {
   .mx-responsive {
-    margin-left: 125px !important;
-    margin-right: 125px !important; } }
+    margin-left: 7.5rem !important;
+    margin-right: 7.5rem !important; } }
+
+@media (min-width: 1441px) {
+  body, html {
+    font-size: 26px; }
+  .mx-responsive {
+    margin-left: 10.5rem !important;
+    margin-right: 10.5rem !important; } }
 
 @media (max-width: 1440px) {
   .mx-responsive {
-    margin-left: 66px !important;
-    margin-right: 66px !important; } }
+    margin-left: 7.5rem !important;
+    margin-right: 7.5rem !important; } }
 
 @media (max-width: 1024px) {
   .mx-responsive {
-    margin-left: 50px !important;
-    margin-right: 50px !important; } }
+    margin-left: 4.5rem !important;
+    margin-right: 4.5rem !important; } }
 
 @media (max-width: 992px) {
   .m-mt1 {
@@ -975,8 +987,8 @@ textarea {
 
 @media (max-width: 768px) {
   .mx-responsive {
-    margin-left: 33px !important;
-    margin-right: 33px !important; }
+    margin-left: 3rem !important;
+    margin-right: 3rem !important; }
   .m-pl0 {
     padding-left: 0 !important; }
   .profile {
@@ -1092,8 +1104,8 @@ textarea {
 .dropdown-item {
   color: #47545d; }
 
-.mt70px {
-  margin-top: 70px; }
+.mt96px {
+  margin-top: 96px; }
 
 .border-radius-0-7 {
   border-radius: 0px 7px; }

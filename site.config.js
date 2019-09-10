@@ -14,6 +14,7 @@ module.exports = {
     cv: 'https://www.docdroid.net/YIFs1FI/gulacsi-andras-resume-2019.pdf',
     facebook: 'https://www.facebook.com/uifactoryportfolio',
     facebook_app_id: '424772158245419',
+    behance: 'https://www.behance.net/guland7a4a',
     workflow: 'https://www.dropbox.com/s/qkwffh3zkrpeodl/UX_folyamat_Gul%C3%A1csi_Andr%C3%A1s.docx?dl=0'
   }
 }
