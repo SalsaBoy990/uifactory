@@ -12,7 +12,7 @@ This blogpost will be a part of a series in which I will show you a design and d
 There are two distinct approaches when it comes to websites:
 
 1. either you build a **static website**,
-2. or a **dynamic website** (generally an application).
+2. or a **dynamic website**.
 
 I will cover the first one here. Generally, you need to use some kind of a **static site generator** (SSG) to generate your website into a specific folder. You need a way to effectively manage your posts, various assets and files.
 
@@ -84,6 +84,7 @@ Netlify will automatically install Node.js and your npm packages listed in your 
 
 ## Documentation
 
+Check out my [project's website](https://static-site-express.netlify.com/) and [GitHub repository](https://github.com/SalsaBoy990/static-site-express) for more details.
 
 ### Install static-site-express
 
