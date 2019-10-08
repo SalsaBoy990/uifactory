@@ -21,8 +21,8 @@ collections:
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - {label: "Design item name", name: "title", widget: "string"}
-      - {label: "Publication date", name: "date", widget: "string"}
-      - {label: "Thumbnail image with extension", name: "thumbnail", widget: "string"}
-      - {label: "Short description", name: "excerpt", widget: "string"}
-      - {label: "Type (website, banner, bc)", name: "type", widget: "string"}
-      - {label: "The presentation of my design item", name: "body", widget: "markdown"}
+      - {label: "Publication date", name: "date", widget: "date", format: 'YYYY-MM-DD'}
+      - {label: "Thumbnail image", name: "thumbnail", widget: "image", default: '/src/assets/images/uifactory_cover.jpg'}
+      - {label: "Short description", name: "excerpt", widget: "text"}
+      - {label: "Type", name: "type", widget: "select",  options: ['blog', 'businesscard', 'dashboard', 'drawing', 'webapp', 'website']}
+      - {label: "The presentation of my design item/blogpost", name: "body", widget: "markdown"}

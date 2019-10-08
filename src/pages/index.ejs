@@ -3,39 +3,45 @@
   <h2 class="h2 mt3 mbhalf">Munkáim</h2>
   <ul class="nav nav-pills mb2 mt0" id="pills-tab" role="tablist">
     <li class="nav-item mrquarter mbhalf">
-      <a class="nav-link active sans-serif uppercase extra-small no-underline border-gray bg-hawkes-blue" id="pills-all-tab"
-        data-toggle="pill" href="#pills-all" role="tab" aria-controls="pills-all" aria-selected="true">Összes</a>
+      <a class="nav-link active sans-serif uppercase extra-small no-underline border-gray bg-hawkes-blue"
+        id="pills-all-tab" data-toggle="pill" href="#pills-all" role="tab" aria-controls="pills-all"
+        aria-selected="true">Összes</a>
     </li>
     <li class="nav-item mrquarter mbhalf">
-      <a class="nav-link sans-serif uppercase extra-small no-underline border-gray bg-hawkes-blue" id="pills-website-tab"
-        data-toggle="pill" href="#pills-website" role="tab" aria-controls="pills-website" aria-selected="false">Honlap</a>
+      <a class="nav-link sans-serif uppercase extra-small no-underline border-gray bg-hawkes-blue"
+        id="pills-website-tab" data-toggle="pill" href="#pills-website" role="tab" aria-controls="pills-website"
+        aria-selected="false">Honlap</a>
     </li>
     <li class="nav-item mrquarter mbhalf">
       <a class="nav-link sans-serif uppercase extra-small no-underline border-gray bg-hawkes-blue" id="pills-webapp-tab"
         data-toggle="pill" href="#pills-webapp" role="tab" aria-controls="pills-webapp" aria-selected="false">Webapp</a>
     </li>
     <li class="nav-item mrquarter mbhalf">
-      <a class="nav-link sans-serif uppercase extra-small no-underline border-gray bg-hawkes-blue" id="pills-dashboard-tab"
-        data-toggle="pill" href="#pills-dashboard" role="tab" aria-controls="pills-dashboard" aria-selected="false">Vezérlőpult</a>
+      <a class="nav-link sans-serif uppercase extra-small no-underline border-gray bg-hawkes-blue"
+        id="pills-dashboard-tab" data-toggle="pill" href="#pills-dashboard" role="tab" aria-controls="pills-dashboard"
+        aria-selected="false">Vezérlőpult</a>
     </li>
     <li class="nav-item mrquarter mbhalf">
-      <a class="nav-link sans-serif uppercase extra-small no-underline border-gray bg-hawkes-blue" id="pills-businesscard-tab"
-        data-toggle="pill" href="#pills-businesscard" role="tab" aria-controls="pills-businesscard" aria-selected="false">Névjegykártya</a>
+      <a class="nav-link sans-serif uppercase extra-small no-underline border-gray bg-hawkes-blue"
+        id="pills-businesscard-tab" data-toggle="pill" href="#pills-businesscard" role="tab"
+        aria-controls="pills-businesscard" aria-selected="false">Névjegykártya</a>
     </li>
     <li class="nav-item">
-      <a class="nav-link sans-serif uppercase extra-small no-underline border-gray bg-hawkes-blue" id="pills-drawing-tab"
-        data-toggle="pill" href="#pills-drawing" role="tab" aria-controls="pills-drawing" aria-selected="false">Rajz</a>
+      <a class="nav-link sans-serif uppercase extra-small no-underline border-gray bg-hawkes-blue"
+        id="pills-drawing-tab" data-toggle="pill" href="#pills-drawing" role="tab" aria-controls="pills-drawing"
+        aria-selected="false">Rajz</a>
     </li>
   </ul>
 </div>
-<div class="tab-content" id="pills-tabContent">
+<div class="tab-content" id="pills-tabusinesscardontent">
   <div class="tab-pane fade show active" id="pills-all" role="tabpanel" aria-labelledby="pills-all-tab">
-    <% for (var i = 0, j = 0; i < postsDataForIndexPage.length; i++) { %>
-    <% if (postsDataForIndexPage[i].type !== 'blog') { %>
     <div class="row m0 p0">
-      <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10 col-xl-10 mt0 mb2 p0 m0">
+      <% for (var i = 0, j = 0; i < postsDataForIndexPage.length; i++) { %>
+      <% if (postsDataForIndexPage[i].type !== 'blog') { %>
+
+      <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 mt0 mb2 p0 m0">
         <article>
-          <div class="bg-light-gray border-shadow border-gray-4 plhalf prhalf pbhalf mb1">
+          <div class="bg-light-gray border-shadow border-gray-4 plhalf prhalf pbhalf mb1 mhalf">
             <h3 class="h3 mb1 mthalf"><a href="<%= postsDataForIndexPage[i].pathToPost %>">
                 <%= postsDataForIndexPage[i].title %></a>
               <% if (postsDataForIndexPage[i].type === 'website') { %>
@@ -44,7 +50,7 @@
               <span class="badge badge-secondary white min-size normal">webapp</span>
               <% } else if (postsDataForIndexPage[i].type === 'dashboard') { %>
               <span class="badge badge-secondary white min-size normal">vezérlőpult</span>
-              <% } else if (postsDataForIndexPage[i].type === 'bc') { %>
+              <% } else if (postsDataForIndexPage[i].type === 'businesscard') { %>
               <span class="badge badge-secondary white min-size normal">névjegykártya</span>
               <% } else if (postsDataForIndexPage[i].type === 'drawing') { %>
               <span class="badge badge-secondary white min-size normal">rajz</span>
@@ -63,18 +69,19 @@
           </div>
         </article>
       </div>
+
+      <% } %>
+      <% } %>
     </div>
-    <% } %>
-    <% } %>
   </div>
 
   <div class="tab-pane fade" id="pills-website" role="tabpanel" aria-labelledby="pills-website-tab">
-    <% for (var i = 0, count = 0; i < postsDataForIndexPage.length; i++) { %>
-    <% if (postsDataForIndexPage[i].type === 'website') { %>
     <div class="row m0 p0">
-      <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10 col-xl-10 mt0 mb2 p0 m0">
+      <% for (var i = 0, count = 0; i < postsDataForIndexPage.length; i++) { %>
+      <% if (postsDataForIndexPage[i].type === 'website') { %>
+      <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 mt0 mb2 p0 m0">
         <article>
-          <div class="bg-light-gray border-shadow border-gray-4 plhalf prhalf pbhalf mb1">
+          <div class="bg-light-gray border-shadow border-gray-4 plhalf prhalf pbhalf mrhalf mlhalf mb1 m-mx-0">
             <h3 class="h3 mb1 mthalf"><a href="<%= postsDataForIndexPage[i].pathToPost %>">
                 <%= postsDataForIndexPage[i].title %></a>
               <span class="badge badge-secondary white min-size normal">honlap</span>
@@ -89,22 +96,22 @@
           </div>
         </article>
       </div>
+      <% count = count + 1; %>
+      <% } %>
+      <% } %>
+      <% if (count === 0) { %>
+      <p class="mb2 m-mxhalf">Még nincs feltöltve design ebből a kategóriából. :(</p>
+      <% } %>
     </div>
-    <% count = count + 1; %>
-    <% } %>
-    <% } %>
-    <% if (count === 0) { %>
-    <p class="mb2 m-mxhalf">Még nincs feltöltve design ebből a kategóriából. :(</p>
-    <% } %>
   </div>
 
   <div class="tab-pane fade" id="pills-webapp" role="tabpanel" aria-labelledby="pills-webapp-tab">
-    <% for (var i = 0, count = 0; i < postsDataForIndexPage.length; i++) { %>
-    <% if (postsDataForIndexPage[i].type === 'webapp') { %>
     <div class="row m0 p0">
-      <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10 col-xl-10 mt0 mb2 p0 m0">
+      <% for (var i = 0, count = 0; i < postsDataForIndexPage.length; i++) { %>
+      <% if (postsDataForIndexPage[i].type === 'webapp') { %>
+      <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 mt0 mb2 p0 m0">
         <article>
-          <div class="bg-light-gray border-shadow border-gray-4 plhalf prhalf pbhalf mb1">
+          <div class="bg-light-gray border-shadow border-gray-4 plhalf prhalf pbhalf mrhalf mlhalf mb1 m-mx-0">
             <h3 class="h3 mb1 mthalf"><a href="<%= postsDataForIndexPage[i].pathToPost %>">
                 <%= postsDataForIndexPage[i].title %></a>
               <span class="badge badge-secondary white min-size normal">webapp</span>
@@ -119,22 +126,22 @@
           </div>
         </article>
       </div>
+      <% count = count + 1; %>
+      <% } %>
+      <% } %>
+      <% if (count === 0) { %>
+      <p class="mb2 m-mxhalf">Még nincs feltöltve design ebből a kategóriából. :(</p>
+      <% } %>
     </div>
-    <% count = count + 1; %>
-    <% } %>
-    <% } %>
-    <% if (count === 0) { %>
-    <p class="mb2 m-mxhalf">Még nincs feltöltve design ebből a kategóriából. :(</p>
-    <% } %>
   </div>
 
   <div class="tab-pane fade" id="pills-dashboard" role="tabpanel" aria-labelledby="pills-dashboard-tab">
-    <% for (var i = 0, count = 0; i < postsDataForIndexPage.length; i++) { %>
-    <% if (postsDataForIndexPage[i].type === 'dashboard') { %>
     <div class="row m0 p0">
-      <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10 col-xl-10 mt0 mb2 p0 m0">
+      <% for (var i = 0, count = 0; i < postsDataForIndexPage.length; i++) { %>
+      <% if (postsDataForIndexPage[i].type === 'dashboard') { %>
+      <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 mt0 mb2 p0 m0">
         <article>
-          <div class="bg-light-gray border-shadow border-gray-4 plhalf prhalf pbhalf mb1">
+          <div class="bg-light-gray border-shadow border-gray-4 plhalf prhalf pbhalf mrhalf mlhalf mb1 m-mx-0">
             <h3 class="h3 mb1 mthalf"><a href="<%= postsDataForIndexPage[i].pathToPost %>">
                 <%= postsDataForIndexPage[i].title %></a>
               <span class="badge badge-secondary white min-size normal">vezérlőpult</span>
@@ -149,22 +156,24 @@
           </div>
         </article>
       </div>
+
+      <% count = count + 1; %>
+      <% } %>
+      <% } %>
+      <% if (count === 0) { %>
+      <p class="mb2 m-mxhalf">Még nincs feltöltve design ebből a kategóriából. :(</p>
+      <% } %>
     </div>
-    <% count = count + 1; %>
-    <% } %>
-    <% } %>
-    <% if (count === 0) { %>
-    <p class="mb2 m-mxhalf">Még nincs feltöltve design ebből a kategóriából. :(</p>
-    <% } %>
   </div>
 
   <div class="tab-pane fade" id="pills-businesscard" role="tabpanel" aria-labelledby="pills-businesscard-tab">
-    <% for (var i = 0, count = 0; i < postsDataForIndexPage.length; i++) { %>
-    <% if (postsDataForIndexPage[i].type === 'bc') { %>
     <div class="row m0 p0">
-      <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10 col-xl-10 mt0 mb2 p0 m0">
+      <% for (var i = 0, count = 0; i < postsDataForIndexPage.length; i++) { %>
+      <% if (postsDataForIndexPage[i].type === 'businesscard') { %>
+
+      <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 mt0 mb2 p0 m0">
         <article>
-          <div class="bg-light-gray border-shadow border-gray-4 plhalf prhalf pbhalf mb1">
+          <div class="bg-light-gray border-shadow border-gray-4 plhalf prhalf pbhalf mrhalf mlhalf mb1 m-mx-0">
             <h3 class="h3 mb1 mthalf"><a href="<%= postsDataForIndexPage[i].pathToPost %>">
                 <%= postsDataForIndexPage[i].title %></a>
               <span class="badge badge-secondary white min-size normal">névjegykártya</span>
@@ -179,22 +188,24 @@
           </div>
         </article>
       </div>
+
+      <% count = count + 1; %>
+      <% } %>
+      <% } %>
+      <% if (count === 0) { %>
+      <p class="mb2 m-mxhalf">Még nincs feltöltve design ebből a kategóriából. :(</p>
+      <% } %>
     </div>
-    <% count = count + 1; %>
-    <% } %>
-    <% } %>
-    <% if (count === 0) { %>
-    <p class="mb2 m-mxhalf">Még nincs feltöltve design ebből a kategóriából. :(</p>
-    <% } %>
   </div>
 
   <div class="tab-pane fade" id="pills-drawing" role="tabpanel" aria-labelledby="pills-drawing-tab">
-    <% for (var i = 0, count = 0; i < postsDataForIndexPage.length; i++) { %>
-    <% if (postsDataForIndexPage[i].type === 'drawing') { %>
     <div class="row m0 p0">
-      <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10 col-xl-10 mt0 mb2 p0 m0">
+      <% for (var i = 0, count = 0; i < postsDataForIndexPage.length; i++) { %>
+      <% if (postsDataForIndexPage[i].type === 'drawing') { %>
+
+      <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 mt0 mb2 p0 m0">
         <article>
-          <div class="bg-light-gray border-shadow border-gray-4 plhalf prhalf pbhalf mb1">
+          <div class="bg-light-gray border-shadow border-gray-4 plhalf prhalf pbhalf mrhalf mlhalf mb1 m-mx-0">
             <h3 class="h3 mb1 mthalf"><a href="<%= postsDataForIndexPage[i].pathToPost %>">
                 <%= postsDataForIndexPage[i].title %></a>
               <span class="badge badge-secondary white min-size normal">rajz</span>
@@ -209,12 +220,13 @@
           </div>
         </article>
       </div>
+
+      <% count = count + 1; %>
+      <% } %>
+      <% } %>
+      <% if (count === 0) { %>
+      <p class="mb2 m-mxhalf">Még nincs feltöltve design ebből a kategóriából. :(</p>
+      <% } %>
     </div>
-    <% count = count + 1; %>
-    <% } %>
-    <% } %>
-    <% if (count === 0) { %>
-    <p class="mb2 m-mxhalf">Még nincs feltöltve design ebből a kategóriából. :(</p>
-    <% } %>
   </div>
 </div>
