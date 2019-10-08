@@ -5,6 +5,9 @@ backend:
 # This line should *not* be indented
 publish_mode: editorial_workflow
 
+site_url: https://uifactory.design
+logo_url: https://uifactory.design/assets/images/logo.png
+
 # These lines should *not* be indented
 media_folder: "src/assets/images/design/" # Media files will be stored in the repo under static/images/design
 public_folder: "/assets/images/design/" # The src attribute for uploaded media will begin with /images/design
@@ -26,3 +29,4 @@ collections:
       - {label: "Short description", name: "excerpt", widget: "text"}
       - {label: "Type", name: "type", widget: "select",  options: ['blog', 'businesscard', 'dashboard', 'drawing', 'webapp', 'website']}
       - {label: "The presentation of my design item/blogpost", name: "body", widget: "markdown"}
+
