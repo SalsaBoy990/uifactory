@@ -48,7 +48,7 @@ debug: false // Set debug to true if you want to inspect the dropdown
 });
 </script>
 ````
-This script invokes the `docsearch()` function with an object literal containing properties as an argument.
+This script invokes the `docsearch()` function with an object literal containing properties as an argument. (One side note: that API key is a search-only API key which can be used safely on the frontend. [See the Algolia docs about security](https://www.algolia.com/doc/guides/security/api-keys/).)
 
 This project will be updated continously. Check out [the project's website](https://cat-design-system.netlify.com) if you are interested.
 
