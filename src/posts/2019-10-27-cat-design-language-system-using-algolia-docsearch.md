@@ -16,7 +16,7 @@ CAT is based on three pillars:
 
 [The CAT website](https://cat-design-system.netlify.com/) is completely a static one and is made with my static site generator called ['static-site-express'](https://static-site-express.netlify.com/).
 
-The search functionality and a customizable UI theme for it is kindly provided by [Algolia / DocSearch](). DocSearch is free to use and for open source projects only, mainly for API or other documentation. Thank you guys and gals @Algolia and @DocSearch! Great Developer Experience.
+The search functionality and a customizable UI theme for it is kindly provided by [Algolia / DocSearch](https://community.algolia.com/docsearch/). DocSearch is free to use and for open source projects only, mainly for API or other documentation. Thank you guys and gals @Algolia and @DocSearch! Great Developer Experience.
 
 Let's take a look at [how easy it is to 'install' DocSearch for your website](https://community.algolia.com/docsearch/how-does-it-work.html#you-apply):
 
@@ -28,14 +28,11 @@ Let's take a look at [how easy it is to 'install' DocSearch for your website](ht
 
 ````
 <!-- at the end of the HEAD -->
-<link rel="stylesheet"
-href="https://cdn.jsdelivr.net/npm/docsearch.js@2/dist/cdn/docsearch.min.css" />
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsearch.js@2/dist/cdn/docsearch.min.css" />
 ````
 
 ````
-<input id="docsearch" class="form-control mr-sm-2"
-type="search" placeholder="Search for..."
-aria-label="Search for">
+<input id="docsearch" class="form-control mr-sm-2" type="search" placeholder="Search for..." aria-label="Search for">
 ````
 
 ````
@@ -45,8 +42,7 @@ aria-label="Search for">
 apiKey: '80f5f598e83f70ff70762ae1b54836e6',
 indexName: 'cat-design-system',
 inputSelector: '### REPLACE ME ####',
-debug: false
-// Set debug to true if you want to inspect the dropdown
+debug: false // Set debug to true if you want to inspect the dropdown
 });
 </script>
 ````
