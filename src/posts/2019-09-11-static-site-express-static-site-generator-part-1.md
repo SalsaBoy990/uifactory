@@ -73,7 +73,7 @@ My first encounter with static site generators was around 2017. I found [the blo
 
 After that, I switched to using the [Netlify cloud platform](https://www.netlify.com/). Netlify is a San Francisco-based cloud computing company that offers hosting and serverless backend services for static websites. At that time, I was wondering what if I could use a custom-made SSG to build my static site using Netlify. It turned out it is easy to do: just need to tell Netlify the build command (the script to run) and the name of your folder to where your site is generated. Just create a configuration file with the name and extension in the root of your website: `netlify.toml`, and set these properties:
 
-````
+````toml
 [build]
   base    = "/"
   publish = "public"
@@ -137,7 +137,7 @@ The `site.config.js` file contains some of the site properties (like site title,
 
 - The `netlify.toml` configuration file contains important properties:
 
-````raw
+````toml
 [build]
   base    = "/"
   publish = "public"
