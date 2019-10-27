@@ -1,5 +1,5 @@
 ---
-title: Implement search for a static docs website with Algolia / DocSearch
+title: Implement search for my static documentation website with Algolia / DocSearch
 date: '2019-10-27'
 thumbnail: /assets/images/design/tiger_cover_min.jpg
 excerpt: >-
