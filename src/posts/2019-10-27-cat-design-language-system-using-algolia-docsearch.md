@@ -46,7 +46,7 @@ debug: false // Set debug to true if you want to inspect the dropdown
 });
 </script>
 ````
-
+This script invokes the `docsearch()` function with an object literal containing properties as an argument.
 
 This project will be updated continously. Check out the project's website if you are interested.
 
