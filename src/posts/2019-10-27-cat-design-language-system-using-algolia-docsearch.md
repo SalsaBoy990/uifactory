@@ -14,11 +14,11 @@ CAT is based on three pillars:
 - Adaptibility (to the newest trends, open to new ideas, concepts, and innovations)
 - Timelessness Design (combine common sense with adaptibility to be always up-to-date)
 
-[The CAT website](https://cat-design-system.netlify.com/) is completely a static one and is made with my static site generator called ['static-site-express'](https://static-site-express.netlify.com/).
+[The CAT website](https://cat-design-system.netlify.com/) is completely a static one and is made with my static site generator called [“static-site-express”](https://static-site-express.netlify.com/).
 
 The search functionality and a customizable UI theme for it is kindly provided by [Algolia / DocSearch](https://community.algolia.com/docsearch/). DocSearch is free to use and for open source projects only, mainly for API or other documentation. Thank you guys and gals @Algolia and @DocSearch! Great Developer Experience.
 
-Let's take a look at [how easy it is to 'install' DocSearch for your website](https://community.algolia.com/docsearch/how-does-it-work.html#you-apply):
+Let's take a look at [how easy it is to “install” DocSearch for your website](https://community.algolia.com/docsearch/how-does-it-work.html#you-apply):
 
 1. You need to apply for DocSearch by [filling out the form on this page](https://community.algolia.com/docsearch/apply.html). They will double check that you qualify.
 
