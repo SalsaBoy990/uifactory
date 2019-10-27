@@ -15,7 +15,7 @@ Időközben újracsináltam a design munkámat, amely megtekinthető a [Béhance
 
 Itt nem végeztem semmilyen UX kutatást, ez csupán egy egyszerű UI design munka volt. A honlap színvilágán alig változtattam, sokkal inkább az oldal szerkezetén és az információs architektúrán kellett dolgoznom.
 
-A legnagyobb problémának a tartalom priorizálásának hiányát, a redundáns linkeket és a túl sok szöveget, információhalmazt, ami a felhasználóra zúdul.
+A legnagyobb problémának tartom a tartalom priorizálásának hiányát, a redundáns linkeket és a túl sok szöveget, információhalmazt, ami a felhasználóra zúdul.
 
 ![A LovelyVeg honlap jelenlegi változata. A honlap címe: [https://lovelyveg.hu/](https://lovelyveg.hu/)](/assets/images/design/lovelyveg_eredeti.png)
 
@@ -25,6 +25,9 @@ A vállalkozó ismerősöm több éve kezdett el a vegán életmóddal, sütéss
 Az újratervezés során ezért pontosan erre helyeztem a hangsúlyt. A szöveget lecsökkentettem, képeket és a médiaszereplés-videókat hangsúlyoztam ki. (FRISSÍTÉS: a médiamegjelenések részt teljesen kidobtam a főoldalról.) A blogbejegyzéseknek menniük kellett az oldal tetejéről, mert az oda látogató azt gondolhatja, hogy a LovelyVeg elsősorban egy vegán életmód blog receptek sokaságával, nem egy főzőiskola. (FRISSÍTÉS: a blogbejegyzések lekerültek a kezdőlapról, helyette új aloldalra kerültek.)
 
 A receptkereső is külön aloldalra került. A receptkereső designja is [felkerült a Béhance-ra.](https://www.behance.net/gallery/86940591/LovelyVeg-Recipe-Search-Page)
+
+![A LovelyVeg Receptkereső aloldal design terve](
+https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/db781686940591.5da88fc067600.png)
 
 Design szempontjából túl zsúfolt volt az eredeti honlap, kevés negatív térrel, a címsorok betűmérete és vastagsága elégtelen volt, ami a vizuális hierarchia tekintetében nem szerencsés.
 
@@ -42,10 +45,7 @@ Külön büszke vagyok a receptek rendszerezésére, ahol hozzávalók szerint c
 
 A hipotéziseket persze le is kell majd tesztelni, hogy a valóság alátámasztja-e azokat. A lényeg, hogy a perszóna mentális modelljével egyezzen az oldal működése.
 
-![A LovelyVeg főzőiskola honlapja újratervezve](
-https://dl.dropboxusercontent.com/s/id67yg7b43zcvzg/LovelyVeg_UI_design_2019_final.png)
-
-![Az ÚJABB design munkám](
+![LovelyVeg főzőiskola honlapja újra újratervezve!](
 https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/b3914b87343695.5db5912900ce5.png)
 
 
