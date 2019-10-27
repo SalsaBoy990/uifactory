@@ -3,16 +3,18 @@ title: Implement search for my static documentation website with Algolia / DocSe
 date: '2019-10-27'
 thumbnail: /assets/images/design/tiger_cover_min.jpg
 excerpt: >-
-  I am trying to sum up my UI design workflow, e.g. the set of principles,
-  tricks I use, guideline I follow etc. In order to speed up and make my design
-  proccess more effective. So, I am working on a design language system of a
-  kind called CAT.
+  If you are a JAMStack enthusiast having a static website set up for
+  documentation, you certainly have thought about adding search functionality to
+  it. With Algolia / DocSearch you can easily accomplish this task for free.
+  Case study.
 type: blog
 ---
-CAT is based on three pillars:
+I am trying to sum up my UI design workflow, e.g. the set of principles, tricks I use, guideline I follow etc. In order to speed up and make my design proccess more effective. So, I am working on a **design language system** of a kind called CAT.
+
+**CAT** is based on three pillars:
 - Common sense (hold on to conventions, keep good practices worked in the past)
 - Adaptibility (to the newest trends, open to new ideas, concepts, and innovations)
-- Timelessness Design (combine common sense with adaptibility to be always up-to-date)
+- Timelessness design (combine common sense with adaptibility to be always up-to-date)
 
 [The CAT website](https://cat-design-system.netlify.com/) is completely a static one and is made with my static site generator called [“static-site-express”](https://static-site-express.netlify.com/).
 
@@ -24,7 +26,7 @@ Let's take a look at [how easy it is to “install” DocSearch for your website
 
 2. The people at DocSearch will create a configuration json file for your website ([they will push this file to a GitHub repository](https://github.com/algolia/docsearch-configs/blob/master/configs/cat-design-system.json)). DocSearch will crawl your website content and sents it to Algolia for indexing.
 
-3. Lastly, add thwo JavaScript snippet to your website and bind your search input field to display results from your Algolia index. See the examples:
+3. Lastly, add two JavaScript snippets to your website and bind your search input field to display results from your Algolia index. See the examples:
 
 ````html
 <!-- at the end of the HEAD -->
@@ -48,6 +50,6 @@ debug: false // Set debug to true if you want to inspect the dropdown
 ````
 This script invokes the `docsearch()` function with an object literal containing properties as an argument.
 
-This project will be updated continously. Check out the project's website if you are interested.
+This project will be updated continously. Check out [the project's website](https://cat-design-system.netlify.com) if you are interested.
 
 In the future, I am planning to learn more about serverless functions like [AWS Lambda functions inside Netlify cloud platform](https://www.netlify.com/products/functions/). Netlify allows you to use them without an AWS account. You can extend the functionality of a static site with functionalities dynamic websites have, e.g. search, authentication, login, payment options etc.
