@@ -9,7 +9,7 @@ excerpt: >-
   Case study.
 type: blog
 ---
-I am trying to sum up my UI design workflow, e.g. the set of principles, tricks I use, guideline I follow etc. In order to speed up and make my design proccess more effective. So, I am working on a **design language system** of a kind called CAT.
+I am trying to sum up my UI design workflow, e.g. the set of principles, tricks I use, guideline I follow etc. In order to speed up and make my design process more effective. So, I am working on a **design language system** of a kind called CAT.
 
 **CAT** is based on three pillars:
 - Common sense (hold on to conventions, keep good practices worked in the past)
@@ -24,7 +24,7 @@ Let's take a look at [how easy it is to “install” DocSearch for your website
 
 1. You need to apply for DocSearch by [filling out the form on this page](https://community.algolia.com/docsearch/apply.html). They will double check that you qualify.
 
-2. The people at DocSearch will create a configuration json file for your website ([they will push this file to a GitHub repository](https://github.com/algolia/docsearch-configs/blob/master/configs/cat-design-system.json)). DocSearch will crawl your website content and sents it to Algolia for indexing.
+2. The people at DocSearch will create a configuration json file for your website ([they will push this file to a GitHub repository](https://github.com/algolia/docsearch-configs/blob/master/configs/cat-design-system.json)). DocSearch will crawl your website content and sends it to Algolia for indexing.
 
 3. Lastly, add two JavaScript snippets to your website and bind your search input field to display results from your Algolia index. See the examples:
 
@@ -34,7 +34,8 @@ Let's take a look at [how easy it is to “install” DocSearch for your website
 ````
 
 ````html
-<input id="docsearch" class="form-control mr-sm-2" type="search" placeholder="Search for..." aria-label="Search for">
+<input id="docsearch" class="form-control mr-sm-2"
+ type="search" placeholder="Search for..." aria-label="Search for">
 ````
 
 ````html
@@ -43,7 +44,7 @@ Let's take a look at [how easy it is to “install” DocSearch for your website
 <script type="text/javascript"> docsearch({
 apiKey: '80f5f598e83f70ff70762ae1b54836e6',
 indexName: 'cat-design-system',
-inputSelector: '### REPLACE ME ####',
+inputSelector: '#docsearch',
 debug: false // Set debug to true if you want to inspect the dropdown
 });
 </script>
