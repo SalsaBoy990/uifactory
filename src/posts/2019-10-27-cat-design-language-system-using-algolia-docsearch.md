@@ -24,18 +24,18 @@ Let's take a look at [how easy it is to 'install' DocSearch for your website](ht
 
 2. The people at DocSearch will create a configuration json file for your website ([they will push this file to a GitHub repository](https://github.com/algolia/docsearch-configs/blob/master/configs/cat-design-system.json)). DocSearch will crawl your website content and sents it to Algolia for indexing.
 
-3. Lastly, add three JavaScript snippet to your website and bind your search input field to display results from your Algolia index. See the examples:
+3. Lastly, add thwo JavaScript snippet to your website and bind your search input field to display results from your Algolia index. See the examples:
 
-````
+````html
 <!-- at the end of the HEAD -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsearch.js@2/dist/cdn/docsearch.min.css" />
 ````
 
-````
+````html
 <input id="docsearch" class="form-control mr-sm-2" type="search" placeholder="Search for..." aria-label="Search for">
 ````
 
-````
+````html
 <!-- at the end of the BODY -->
 <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/docsearch.js@2/dist/cdn/docsearch.min.js"></script>
 <script type="text/javascript"> docsearch({
