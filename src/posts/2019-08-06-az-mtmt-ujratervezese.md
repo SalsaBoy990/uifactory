@@ -7,12 +7,13 @@ excerpt: >-
   felhasználói felületét, ami rengeteg frusztrációt okoz a tudósok számára.
 type: dashboard
 ---
+FRISSÍTÉS: Időközben újraterveztem még egyszer a munkámat. Frissítettem ezt a cikket.
 
 Mondhatnánk az MTMT felülete a felhasználói élmény antitézise: milliónyi gomb összevisszasága, végletekig bonyolított keresés, apró hangyányi betűméret (látszik, hogy bele akartak zsúfolni mindent egy képernyőbe), vizuális hierarchia gyatra, a design is úgy néz ki, mintha két évtizeddel ezelőtt készült volna. Amatőr munka.
 
 ![Az MTMT2 jelenlegi felülete (80%-os nagyításban, mert a monitoromon nem férne ki)](/assets/images/design/mtmt2_eredeti.png)
 
-Az első felhasználói élményem az oldallal kapcsolatban az volt, hogy hozzá akartam rendelni magamat egy tanulmányhoz, amelynek társszerzője vagyok. Két óra szenvedés és anyázás után jöttem rá hogyan kell csinálni.
+Az első felhasználói élményem az oldallal kapcsolatban az volt, hogy hozzá akartam rendelni magamat egy tanulmányhoz, amelynek társszerzője vagyok. Két óra szenvedés után jöttem rá hogyan kell csinálni.
 
 Az MTMT alkalmazás kezdőoldalát terveztem csak újra. Mobilnézetet egyelőre nem terveztem. Ez nem tekinthető végleges design-nak, csupán egy viszonylag magas fidelitású prototípusnak.
 
