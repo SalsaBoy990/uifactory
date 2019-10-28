@@ -7,7 +7,7 @@ excerpt: >-
   felhasználói felületét, ami rengeteg frusztrációt okoz a tudósok számára.
 type: dashboard
 ---
-FRISSÍTÉS: Időközben újraterveztem még egyszer a munkámat. Frissítettem ezt a cikket.
+*FRISSÍTÉS: Időközben újraterveztem még egyszer a munkámat. Frissítettem ezt a cikket.*
 
 Mondhatnánk az MTMT felülete a felhasználói élmény antitézise: milliónyi gomb összevisszasága, végletekig bonyolított keresés, apró hangyányi betűméret (látszik, hogy bele akartak zsúfolni mindent egy képernyőbe), vizuális hierarchia gyatra, a design is úgy néz ki, mintha két évtizeddel ezelőtt készült volna. Amatőr munka.
 
