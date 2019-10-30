@@ -821,8 +821,8 @@ figcaption {
   margin-bottom: 1.5rem;
   font-size: $small-size;
   font-style: italic;
-  margin-left: 0rem;
-  margin-right: 1rem;
+  margin-left: 0;
+  text-align: center;
 }
 
 .normal-font {
@@ -835,6 +835,7 @@ caption {
   font-size:  $small-size;
   font-style: italic;
   color: $dark-gray;
+  text-align: center;
 }
 
 
@@ -1505,4 +1506,11 @@ border-radius: 0px 7px;
 
 .border-radius-0-7 {
   border-radius: 0px 7px
+}
+
+.popover-body {
+  font-family: $body-font;
+  font-size: 12px;
+  color: #000;
+  padding: .25rem .5rem;
 }

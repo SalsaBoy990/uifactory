@@ -599,8 +599,8 @@ figcaption {
   margin-bottom: 1.5rem;
   font-size: 0.81818rem;
   font-style: italic;
-  margin-left: 0rem;
-  margin-right: 1rem; }
+  margin-left: 0;
+  text-align: center; }
 
 .normal-font {
   font-style: normal; }
@@ -610,7 +610,8 @@ caption {
   margin: 0;
   font-size: 0.81818rem;
   font-style: italic;
-  color: #433F3E; }
+  color: #433F3E;
+  text-align: center; }
 
 img {
   margin-top: 1.5rem;
@@ -1110,3 +1111,9 @@ textarea {
 
 .border-radius-0-7 {
   border-radius: 0px 7px; }
+
+.popover-body {
+  font-family: "IBM Plex Serif", Georgia, "Times New Roman", Times, serif;
+  font-size: 12px;
+  color: #000;
+  padding: .25rem .5rem; }

@@ -1,4 +1,9 @@
 $(document).ready(function () {
+  $('[data-toggle=popover]').popover()
+
+  $('#copy-url').mouseleave(function () {
+    $('#copy-url').popover('hide')
+  })
   // Add smooth scrolling to all links
   $('a[href="#munkaim"], a[href="#kapcsolat"]').on('click', function (event) {
   // Make sure this.hash has a value before overriding default behavior

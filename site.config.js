@@ -2,7 +2,8 @@
 module.exports = {
   site: {
     url: 'https://uifactory.design',
-    title: `Gulácsi András UI design portfóliója`,
+    title: 'Gulácsi András UI design portfóliója',
+    titleEncoded: encodeURI('Gulácsi András UI design portfóliója'),
     defaultImage: 'https://uifactory.design/assets/images/uifactory_cover.jpg',
     author: 'Gulácsi András',
     quote: 'UI/UX designer-nek tanulok és munkát keresek UI és/vagy UX designer pozícióba. Folyamatosan fejlesztem magamat, az Udemy kurzusaiból tanulok és elvégeztem az UX Studio Digital Product Design tanfolyamát.',
