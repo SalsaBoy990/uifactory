@@ -34,6 +34,9 @@
 .black {
   color: #333C42; }
 
+.bg-black {
+  background: #333C42; }
+
 .midnight-express {
   color: #21263C !important; }
 
@@ -596,7 +599,7 @@ table, th, td {
 
 figcaption {
   font-family: "IBM Plex Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  margin-bottom: 1.5rem;
+  margin-bottom: 3rem;
   font-size: 0.81818rem;
   font-style: italic;
   margin-left: 0;
@@ -796,6 +799,29 @@ a:visited {
   line-height: 1.5rem;
   text-align: center; }
 
+.toolbar .toolbar-item button {
+  font-size: 0.72727rem;
+  margin: 0;
+  padding: 0 5px;
+  border-radius: 2px;
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  box-shadow: none;
+  border: 1px solid #999;
+  position: absolute;
+  top: 0;
+  right: 0;
+  color: #47545d;
+  background: #D9DDE3; }
+
+/*   light-gray2 bg-black*/
+.code-toolbar pre {
+  margin-bottom: 0 !important; }
+
+.code-toolbar {
+  margin-bottom: 1.5rem;
+  position: relative; }
+
 .btn-primary {
   color: #fff;
   background: #c32b0d; }
@@ -838,7 +864,8 @@ textarea {
   height: 72px;
   display: block;
   border-radius: 50%;
-  margin: 0rem; }
+  margin: 0rem;
+  margin-top: 15px; }
 
 .icon {
   display: inline;

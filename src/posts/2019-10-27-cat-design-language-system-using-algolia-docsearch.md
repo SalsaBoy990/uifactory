@@ -53,4 +53,4 @@ This script invokes the `docsearch()` function with an object literal containing
 
 This project will be updated continously. Check out [the project's website](https://cat-design-system.netlify.com) if you are interested.
 
-In the future, I am planning to learn more about serverless functions like [AWS Lambda functions inside Netlify cloud platform](https://www.netlify.com/products/functions/). Netlify allows you to use them without an AWS account. You can extend the functionality of a static site with functionalities dynamic websites have, e.g. search, authentication, login, payment options etc.
+In the future, I am planning to learn more about serverless functions like [AWS Lambda functions inside Netlify cloud platform](https://www.netlify.com/products/functions/). Netlify allows you to use them without an AWS account. You can extend the functionality of a static site with functionalities dynamic websites have, e.g. search, authentication, login, payment and commenting options etc.

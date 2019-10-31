@@ -19,7 +19,7 @@ I will cover the first one here. Generally, you need to use some kind of a **sta
 There are countless SSGs in the market, the most popular ones are:
 
 - [Jekyll](https://jekyllrb.com/) (based on Ruby, templates: Liquid)
-- [Hugo](https://gohugo.io/) (based on Go, templates: Liquid)
+- [Hugo](https://gohugo.io/) (based on Go, templates: Go)
 - [Next.js](https://nextjs.org/) (based on JavaScript, templates: React)
 - [Gatsby](https://www.gatsbyjs.org/) (based on JavaScript, templates: React)
 - you can [check out the rest here.](https://www.staticgen.com/)
