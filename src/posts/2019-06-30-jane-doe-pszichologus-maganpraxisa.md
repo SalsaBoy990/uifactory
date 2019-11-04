@@ -163,7 +163,7 @@ A választott modernebb stílusú betűcsaládok jobban passzolnak a fiatalosabb
 
 FRISSÍTÉS: November elején újracsináltam az egész design munkámat és [feltettem a Behance-ra](https://www.behance.net/gallery/85965601/Jane-Doe-Psychologist-Landing-Page).
 
-![AZ ÚJ Design tervem. Most angolul.](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/9d1e9e85965601.5dbc5ed15bd92.png)
+![Az ÚJ Design tervem. Most angolul.](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/9d1e9e85965601.5dbc5ed15bd92.png)
 
 *Folytatása következik...*
 
