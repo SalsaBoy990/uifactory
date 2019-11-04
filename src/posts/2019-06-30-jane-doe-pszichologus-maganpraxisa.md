@@ -149,6 +149,7 @@ A tipográfia terén talpatlan betűtípusokat választottam. Nekem a „B” v�
 * az „A” változat: **PT Sans** címsor, **Muli** szövegtörzs
 * a „B” változat: **Ubuntu** címsor, **PT Sans** szövegtörzs
 
+FRISSÍTÉS: Végül az új munkámban a **Fira Sans** mellett tettem le a voksomat.
 
 Az Ubuntu kortárs stílusú, precíz, megbízható és szabad szemléletet közvetít. Nagyon jó az olvashatósága, szépek benne a lágyabb ívű geometrikus formák félkövér stílusban. Tetszik az 'l' betű ívelt vége.
 
