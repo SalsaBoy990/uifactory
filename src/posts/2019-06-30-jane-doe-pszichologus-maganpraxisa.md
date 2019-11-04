@@ -127,7 +127,7 @@ Sajnos a későbbiekben Jane elfoglaltsága (és személyes okok) miatt miatt f�
 
 **Felhívom a figyelmet**, hogy ezek csak előzetes design tervek, melyek nincsenek még letesztelve a felhasználókkal! Ha Jane úgy döntene, hogy mégis akarja a honlapot, akkor természetesen el fogom végezni a teszteket a szürkeárnyalatos drótvázon. Talán 2 tesztelés-javítás iteráció elég is lenne egy ilyen egyszerű landing page-hez.
 
-Mindig papíron kezdek el tervezni filctollal. Mindig ötleteléssel kezdek, majd miután összeállt az elképzelésem, megrajzolom papíron az egész design-t (low fidelity sketch). És csak útán kezdek el digitálisan dolgozni.
+Mindig papíron kezdek el tervezni filctollal. Mindig ötleteléssel kezdek, majd miután összeállt az elképzelésem, megrajzolom papíron az egész design-t (low fidelity sketch). És csak után kezdek el digitálisan dolgozni.
 
 ![A papíron elkészített egyik designtervem](https://dl.dropboxusercontent.com/s/jl9r908t6n8879n/20190701_145243-min.jpg)
 
