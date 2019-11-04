@@ -7,7 +7,7 @@ excerpt: >-
   pszichológiai segítségnyújtásra, amihez szüksége volt egy honlapra.
 type: website
 ---
-FRISSÍTÉS: Időközben újracsináltam ezt a munkámat. Képként hozzáadtam e cikk végén.
+FRISSÍTÉS: Időközben újracsináltam ezt a munkámat. Képként hozzáadtam a cikk végén.
 
 Személyes információt nem adok ki az ügyfelemről, ami elhangzott az üléseken az UX tervezés során. Éppen ezért „Jane” néven fogok rá hivatkozni. Összefoglaló jelleggel szeretném bemutatni annak a folyamatát, hogy hogyan, milyen tények és következtetések alapján jutottam a megoldáshoz. Megindoklom, hogy miért ezeket a megoldásokat választottam.
 
