@@ -7,6 +7,7 @@ excerpt: >-
   pszichológiai segítségnyújtásra, amihez szüksége volt egy honlapra.
 type: website
 ---
+FRISSÍTÉS: Időközben újracsináltam ezt a munkámat. Képként hozzáadtam e cikk végén.
 
 Személyes információt nem adok ki az ügyfelemről, ami elhangzott az üléseken az UX tervezés során. Éppen ezért „Jane” néven fogok rá hivatkozni. Összefoglaló jelleggel szeretném bemutatni annak a folyamatát, hogy hogyan, milyen tények és következtetések alapján jutottam a megoldáshoz. Megindoklom, hogy miért ezeket a megoldásokat választottam.
 
@@ -158,6 +159,10 @@ A Muli egy jól olvasható, minimalisztikus talpatlan betűcsalád kifejezetten 
 A választott modernebb stílusú betűcsaládok jobban passzolnak a fiatalosabb célcsoport számára. Természetesen szubjektív lehet, hogy kinek melyik tetszik, viszont a legjobb, ha a felhasználónak nem is tűnik fel, hogy milyen betűcsaládokat használtam.
 
 ![A kész UI design „B” változata](https://dl.dropboxusercontent.com/s/4yl24eeypntt0gj/Final%20final%20version%20B.png)
+
+FRISSÍTÉS: November elején újracsináltam az egész design munkámat és [feltettem a Behance-ra](https://www.behance.net/gallery/85965601/Jane-Doe-Psychologist-Landing-Page).
+
+![AZ ÚJ Design tervem](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/9d1e9e85965601.5dbc5ed15bd92.png)
 
 *Folytatása következik...*
 
