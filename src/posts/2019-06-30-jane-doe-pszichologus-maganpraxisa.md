@@ -7,6 +7,7 @@ excerpt: >-
   pszichológiai segítségnyújtásra, amihez szüksége volt egy honlapra.
 type: website
 ---
+FRISSÍTÉS: Időközben újracsináltam ezt a munkámat. Képként hozzáadtam a cikk végén.
 
 Személyes információt nem adok ki az ügyfelemről, ami elhangzott az üléseken az UX tervezés során. Éppen ezért „Jane” néven fogok rá hivatkozni. Összefoglaló jelleggel szeretném bemutatni annak a folyamatát, hogy hogyan, milyen tények és következtetések alapján jutottam a megoldáshoz. Megindoklom, hogy miért ezeket a megoldásokat választottam.
 
@@ -126,7 +127,7 @@ Sajnos a későbbiekben Jane elfoglaltsága (és személyes okok) miatt miatt f�
 
 **Felhívom a figyelmet**, hogy ezek csak előzetes design tervek, melyek nincsenek még letesztelve a felhasználókkal! Ha Jane úgy döntene, hogy mégis akarja a honlapot, akkor természetesen el fogom végezni a teszteket a szürkeárnyalatos drótvázon. Talán 2 tesztelés-javítás iteráció elég is lenne egy ilyen egyszerű landing page-hez.
 
-Mindig papíron kezdek el tervezni filctollal. Mindig ötleteléssel kezdek, majd miután összeállt az elképzelésem, megrajzolom papíron az egész design-t (low fidelity sketch). És csak útán kezdek el digitálisan dolgozni.
+Mindig papíron kezdek el tervezni filctollal. Mindig ötleteléssel kezdek, majd miután összeállt az elképzelésem, megrajzolom papíron az egész design-t (low fidelity sketch). És csak ezután kezdek el digitálisan dolgozni.
 
 ![A papíron elkészített egyik designtervem](https://dl.dropboxusercontent.com/s/jl9r908t6n8879n/20190701_145243-min.jpg)
 
@@ -148,6 +149,7 @@ A tipográfia terén talpatlan betűtípusokat választottam. Nekem a „B” v�
 * az „A” változat: **PT Sans** címsor, **Muli** szövegtörzs
 * a „B” változat: **Ubuntu** címsor, **PT Sans** szövegtörzs
 
+FRISSÍTÉS: Végül az új munkámban a **Fira Sans** mellett tettem le a voksomat.
 
 Az Ubuntu kortárs stílusú, precíz, megbízható és szabad szemléletet közvetít. Nagyon jó az olvashatósága, szépek benne a lágyabb ívű geometrikus formák félkövér stílusban. Tetszik az 'l' betű ívelt vége.
 
@@ -158,6 +160,10 @@ A Muli egy jól olvasható, minimalisztikus talpatlan betűcsalád kifejezetten 
 A választott modernebb stílusú betűcsaládok jobban passzolnak a fiatalosabb célcsoport számára. Természetesen szubjektív lehet, hogy kinek melyik tetszik, viszont a legjobb, ha a felhasználónak nem is tűnik fel, hogy milyen betűcsaládokat használtam.
 
 ![A kész UI design „B” változata](https://dl.dropboxusercontent.com/s/4yl24eeypntt0gj/Final%20final%20version%20B.png)
+
+FRISSÍTÉS: November elején újracsináltam az egész design munkámat és [feltettem a Behance-ra](https://www.behance.net/gallery/85965601/Jane-Doe-Psychologist-Landing-Page).
+
+![Az ÚJ Design tervem. Most angolul.](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/9d1e9e85965601.5dbc5ed15bd92.png)
 
 *Folytatása következik...*
 
