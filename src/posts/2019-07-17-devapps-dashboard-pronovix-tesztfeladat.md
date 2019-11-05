@@ -1,7 +1,7 @@
 ---
 title: DevApps Dashboard (Pronovix tesztfeladat)
 date: '2019-07-17'
-thumbnail: DevAppsLight.jpg
+thumbnail: /assets/images/design/DevAppsLight.jpg
 excerpt: >-
   Ez egy tesztfeladat volt egy UX designer álláshoz még 2018-ban. Most
   újracsináltam a mostani tudásom szerint a vezérlőpultot.
