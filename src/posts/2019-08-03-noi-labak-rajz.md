@@ -1,7 +1,7 @@
 ---
 title: Női lábak
 date: '2019-08-03'
-thumbnail: noi_labak.jpg
+thumbnail: /assets/images/design/noi_labak.jpg
 excerpt: >-
   Újra elkezdtem rajzolni kb. 15 év kihagyás után. A rajzom címe: „Női lábak”.
 type: drawing
