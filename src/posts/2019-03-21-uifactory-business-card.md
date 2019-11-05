@@ -1,8 +1,10 @@
 ---
 title: UIfactory Business Card
 date: '2019-03-21'
-thumbnail: uifactory_business_card_2019.jpg
-excerpt: Felhasználóbarát honlapok és app-ok készítése. A saját névjegykártya-tervem. Adobe Photoshop-pal készült.
+thumbnail: /assets/images/design/uifactory_business_card_2019.jpg
+excerpt: >-
+  Felhasználóbarát honlapok és app-ok készítése. A saját névjegykártya-tervem.
+  Adobe Photoshop-pal készült.
 type: businesscard
 ---
 
