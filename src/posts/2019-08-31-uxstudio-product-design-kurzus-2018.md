@@ -1,9 +1,10 @@
 ---
 title: UXstudio Product Design kurzus 2018. ősz
 date: '2019-08-31'
-thumbnail: uxstudio_kurzus_oklevel.jpg
+thumbnail: /assets/images/design/uxstudio_kurzus_oklevel.jpg
 excerpt: >-
-  Szeptembertől kezdődően részt vettem egy UX designer képzésen az UX Studio cég jóvoltából Budapesten, amit a cég dolgozói, a mentoraink tartottak nekünk.
+  Szeptembertől kezdődően részt vettem egy UX designer képzésen az UX Studio cég
+  jóvoltából Budapesten, amit a cég dolgozói, a mentoraink tartottak nekünk.
 type: blog
 ---
 
