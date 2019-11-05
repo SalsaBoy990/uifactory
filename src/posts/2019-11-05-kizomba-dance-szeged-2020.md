@@ -25,9 +25,9 @@ A szöveges tartalmat minimálisra korlátoztam, nagyon bőségesen használtam 
 * [**Chillvornia Stamp**](https://creativemarket.com/Martype.Co/3690267-Chillvornia-Stamp)–főcím
 * [**Martel**](https://fonts.google.com/specimen/Martel)–címsorok
 * [**Inter**](https://rsms.me/inter/)–szövegtörzs
-* [**Potra**](https://www.dafont.com/potra.font)–vonalas/üreges display betűtípus a bélyegek számára
+* [**Potra**](https://www.dafont.com/potra.font)–vonalas/üreges display betűtípus a bélyegek számára.
 
-
+*Még frissíteni fogom a leírást, csak ma nincs időm többre.*
 
 
 Bátorkodom itt néhány bekezdésben bemutatni a kizombát.
