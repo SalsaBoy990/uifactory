@@ -1,7 +1,7 @@
 ---
 title: A Magyar Tudományos Művek Tárának újratervezése
 date: '2019-08-06'
-thumbnail: mtmt.jpg
+thumbnail: /assets/images/design/mtmt.jpg
 excerpt: >-
   Újraterveztem a Magyar Tudományos Művek Tárának borzalmasra sikeredett
   felhasználói felületét, ami rengeteg frusztrációt okoz a tudósok számára.
