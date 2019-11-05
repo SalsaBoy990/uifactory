@@ -1,9 +1,11 @@
 ---
-title: static-site-express, a static site generator
+title: 'static-site-express, a static site generator'
 date: '2019-09-14'
-thumbnail: static-site-express/static-site-express.png
+thumbnail: /assets/images/design/static-site-express.png
 excerpt: >-
-  static-site-express is a simple Node.js based static-site generator that uses EJS and Markdown. You can deploy your static site to the Netlify cloud computing platform. Deploy, customize, and write your own blog.
+  static-site-express is a simple Node.js based static-site generator that uses
+  EJS and Markdown. You can deploy your static site to the Netlify cloud
+  computing platform. Deploy, customize, and write your own blog.
 type: website
 ---
 
