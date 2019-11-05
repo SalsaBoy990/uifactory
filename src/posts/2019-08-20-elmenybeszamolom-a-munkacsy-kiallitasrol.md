@@ -1,9 +1,11 @@
 ---
 title: Élménybeszámoló a Munkácsy Mihály kiállításról
 date: '2019-08-20'
-thumbnail: munkacsy_muteremben_borito.jpg
+thumbnail: /assets/images/design/munkacsy_muteremben.jpg
 excerpt: >-
-  2019. augusztus 15-én elutaztam a budai várban található Magyar Nemzeti Galériába megtekinteni a Munkácsy Mihály és a századvég realizmusa című állandó kiállítást.
+  2019. augusztus 15-én elutaztam a budai várban található Magyar Nemzeti
+  Galériába megtekinteni a Munkácsy Mihály és a századvég realizmusa című
+  állandó kiállítást.
 type: blog
 ---
 
