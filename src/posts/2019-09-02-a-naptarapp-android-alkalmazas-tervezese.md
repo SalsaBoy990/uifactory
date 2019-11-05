@@ -1,9 +1,10 @@
 ---
 title: A NaptárApp Android alkalmazás tervezése
 date: '2019-09-02'
-thumbnail: naptarapp/naptarapp_regisztracio.png
+thumbnail: /assets/images/design/naptarapp_regisztracio.png
 excerpt: >-
-  Az első komolyabb Android app design-om: NaptárApp - Tervezd meg a hetedet és légy eredményes! A cikk frissülni fog...
+  Az első komolyabb Android app design-om: NaptárApp - Tervezd meg a hetedet és
+  légy eredményes! A cikk frissülni fog...
 type: webapp
 ---
 
