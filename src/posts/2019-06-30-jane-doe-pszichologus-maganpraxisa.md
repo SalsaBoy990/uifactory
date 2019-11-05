@@ -1,7 +1,7 @@
 ---
 title: Jane Doe pszichológus magánpraxisa
 date: '2019-06-30'
-thumbnail: jane_doe_pszichologus_honlap_2019.jpg
+thumbnail: /assets/images/design/jane_doe_pszichologus_honlap_2019.jpg
 excerpt: >-
   „Jane Doe” magánpraxisban is szeretné, hogy menjenek hozzá kliensek
   pszichológiai segítségnyújtásra, amihez szüksége volt egy honlapra.
