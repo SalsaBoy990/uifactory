@@ -22,9 +22,7 @@ The side navigation has content that is correctly grouped into sections. Easy to
 
 ### Pros
 
-* Social media (Youtube, Twitter) and useful links (Stackoverflow, Github, Medium) at the bottom of each page which provide additional help for the users
-
-* Breadcumbs are present to inform the user where is he or she on the website.
+* Breadcumbs are present to inform the user where he or she is at on the website.
 
 * Dark / light mode switch present for syntax highlighing.
 
@@ -34,11 +32,13 @@ The side navigation has content that is correctly grouped into sections. Easy to
 
 * Copy link button at every section heading (#anchor links) makes easier to share an imporant section with another developer who might need a help related to that section.
 
-* Highlighted warning messages present to have people pay attention to common coding mistake, or misconceptions about how some things work.
+* Highlighted warning messages present to have people pay attention to common coding mistakes, or misconceptions about how some things work.
 
 * Also, there are highly important notes.
 
 * Info messages provide additional information and remarks.
+
+* Social media (Youtube, Twitter) and useful links (Stackoverflow, Github, Medium) at the bottom of each page which provide additional help for the users
 
 * The site provides debugging guide which is decent enough.
 
@@ -53,7 +53,7 @@ The side navigation has content that is correctly grouped into sections. Easy to
 There are two high severity usability issues and none of them have to do anything with visual design.
 
 #### Issue No. 1.
-The API reference page loads very slowly. Content is dynamically generated. Load times are between 20-30 secs, very bad  developer experience! There is loading animation, but it does not reduce the frustration of having to wait all the time when I want to search for a method to use in my scripts.
+The API reference page loads very slowly. Content is dynamically generated. Load times are between 20-30 secs, very bad  developer experience! There is loading animation, but it does not reduce the frustration of having to wait all the time when I want to search for a method to use it in my scripts.
 
 #### Issue No. 2.
 All of the available objects, methods, functionalities are listed on one single page in alphabetical order. With no grouping at all And 1.569 terms are in the API! There is no search field for the API terms. The searchbar at the header is a global one, so it applies to the whole docs website, and it does not give back the link to the specific API term I am searching for. Rather it gives search results from the Guide pages.
