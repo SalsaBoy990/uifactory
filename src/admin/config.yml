@@ -27,6 +27,6 @@ collections:
       - {label: "Publication date", name: "date", widget: "date", format: 'YYYY-MM-DD'}
       - {label: "Thumbnail image", name: "thumbnail", widget: "image", default: '/src/assets/images/uifactory_cover.jpg'}
       - {label: "Short description", name: "excerpt", widget: "text"}
-      - {label: "Type", name: "type", widget: "select",  options: ['blog', 'businesscard', 'dashboard', 'drawing', 'webapp', 'website']}
+      - {label: "Type", name: "type", widget: "select",  options: ['devportal', 'blog', 'businesscard', 'dashboard', 'drawing', 'webapp', 'website']}
       - {label: "The presentation of my design item/blogpost", name: "body", widget: "markdown"}
 
