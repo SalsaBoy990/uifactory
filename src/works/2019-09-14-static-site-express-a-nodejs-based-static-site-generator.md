@@ -2,11 +2,17 @@
 title: 'static-site-express, a static site generator'
 date: '2019-09-14'
 thumbnail: /assets/images/design/static-site-express.png
+hexagonImage: null
 excerpt: >-
   static-site-express is a simple Node.js based static-site generator that uses
   EJS and Markdown. You can deploy your static site to the Netlify cloud
   computing platform. Deploy, customize, and write your own blog.
 type: website
+category: 'x'
+expertise: null
+platform: null
+deliverables: null
+website: null
 ---
 
 This is one of my side projects I started last year. This portfolio site is made with static-site-express and is hosted on the Netlify cloud platform which is specifically made for static websites. You can check out the code [in my Github repository](https://github.com/SalsaBoy990/static-site-express). [Visit the website.](https://static-site-express.netlify.com)

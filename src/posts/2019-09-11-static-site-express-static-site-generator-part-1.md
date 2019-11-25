@@ -6,7 +6,7 @@ excerpt: >-
   static-site-express is a simple Node.js based static-site generator that uses
   EJS and Markdown. You can deploy your static site to the Netlify or to the
   Heroku cloud platform.
-type: blog
+category: blog
 ---
 
 This blogpost will be a part of a series in which I will show you a design and development workflow I am currently working on. The goal is to speed up the processes and work more efficiently. Now, let's write about frontend development using the JAMStack.

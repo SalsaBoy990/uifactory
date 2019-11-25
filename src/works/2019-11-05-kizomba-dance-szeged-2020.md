@@ -2,10 +2,17 @@
 title: Kizomba Dance Szeged 2020
 date: '2019-11-05'
 thumbnail: /assets/images/design/kizombadanceszeged.jpg
+hexagonImage: /assets/images/design/kizombadanceszeged_hexagon.jpg
 excerpt: >-
   Érdekel az afrikai társastáncok világa? Gyere és próbáld ki! Táncolj úgy, mint
   egy afrikai! A weboldal tervem a saját táncos projektemhez.
 type: website
+category: 'case study'
+expertise: null
+platform: null
+deliverables: null
+website: null
+
 ---
 A táncóráim reklámozására hozom létre ezt a landing page-et. A szülővárosomban, Szegeden kezdtem el az Angolából származó kizomba nevű társastáncot tanítani. Az első kizomba workshopomat októberben tartottam a táncpartneremmel.
 

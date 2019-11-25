@@ -1,0 +1,31 @@
+.custom-form .ws-invalid label,
+.custom-form .ws-invalid h3 {
+  color: #333;
+}
+.custom-form .ws-invalid input, .custom-form .ws-invalid textarea {
+  border-color: #b94d56;
+}
+
+.custom-form .ws-success input, .custom-form .ws-success textarea {
+  border-color: #52b822;
+}
+
+.ws-errorbox {
+  padding-left: .5rem;
+  letter-spacing: 1px;
+  font-weight: 600;
+  font-family: 'LatoSemibold', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+.ws-errorbox p {
+  color: #b94d56;
+  font-size: 0.8rem;
+}
+
+.btn-lg,
+.btn-group-lg > .btn {
+padding: 8.5px 38px;
+/*font-size: 20px;*/
+line-height: $baseline;
+border-radius: 0px 7px;
+}

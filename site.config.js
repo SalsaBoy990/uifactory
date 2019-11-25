@@ -2,12 +2,12 @@
 module.exports = {
   site: {
     url: 'https://uifactory.design',
-    title: 'Gulácsi András UI design portfóliója',
-    titleEncoded: encodeURI('Gulácsi András UI design portfóliója'),
+    title: 'András Gulácsi’s UI/UX design portfolio',
+    titleEncoded: encodeURI('András Gulácsi’s UI/UX design portfolio'),
     defaultImage: 'https://uifactory.design/assets/images/uifactory_cover.jpg',
-    author: 'Gulácsi András',
-    quote: 'UI/UX designer-nek tanulok és munkát keresek UI és/vagy UX designer pozícióba. Folyamatosan fejlesztem magamat, az Udemy kurzusaiból tanulok és elvégeztem az UX Studio Digital Product Design tanfolyamát.',
-    description: 'UI/UX designer-nek tanulok és munkát keresek UI és/vagy UX designer pozícióba.',
+    author: 'András Gulácsi',
+    quote: 'Hi, I am a junior UI/UX/web designer based in Szeged.',
+    description: 'Hi, I am a junior UI/UX/web designer based in Szeged.',
     currentYear: new Date().getFullYear(),
     google_analytics: 'UA-136754581-1',
     linkedin: 'https://www.linkedin.com/in/andr%C3%A1s-gul%C3%A1csi/',

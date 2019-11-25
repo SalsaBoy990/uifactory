@@ -6,7 +6,7 @@ backend:
 publish_mode: editorial_workflow
 
 site_url: https://uifactory.design
-logo_url: https://uifactory.design/assets/images/logo.png
+logo_url: https://uifactory.design/assets/images/logo_cms.png
 
 # These lines should *not* be indented
 media_folder: "src/assets/images/design/" # Media files will be stored in the repo under static/images/design
@@ -17,16 +17,40 @@ slug:
   clean_accents: true
 
 collections:
-  - name: "design" # Used in routes, e.g., /admin/collections/blog
-    label: "design item" # Used in the UI
+  - name: "Works" # Used in routes, e.g., /admin/collections/blog
+    label: "work" # Used in the UI
+    description: >
+      This collection is for my design works. There are two categories - case studies and mini projects
+      The hexagon image property is for case studies only! It is an optional field.
+    folder: "src/works/" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Work title", name: "title", widget: "string"}
+      - {label: "Publication date", name: "date", widget: "date", format: 'YYYY-MM-DD'}
+      - {label: "Cover image", name: "thumbnail", widget: "image", default: '/src/assets/images/uifactory_cover.jpg'}
+      - {label: "Hexagon image (only for case studies)", name: "thumbnail", widget: "image", required: false}
+      - {label: "Short description", name: "excerpt", widget: "text"}
+      - {label: "Type", name: "type", widget: "select",  options: ['devportal', 'blog', 'businesscard', 'dashboard', 'drawing', 'webapp', 'website']}
+      - {label: "Category", name: "category", widget: "select",  options: ['case study', 'mini project']}
+      - {label: "Expertise", name: "expertise", widget: "text"}
+      - {label: "Platform", name: "platform", widget: "text"}
+      - {label: "Deliverables", name: "deliverables", widget: "text"}
+      - {label: "Website link (optional)", name: "website", widget: "string", required: false}
+      - {label: "The presentation of my design work", name: "body", widget: "markdown"}
+  - name: "Blogpost" # Used in routes, e.g., /admin/collections/blog
+    label: "blogpost" # Used in the UI
+    description: >
+      This collection is for my blogposts. It was separated from the design works.
+      There are much less fields to complete.
     folder: "src/posts/" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
-      - {label: "Design item name", name: "title", widget: "string"}
+      - {label: "Post title", name: "title", widget: "string"}
       - {label: "Publication date", name: "date", widget: "date", format: 'YYYY-MM-DD'}
-      - {label: "Thumbnail image", name: "thumbnail", widget: "image", default: '/src/assets/images/uifactory_cover.jpg'}
+      - {label: "Cover image", name: "thumbnail", widget: "image", default: '/src/assets/images/uifactory_cover.jpg'}
       - {label: "Short description", name: "excerpt", widget: "text"}
-      - {label: "Type", name: "type", widget: "select",  options: ['devportal', 'blog', 'businesscard', 'dashboard', 'drawing', 'webapp', 'website']}
-      - {label: "The presentation of my design item/blogpost", name: "body", widget: "markdown"}
+      - {label: "Category", name: "category", widget: "select",  options: ['blog'], default: ["blog"]}
+      - {label: "The text of the blogpost", name: "body", widget: "markdown"}
 

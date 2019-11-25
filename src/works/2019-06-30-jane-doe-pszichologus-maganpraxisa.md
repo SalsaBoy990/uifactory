@@ -2,10 +2,15 @@
 title: Jane Doe pszichológus magánpraxisa
 date: '2019-06-30'
 thumbnail: /assets/images/design/jane_doe_pszichologus_honlap_2019.jpg
+hexagonImage: /assets/images/design/jane_doe_psychologist_hexagon.jpg
 excerpt: >-
-  „Jane Doe” magánpraxisban is szeretné, hogy menjenek hozzá kliensek
-  pszichológiai segítségnyújtásra, amihez szüksége volt egy honlapra.
+  You are the expert in your life—your emotions, dilemmas, and questions. I use my professional knowledge and experience to help You to find your own coping skills to solve your problem. This means a working together on both sides.
 type: website
+category: 'case study'
+expertise: null
+platform: null
+deliverables: null
+website: null
 ---
 *FRISSÍTÉS: Időközben újracsináltam ezt a munkámat. Képként hozzáadtam a cikk végén.*
 

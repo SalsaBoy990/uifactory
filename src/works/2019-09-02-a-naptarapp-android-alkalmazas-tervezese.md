@@ -2,10 +2,16 @@
 title: A NaptárApp Android alkalmazás tervezése
 date: '2019-09-02'
 thumbnail: /assets/images/design/naptarapp_regisztracio.png
+hexagonImage: null
 excerpt: >-
   Az első komolyabb Android app design-om: NaptárApp - Tervezd meg a hetedet és
   légy eredményes! A cikk frissülni fog...
 type: webapp
+category: 'mini project'
+expertise: null
+platform: null
+deliverables: null
+website: null
 ---
 
 [A prototípus linkje (Figma), ahol élőben is felfedezhetitek az appot.](https://www.figma.com/proto/8RDXJ68aIP7kMW8qViVfrS/2019_NaptarApp?node-id=54%3A271&viewport=-18%2C-385%2C0.48358601331710815&scaling=min-zoom) Nem működik minden gomb.

@@ -6,7 +6,7 @@ excerpt: >-
   2019. augusztus 15-én elutaztam a budai várban található Magyar Nemzeti
   Galériába megtekinteni a Munkácsy Mihály és a századvég realizmusa című
   állandó kiállítást.
-type: blog
+category: blog
 ---
 
 Számomra nagyon tetszett [Munkácsy](https://hu.wikipedia.org/wiki/Munk%C3%A1csy_Mih%C3%A1ly) stílusa, a sötét színárnyalatok és a festményeinek aprólékos kidolgozottsága, az arcok pontos, lélektani ábrázolása és a rajtuk tükröződő mély érzelmek, fájdalom és szenvedés.
@@ -29,7 +29,7 @@ Más realista festők (Munkácsy romantikusan realista) közül Munkácsy közel
 
 ![Paál László: Brezovai utca (1871)](/assets/images/design/paal_brezovai_utca.jpg)
 
-Nagyon hasznosnak bizonyult a művészeti kirándulásom, a művészi oldalam úgy tűnik, hogy újra felszínre tör. Sosem voltam igazán az a hideg fejű analitikus tudósember, a jobb agyféltekém aktívabb.
+Nagyon hasznosnak bizonyult a művészeti kirándulásom, a művészi oldalam úgy tűnik, hogy újra felszínre tör.
 
 
 **G.A.**

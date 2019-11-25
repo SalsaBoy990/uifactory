@@ -2,10 +2,16 @@
 title: A Magyar Tudományos Művek Tárának újratervezése
 date: '2019-08-06'
 thumbnail: /assets/images/design/mtmt.jpg
+hexagonImage: null
 excerpt: >-
   Újraterveztem a Magyar Tudományos Művek Tárának borzalmasra sikeredett
   felhasználói felületét, ami rengeteg frusztrációt okoz a tudósok számára.
 type: dashboard
+category: 'mini project'
+expertise: null
+platform: null
+deliverables: null
+website: null
 ---
 *FRISSÍTÉS: Időközben újraterveztem még egyszer a munkámat. Frissítettem a cikket. [Fel is tettem a munkámat a Behance-re](https://www.behance.net/gallery/87377841/Collections-of-Hungarian-Scientific-Works).*
 

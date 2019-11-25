@@ -5,7 +5,7 @@ thumbnail: /assets/images/design/uxstudio_kurzus_oklevel.jpg
 excerpt: >-
   Szeptembertől kezdődően részt vettem egy UX designer képzésen az UX Studio cég
   jóvoltából Budapesten, amit a cég dolgozói, a mentoraink tartottak nekünk.
-type: blog
+category: blog
 ---
 
 Sokba fájt azért nekem az egész, de megérte, mivel piacképes és új tudást kaptunk olyanoktól, akik komoly projekteken dolgoznak a világ számos pontján. Ezt a tudást az egyetemen soha nem szereztem volna meg.
@@ -25,5 +25,7 @@ Egyetlen szegediként a kurzuson heti kétszer voltam fenn vonattal, illetve osz
 ![A csapatunk tagjai, balról jobbra: László, Balázs, Katica, a mentorunk, Tündi, Én, Péter](/assets/images/design/uxstudio_kurzus_a_csapatunk.jpg)
 
 Az UXstudio tagjai elültették bennünk az UX magvait. Most eljött az idő, hogy a magok kicsírázzanak és növények fejlődjenek belőlük, a gyökereiken át felszívva az UX-tápot.
+
+**G.A.**
 
 *Átvéve és szerkesztve a Facebook-omról (eredeti megjelenés: 2018. október 28.)*

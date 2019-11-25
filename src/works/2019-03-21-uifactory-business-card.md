@@ -2,10 +2,16 @@
 title: UIfactory Business Card
 date: '2019-03-21'
 thumbnail: /assets/images/design/uifactory_business_card_2019.jpg
+hexagonImage: null
 excerpt: >-
   Felhasználóbarát honlapok és app-ok készítése. A saját névjegykártya-tervem.
   Adobe Photoshop-pal készült.
 type: businesscard
+category: 'mini project'
+expertise: null
+platform: null
+deliverables: null
+website: null
 ---
 
 Az ingyenes mockup-ot [innen töltöttem le](https://www.mockupworld.co/free/floating-business-cards-mockup-2/).

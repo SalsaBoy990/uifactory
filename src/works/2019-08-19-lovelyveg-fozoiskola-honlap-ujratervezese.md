@@ -2,14 +2,22 @@
 title: A LovelyVeg főzőiskola honlapjának újratervezése
 date: '2019-08-19'
 thumbnail: /assets/images/design/lovelyveg.jpg
+hexagonImage: /assets/images/design/lovelyveg_hexagon.jpg
 excerpt: >-
   Gyakorlásképpen újraterveztem az egyik ismerősöm vállalkozásának, a LovelyVeg
   életmód- és főzőiskolának honlapját.
 type: website
+category: 'case study'
+expertise: Design, IA, visual design
+platform: 'mobile, tablet, desktop'
+deliverables: 'UI, UX'
+website: '-'
 ---
 ## Fontos frissítés!
 
 Időközben újracsináltam a design munkámat, amely megtekinthető a [Béhance oldalamon.](https://www.behance.net/gallery/87343695/LovelyVeg-Vegan-Cookery-School/)
+
+
 
 ## Szerkezet és működés
 

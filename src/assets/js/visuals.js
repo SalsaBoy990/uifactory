@@ -5,7 +5,7 @@ $(document).ready(function () {
     $('#copy-url').popover('hide')
   })
   // Add smooth scrolling to all links
-  $('a[href="#munkaim"], a[href="#kapcsolat"]').on('click', function (event) {
+  $('a[href="#work"], a[href="#contact"]').on('click', function (event) {
   // Make sure this.hash has a value before overriding default behavior
     if (this.hash !== '') {
       // Prevent default anchor click behavior

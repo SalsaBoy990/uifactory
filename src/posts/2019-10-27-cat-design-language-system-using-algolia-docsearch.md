@@ -7,7 +7,7 @@ excerpt: >-
   documentation, you certainly have thought about adding search functionality to
   it. With Algolia / DocSearch you can easily accomplish this task for free.
   Case study.
-type: blog
+category: blog
 ---
 I am trying to sum up my UI design workflow, e.g. the set of principles, tricks I use, guideline I follow etc. In order to speed up and make my design process more effective. So, I am working on a **design language system** of a kind called CAT.
 
