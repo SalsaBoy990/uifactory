@@ -31,7 +31,27 @@ collections:
       - {label: "Cover image", name: "thumbnail", widget: "image", default: '/src/assets/images/uifactory_cover.jpg'}
       - {label: "Hexagon image (only for case studies)", name: "thumbnail", widget: "image", required: false}
       - {label: "Short description", name: "excerpt", widget: "text"}
-      - {label: "Type", name: "type", widget: "select",  options: ['devportal', 'blog', 'businesscard', 'dashboard', 'drawing', 'webapp', 'website']}
+      - {
+          label: "Type",
+          name: "type",
+          widget: "select",
+          options: [
+            'Android app',
+            'blog',
+            'business card',
+            'branding',
+            'corporate website',
+            'dashboard',
+            'developer portal',
+            'drawing',
+            'iOS app',
+            'graphical design',
+            'landing page',
+            'webapp',
+            'website'
+            ],
+          multiple: true
+        }
       - {label: "Category", name: "category", widget: "select",  options: ['case study', 'mini project']}
       - {label: "Expertise", name: "expertise", widget: "text"}
       - {label: "Platform", name: "platform", widget: "text"}

@@ -967,6 +967,14 @@ textarea {
     margin-left: 4.635rem !important;
     margin-right: 4.635rem !important; } }
 
+@media (min-width: 768px) {
+  .invisible-link {
+    text-decoration: none;
+    color: #21263C; }
+  .invisible-link:hover {
+    text-decoration: none;
+    color: #21263C; } }
+
 @media (max-width: 1024px) {
   .mx-responsive {
     margin-left: 3.09rem !important;
@@ -1000,6 +1008,8 @@ textarea {
   .mx-responsive {
     margin-left: 18px !important;
     margin-right: 18px !important; }
+  .m-pt2 {
+    padding-top: 3.09rem; }
   .large-title {
     font-size: 34px !important; }
   .page-title {
@@ -1033,10 +1043,20 @@ textarea {
     margin-top: 1rem;
     margin-bottom: 2rem;
     font-size: 20px; }
-  .small-size {
+  .m-fs16 {
     font-size: 16px !important; }
-  .min-size {
-    font-size: 14px !important; }
+  .m-float-left {
+    float: left; }
+  .m-float-right {
+    float: right; }
+  .m-fs18 {
+    font-size: 18px !important; }
+  /* .small-size {
+      font-size: 16px !important
+    }*/
+  /*.min-size {
+      font-size: 14px !important
+    }*/
   caption, figcaption {
     font-size: 16px !important; }
   .m-ml0 {
@@ -1045,12 +1065,18 @@ textarea {
     margin-bottom: 0 !important; }
   .m-mb1 {
     margin-bottom: 1.545rem !important; }
-  .m-mb-50px {
-    margin-bottom: 50px !important; }
+  .m-pb-1 {
+    padding-bottom: 1.545rem; }
+  .m-pt2 {
+    padding-top: 3.09rem; }
   .m-mt0 {
     margin-top: 0 !important; }
+  .m-mt1 {
+    margin-top: 1.545rem !important; }
   .m-mt2 {
     margin-top: 3.09rem !important; }
+  .m-mb2 {
+    margin-bottom: 3.09rem !important; }
   .m-pl0 {
     padding-left: 0 !important; }
   .m-mx-0 {
@@ -1263,3 +1289,7 @@ a.black-link:hover, .black-link:active {
 .svg-hover-item:hover {
   transition: 0.3s ease-in-out;
   fill: #b7344c; }
+
+.svg-hover-item-white:hover {
+  transition: 0.3s ease-in-out;
+  fill: #fff; }
