@@ -109,10 +109,24 @@ Végül digitálisan kezdek el dolgozni. A prototípusok felépítésére a Figm
 
 ### Colors
 
-A nyugtató, terápiás zöldes-türkizes színt kombináltam a profizmust, komolyságot sugallmazó „sötétkék” színnel, ami egészen feketének hat. A fotón látható modell meleg színe, barátságos megjelenése kontrasztban áll a türkiz és a sötétkék nyugodtságával, hűvösségével.
-
+A nyugtató, terápiás zöldes-türkizes színt kombináltam a profizmust, komolyságot sugallmazó sötétkékes színnel, ami egészen feketének hat. A fotón látható modell meleg színe, barátságos megjelenése kontrasztban áll a türkiz és a sötétkék nyugodtságával, hűvösségével és tárgyilagosságával.
 
 ### Typography
+
+A tipográfia terén talpatlan betűtípusokat választottam. Több kombinációt kipróbáltam. Végül ez a három párosítás maradt versenyben:
+1. Címsor: **PT Sans**, szövegtörzs: **Muli** 
+2. Címsor: **Ubuntu** szövegtörzs: **PT Sans**
+3. Címsor: **Fira Sans** szövegtörzs: **Fira Sans**
+
+Az Ubuntu kortárs stílusú, precíz, megbízható és szabad szemléletet közvetít. Jó az olvashatósága, szépek benne a lágyabb ívű geometrikus formák félkövér stílusban. Tetszik az 'l' betű ívelt vége.
+
+A PT Sans egy keskenyebb betűkkel rendelkező (jól látszik ez az 'o' betű tojásdad alakján), modern, humanisztikus betűcsalád. Az ívelt 'l' betű itt is gyönyörű.
+
+A Muli egy jól olvasható, minimalisztikus talpatlan betűcsalád kifejezetten kijelzőkhöz tervezve. Számomra neutrális, semleges hatással bír. A PT Sans és a Muli x-magassága (x-height) azonos.
+
+A Fira Sans egy olvashatóságra optimalizált humanista stílusú talpatlan betűtípus, a Mozilla FirefoxOS számára készült. tetszik benne az ívelt 'l' betű, a karakteres 'y', a 'g' betű anyaghiánya. A felfele kilógó betűszárak teteje vágott stílusú. 18 kölönbözű stílust tartalmaz a betűcsalád. Címsorként nagyon jó a vastagsága, barátságos és hívogató a megjelenése.
+
+Végül a **Fira Sans** mellett tettem le a voksomat.
 
 ### Information Architecture, Tone of text
 
@@ -133,30 +147,7 @@ Ugyanúgy fontos lehet hangsúlyozni a pszichológusok titoktartási kötelezett
 Betekintést azért kaptam Jane-től, mert sokat kérdeztem a tanácsadás menetéről. Még soha az életemben nem vettem részt pszichológiai tanácsadáson. Jane azt is említette, hogy sokan mások ajánlása alapján választanak maguknak pszichológust, akiknek már segítséget nyújtott.
 
 
-* [Az UI design ezen a linken érhető el](https://www.figma.com/file/P2XOgxteMM62pzWGb6tmJ9LP/janeDoePsychologist2019?node-id=0%3A1)
-
-
-
-
-
-A tipográfia terén talpatlan betűtípusokat választottam. Nekem a „B” változat tetszik egy picivel jobban.
-
-* az „A” változat: **PT Sans** címsor, **Muli** szövegtörzs
-* a „B” változat: **Ubuntu** címsor, **PT Sans** szövegtörzs
-
-FRISSÍTÉS: Végül az új munkámban a **Fira Sans** mellett tettem le a voksomat.
-
-Az Ubuntu kortárs stílusú, precíz, megbízható és szabad szemléletet közvetít. Nagyon jó az olvashatósága, szépek benne a lágyabb ívű geometrikus formák félkövér stílusban. Tetszik az 'l' betű ívelt vége.
-
-A PT Sans egy keskenyebb betűkkel rendelkező (jól látszik ez az 'o' betű tojásdad alakján), modern, humanisztikus betűcsalád. Az ívelt 'l' betű itt is gyönyörű.
-
-A Muli egy jól olvasható, minimalisztikus talpatlan betűcsalád kifejezetten kijelzőkhöz tervezve. Számomra neutrális, semleges hatású. A PT Sans és a Muli x-magassága (x-height) azonos.
-
-A választott modernebb stílusú betűcsaládok jobban passzolnak a fiatalosabb célcsoport számára. Természetesen szubjektív lehet, hogy kinek melyik tetszik, viszont a legjobb, ha a felhasználónak nem is tűnik fel, hogy milyen betűcsaládokat használtam.
-
-
-
-![Az ÚJ Design tervem. Most angolul.](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/9d1e9e85965601.5dbc5ed15bd92.png)
+![Jane Doe psychologist private praxis.](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/9d1e9e85965601.5dbc5ed15bd92.png)
 
 
 
