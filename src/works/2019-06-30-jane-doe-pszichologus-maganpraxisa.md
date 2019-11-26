@@ -134,10 +134,13 @@ Végül a **Fira Sans** mellett tettem le a voksomat.
 
 ### Information Architecture, Tone of text
 
-Fontos volt a megfelelő hangnem megtalálása a perszónánkkal. A magázásnak fontos szerepe van a tanácsadás során, mert ezek a formális keretek biztonságérzést és kontrollérzetet nyújtanak a kliensek számára. Igyekeztem megtalálni az egyensúlyt a magázódás és a pszichológus személyének megközelíthetősége között, amivel oldani szeretném a pszichológusokkal szembeni ellenérzéseket.
+Fontos volt a megfelelő hangnem megtalálása a perszónánkkal. A magázásnak fontos szerepe van a tanácsadás során, mert ezek a formális keretek biztonságérzést és kontrollérzetet nyújtanak a kliensek számára. Igyekeztem megtalálni az egyensúlyt a magázódás és a pszichológus személyének megközelíthetősége között, amivel oldani szeretném a pszichológusokkal szembeni ellenérzéseket. Külön fel kellett hívni a figyelmet a pszichológusi titoktartásra.
 
 ### Layout
- Az órási negatív tér alkalmazásával a nyitottságot és befogadást közvetítve a érdeklődők számára. A zsúfoltság ezzel szemben zártságot, intimitást vagy megközelíthetetlenséget sugallmazhat. Némi kreativitást és egyfajta szabálytalanságot is belevittem az egyhangú dobozok (div-ek) életébe. Nem is teljesen tudatosan terveztem ezt, de szerintem ez a fajta "szabálytalanságok" az ember hibáit is szimbolizálhatják, hogy senki sem tökéletes és rászorulhat egy másik, objektívebb nézőpontra, egy pszichológus személyén keresztül. Vagy hogy mindenki egyéniség
+
+Az órási negatív tér alkalmazásával a nyitottságot és befogadást közvetítve a érdeklődők számára. A zsúfoltság ezzel szemben zártságot, intimitást vagy megközelíthetetlenséget sugallmazhat. Némi kreativitást is belevittem.
+
+![Jane Doe psychologist private praxis.](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/9d1e9e85965601.5dbc5ed15bd92.png)
 
 ----
 ## The retrospective
@@ -151,7 +154,7 @@ Ugyanúgy fontos lehet hangsúlyozni a pszichológusok titoktartási kötelezett
 Betekintést azért kaptam Jane-től, mert sokat kérdeztem a tanácsadás menetéről. Még soha az életemben nem vettem részt pszichológiai tanácsadáson. Jane azt is említette, hogy sokan mások ajánlása alapján választanak maguknak pszichológust, akiknek már segítséget nyújtott.
 
 
-![Jane Doe psychologist private praxis.](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/9d1e9e85965601.5dbc5ed15bd92.png)
+
 
 
 
