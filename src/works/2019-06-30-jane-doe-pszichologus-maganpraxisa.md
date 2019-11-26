@@ -17,7 +17,7 @@ website: '-'
 ---
 
 ## What I did
-Egy reszponzív landing page-et terveztem a pszichológiai segítségnyújtás/tanácsadás iránt érdeklődő egyének számára..
+Egy reszponzív landing page-et terveztem a pszichológiai segítségnyújtás/tanácsadás iránt érdeklődő egyének számára.
 
 ---
 ## Interviews, UX research
@@ -27,7 +27,7 @@ Legelső lépésként szkript alapján interjúkat folytattam az ügyfelemmel, h
 2. Kipuhatoljam kik járnak hozzá tanácsadásra;
 3. Feltárjam, hogy az első alkalmakkor mikre kérdeznek rá a pszichológiai tanácsadással kapcsolatban Pl. milyen problémák merülnek fel a tanácsadással kapcsolatban.
 
-Az interjúról hangfelvételt készítettem, hogy többször visszahallgathassam. Interjú szkript link?
+Az interjúról hangfelvételt készítettem, hogy többször visszahallgathassam.
 
 Erősen priorizálni kellett, hogy az ügyfelem mely területekkel szeretne foglalkozni a magánpraxisában, ugyanis egy csomó dolgot említett nekem a karriertanácsadástól kezdve a pszichodrámán át a gyászfeldolgozásig. Látszott, hogy nem volt egyértelmű koncepciója - mindent pedig nem lehet belezsúfolni.
 Három fő terület maradt, a többit elvetettük:

@@ -355,13 +355,13 @@ table {
   font-family: "IBM Plex Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   margin-top: 1.5rem;
   margin-bottom: 1.5rem;
-  font-size: 0.81818rem;
+  font-size: 0.72727rem;
   border-collapse: collapse;
   border-spacing: 0;
   width: 100%; }
 
 table, th, td {
-  border: none; }
+  border: 1px solid #D7DAE1; }
 
 .app-logo-table {
   width: 149px; }

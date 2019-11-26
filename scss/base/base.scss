@@ -296,14 +296,14 @@ table {
   font-family: $heading-font;
   margin-top: 1.5rem;
   margin-bottom: 1.5rem;
-  font-size: $small-size;
+  font-size: $min-size;
   border-collapse: collapse;
   border-spacing: 0;
   width: 100%
 }
 
 table, th, td {
-  border: none;
+  border: 1px solid $hawkes-blue;
 }
 
 .app-logo-table {
