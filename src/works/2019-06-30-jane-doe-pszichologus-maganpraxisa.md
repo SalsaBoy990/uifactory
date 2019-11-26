@@ -1,16 +1,17 @@
 ---
-title: Jane Doe pszichológus magánpraxisa
+title: Jane Doe psychologist private praxis
 date: '2019-06-30'
 thumbnail: /assets/images/design/jane_doe_pszichologus_honlap_2019.jpg
-hexagonImage: /assets/images/design/jane_doe_psychologist_hexagon.jpg
 excerpt: >-
-  You are the expert in your life—your emotions, dilemmas, and questions. I use my professional knowledge and experience to help You to find your own coping skills to solve your problem. This means a working together on both sides.
-type: website
-category: 'case study'
-expertise: null
-platform: null
-deliverables: null
-website: null
+  Egy pszichológus barátom magánpraxisa számára készítettem egy weboldalt, hogy
+  több kuncsaftot érjen el. A barátom kérésére nem adhatok ki személyes
+  információt róla, a design tervekbe is kitalált adatokat raktam.
+type:
+  - landing page
+category: case study
+expertise: 'Research, Design, Information Architecture, Visual Design'
+platform: 'responsive website for mobile, tablet and desktop'
+deliverables: UI Design
 ---
 *FRISSÍTÉS: Időközben újracsináltam ezt a munkámat. Képként hozzáadtam a cikk végén.*
 
