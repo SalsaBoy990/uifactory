@@ -59,6 +59,8 @@ Az ügyfelem az interjú során megemlítette, hogy ő inkább 18 éves kortól 
 Felhasználói történeteket találtunk ki a pszichológiai tanácsadással kapcsolatban, az alábbi séma szerint:
 *“Én mint [felhasználó típusa], szeretnék [valamit elérni] azért, hogy [valamilyen okból]”* formában.
 
+![User stories created for the psychologist website (in Hungarian)](https://dl.dropboxusercontent.com/s/7j2pytghgfy5myd/persz%C3%B3n%C3%A1k1-min.png)
+
 Megállapításra került, hogy alapvetően inkább a fiatal felnőtt korosztály lehet fogékony a pszichológiai tanácsadás iránt. Méghozzá középosztálybeliek, akik meg tudják fizetni a pszichológust (az óradíj általában 5.000-8.000 Ft között mozog. Budapesten 10.000 felett is lehet).
 
 ### Value proposition:
@@ -83,17 +85,22 @@ A legelső lépés mindig a szövegek, a tartalmak, a navigáció, oldaltérkép
 
 Utána kielemeztem a versenytársak honlapjait és igyekeztem a jó gyakorlatokat átvenni, ihletet meríteni belűlük. Mindig így szoktam kezdeni a tervezést.
 
+![Inspiration Board from the competitors' websites](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/34dfb085965601.5ddd4b40c8eb2.jpg)
+
+
 Említésre méltó honlapok:
 | Versenytárs | Előnyök | Hátrányok                                                                                                                                                                                                                                                                                            |
  --- | --- | ---
 | [Mindset Pszichológia](https://mindsetpszichologia.hu/) | A legprofibb munka, amit láttam a pszichológus honlapok közt. | Lila = kreativitás és zöld = nyugtató kombó. A zöld gomb kontrasztaránya pocsék (1,99!) „Pszichológiai központunkban cikkek, terápia, tanácsadás, tréningek, rendezvények, oktatás és kutatás által segítjük a társadalom és a benne élő egyének fejlődését – a te fejlődésedet.” Kicsit általánosnak érzem, de attól függetlenül nagyon jó lehet.
 | [Torma Zita](http://tormazita.hu/index.php) | Egyszerű honlap, egészen jó. A felhőanimáció nagyon ötletes, ahogy jönnek a sötét fellegek, majd elszállnak a gondok. | Túl csajos színek (pasztell), ha a célcsoport döntően nőkből áll, akkor kiváló!
-| [Lázár Gergely](http://gery.hu/) | A vélemények rész nagyon ötletes! Vannak interjúi, videói és cikkei (Youtube, Facebook). Szép ikonok. Pénzvisszafizetési garancia. | Tegeződik. Túl sok önsztárolás. Nincs elég végzettsége hozzá. Nem elég feltűnő a kapcsolat rész. Túl sok szöveg, elég apró betűvel, sorkizárás, egyértelműbbé is tehetné, hogy mely területek kiemeltek.
+| [Lázár Gergely](http://gery.hu/) | A vélemények rész nagyon ötletes! Vannak interjúi, videói és cikkei. Szép ikonok. Pénzvisszafizetési garancia. | Tegeződik. Túl sok önsztárolás. Nincs elég végzettsége hozzá. Nem elég feltűnő a kapcsolat rész. Túl sok szöveg, elég apró betűvel, sorkizárás, egyértelműbbé is tehetné, hogy mely területek kiemeltek.
 | [Kiss Anna](https://kiss-anna.hu/) | Szép, terápiás zöld szín, kifejező kép. Jó arckép a pszichológusról. | Accessibility hiba a gombnál (alacsony kontrasztarány). A bemutatkozás rész talán egy kicsit önéletrajz-szagú, bár nagyon fontos hangsúlyozni a szakmaiságot, a megfelelő végzettséget. Így lehet valaki hiteles. Szerintem elég tudatosan lett így kialakítva.
 [Versenytárskutatás: előnyök és hátrányok. Egy részlet.]
 
 
 Ezt követően kezdtem el papíron ötletelni, skicceket, vázlatokat készíteni. Kipróbáltam az összes ötletemet, a különböző elrendezéseket. Az egész folyamat végére összeállnak az ötletek egy egységes elképzeléssé és így meg tudom rajzolni az egész low fidelity design tervet.
+
+![Paper sketches, results from the brainstorming sessions with my client](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/40289e85965601.5ddd4b40c874c.jpg)
 
 Végül digitálisan kezdek el dolgozni. A prototípusok felépítésére a Figmát használom. (Régebben az Axure RP 8-cal dolgoztam.) Az így készített tervek high fidelity. Ezeken dolgozok tovább a már végleges UI design kialakítása felé.
 
@@ -111,12 +118,6 @@ Ugyanúgy fontos lehet hangsúlyozni a pszichológusok titoktartási kötelezett
 
 Betekintést azért kaptam Jane-től, mert sokat kérdeztem a tanácsadás menetéről. Még soha az életemben nem vettem részt pszichológiai tanácsadáson. Jane azt is említette, hogy sokan mások ajánlása alapján választanak maguknak pszichológust, akiknek már segítséget nyújtott.
 
-
-
-![A papíron elkészített egyik designtervem](https://dl.dropboxusercontent.com/s/jl9r908t6n8879n/20190701_145243-min.jpg)
-
-
-* [A drótváz ezen a linken érhető el](https://ouu2o2.axshare.com/#g=1&p=home).
 
 * [Az UI design ezen a linken érhető el](https://www.figma.com/file/P2XOgxteMM62pzWGb6tmJ9LP/janeDoePsychologist2019?node-id=0%3A1)
 
@@ -140,18 +141,10 @@ A Muli egy jól olvasható, minimalisztikus talpatlan betűcsalád kifejezetten 
 
 A választott modernebb stílusú betűcsaládok jobban passzolnak a fiatalosabb célcsoport számára. Természetesen szubjektív lehet, hogy kinek melyik tetszik, viszont a legjobb, ha a felhasználónak nem is tűnik fel, hogy milyen betűcsaládokat használtam.
 
-![A kész UI design „B” változata](https://dl.dropboxusercontent.com/s/4yl24eeypntt0gj/Final%20final%20version%20B.png)
 
-FRISSÍTÉS: November elején újracsináltam az egész design munkámat és [feltettem a Behance-ra](https://www.behance.net/gallery/85965601/Jane-Doe-Psychologist-Landing-Page).
 
 ![Az ÚJ Design tervem. Most angolul.](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/9d1e9e85965601.5dbc5ed15bd92.png)
 
-*Folytatása következik...*
 
 
-![A brainstorming eredménye post-it-eken](https://dl.dropboxusercontent.com/s/zz1hqxf0vpv8q7z/20190429_144032-min.jpg)
-
-![A témakörök fontossági sorba való rendezése](https://dl.dropboxusercontent.com/s/x0sn2nfpuikkcq4/20190429_145222-min.jpg)
-
-![Perszónák Jane Doe pszichológus honlapjához](https://dl.dropboxusercontent.com/s/7j2pytghgfy5myd/persz%C3%B3n%C3%A1k1-min.png)
 
