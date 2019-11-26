@@ -1,174 +1,154 @@
 ---
-title: Jane Doe pszichológus magánpraxisa
+title: Jane Doe psychologist private praxis
 date: '2019-06-30'
 thumbnail: /assets/images/design/jane_doe_pszichologus_honlap_2019.jpg
-hexagonImage: /assets/images/design/jane_doe_psychologist_hexagon.jpg
 excerpt: >-
-  You are the expert in your life—your emotions, dilemmas, and questions. I use my professional knowledge and experience to help You to find your own coping skills to solve your problem. This means a working together on both sides.
-type: website
-category: 'case study'
-expertise: null
-platform: null
-deliverables: null
-website: null
+  Egy pszichológus barátom magánpraxisa számára készítettem egy weboldalt, hogy
+  több kuncsaftot érjen el. A barátom kérésére nem adhatok ki személyes
+  információt róla, a design tervekbe is kitalált adatokat raktam.
+type:
+  - landing page
+category: case study
+expertise: 'Research, Design, Information Architecture, Visual Design'
+platform: 'responsive website for mobile, tablet and desktop'
+deliverables: UI Design
+website: '-'
 ---
-*FRISSÍTÉS: Időközben újracsináltam ezt a munkámat. Képként hozzáadtam a cikk végén.*
 
-Személyes információt nem adok ki az ügyfelemről, ami elhangzott az üléseken az UX tervezés során. Éppen ezért „Jane” néven fogok rá hivatkozni. Összefoglaló jelleggel szeretném bemutatni annak a folyamatát, hogy hogyan, milyen tények és következtetések alapján jutottam a megoldáshoz. Megindoklom, hogy miért ezeket a megoldásokat választottam.
+## What I did
+Egy reszponzív landing page-et terveztem a pszichológiai segítségnyújtás/tanácsadás iránt érdeklődő egyének számára..
 
-## Az első alkalom
+---
+## Interviews, UX research
 
-A tervezést az ügyféllel folytatott interjúval kezdtem. Tudtam, hogy egy pszichológusnak (az egyik ismerősömnek) kell honlapot készítenem a magánpraxisa beindításához. Azt mondta nekem, hogy gyászfeldolgozással foglalkozik. Egy kicsit utánajártam az interneten a dolgoknak és kigondoltam, hogy mikre szeretnék rákérdezni, majd készítettem egy interjú szkriptet.
+Legelső lépésként szkript alapján interjúkat folytattam az ügyfelemmel, hogy
+1. Kiderítsem pontosan mely területekkel foglalkozik a pszichológián belül;
+2. Kipuhatoljam kik járnak hozzá tanácsadásra;
+3. Feltárjam, hogy az első alkalmakkor mikre kérdeznek rá a pszichológiai tanácsadással kapcsolatban Pl. milyen problémák merülnek fel a tanácsadással kapcsolatban.
 
-Az interjú során kiderült, hogy Jane nem csak a gyászfeldolgozással foglalkozik, hanem sokkal több mindennel, így aztán változtatnom kellett az előre kigondolt  kérdéseken. Jane felsorolt „tíz millió dolgot” a magánpraxisával kapcsolatban, hogy miket szeretne csinálni. Világosan látszott, hogy erősen priorizálni kell a későbbiekben a problémákat, hogy mely területekre essen a fókusz.
+Az interjúról hangfelvételt készítettem, hogy többször visszahallgathassam. Interjú szkript link?
 
-Sajnos a lehetséges felhasználókkal nem lehetett interjút készíteni, hiszen etikai szemszögből nem lenne elfogadható, ha az emberek a személyes problémáikról beszéljenek egy idegennek, aki még csak nem is pszichológus. Nem is akarnának.
+Erősen priorizálni kellett, hogy az ügyfelem mely területekkel szeretne foglalkozni a magánpraxisában, ugyanis egy csomó dolgot említett nekem a karriertanácsadástól kezdve a pszichodrámán át a gyászfeldolgozásig. Látszott, hogy nem volt egyértelmű koncepciója - mindent pedig nem lehet belezsúfolni.
+Három fő terület maradt, a többit elvetettük:
+1. **Veszteségfeldolgozás**
+2. **Krízis intervenció** (később Tanácsadásra módosult)
+3. **Stresszkezelés**
+4. Karrier és pályatanácsadás
+5. Életvezetési kérdések
+6. Egyéni/csoportos tréningek (autogén, pszichodráma, szociális készségek)
 
-Jane-t egyébként is korlátozza a titoktartás abban, hogy beszéljen a legutóbbi esetekről részletesen. Ezért úgy éreztem, hogy kicsit általánosabb síkon kellett mozognom a vele folytatott interjú alatt. Viszont Jane pszichológus révén nagyon jól ismeri a hozzá forduló egyének problémáit, rengeteg tapasztalatot szerzett ezen a téren. Teljesen elfogadhatónak tartottam az ő elmondásaira hagyatkozni a tervezés során. Nem befolyásoltam a válaszait, hanem hagytam őt kibontakozni az interjú alatt.
- Az interjúról hangfelvétel készült.
+---
+## The problem
 
-### Az interjúnak 3 célkitűzése volt:
-
-1. Megtudni, hogy Jane pontosan mely területekkel foglalkozik a pszichológián belül (veszteségfeldolgozás, ??).
-2. Annak kiderítése, hogy kik járnak hozzá.
-3. Feltárni, hogy az első alkalmakkor mire kérdeznek rá a pszichológiai tanácsadással kapcsolatban.
-
-## A második alkalom
-
-Brainstorming-gal kezdtük, mely során post-it-ekre írtuk fel az ügyfelek problémáit. Utána csoportosítottuk a problémákat és mindegyik problémahalmaznak nevet is adtunk. Ezt követően Jane-nek elsőnek ki kellett választania a három, szerinte legfontosabb problémacsoportot. Végezetül e három csoport közül is meg kellett határoznia a legeslegfontosabbat.
-
-![A brainstorming eredménye post-it-eken](https://dl.dropboxusercontent.com/s/zz1hqxf0vpv8q7z/20190429_144032-min.jpg)
-
-### Az alábbi problémacsoportokat állítottuk fel:
+Következő alkalommal brainstorming-gal kezdtünk, mely során post-it-ekre írtuk a pszichológiai tanácsadással kapcsolatben felmerül problémákat, majd csoportosítottuk azokat. Ezután kiválasztattam a legeslegfontosabb problémahalmazt.
 
 * **Elérhetőség** (a pszichológus személyének megközelíthetősége)
-* **Keretek** (pl. biztonságot ad a kliensnek, magázás fontossága, lemorzsolódás, hatékonyság stb.)
+* **Keretek** (pl. biztonságot ad a kliensnek, a magázás fontossága, lemorzsolódás ellen, hatékonyság miatt stb.)
 * **Etika** (pl. titoktartás, adatvédelem, anonimitás stb.)
 * Indikációk (pl. Cry for help)
 * Előítéletek (pszichológussal szemben, illetve, hogy a pszichológust felkeressék)
 * Anyagiak (drága)
 
-**A legfontosabb problémának az Elérhetőséget tekintette, utána jött a Keretek és az Etika.** Utána rákérdeztem, hogy a pszichológusokkal szembeni előítéletet miért nem választotta. Azt válaszolta, hogy ennek a fenti háromnak a megoldásával ez is megoldódik. Elfogadtam az érvelését.
+A legfontosabb probléma az elérhetőség, azaz a pszichológus személyének megközelíthetősége. Különösen fontos a közvetlenség, nyitottság, barátságosság, mert az emberek idegenkednek, negatív kép párosul a pszichológusokhoz az előítéletek miatt.
 
-A következő lépésben felírattam vele azokat a területeket, amelyekkel szeretne foglalkozni a magánpraxisában. Utána ezeket fontosság szerinti sorba rendeztettem vele. A prioritás szerinti sorrend:
+---
+## Users & Audience
 
-1. **Veszteségfeldolgozás**
-2. **Krízis intervenció** (később ez Tanácsadásra módosult)
-3. **Stresszkezelés**
-4. Karrier és pályatanácsadás
-5. Életvezetési kérdések
-6. Egyéni/csoportos tréningek (autogén, pszichodráma, szoc. készségek)
+Az ügyfelem az interjú során megemlítette, hogy ő inkább 18 éves kortól felfelé szeretne tanácsadást nyújtani (fiatalkorúak esetén szülői beleegyezésre van szükség, több a papírmunka). Ezért csak a felnőttekre szűkítettük le célcsoportunkat.
 
-![A témakörök fontossági sorba való rendezése](https://dl.dropboxusercontent.com/s/x0sn2nfpuikkcq4/20190429_145222-min.jpg)
+Felhasználói történeteket találtunk ki a pszichológiai tanácsadással kapcsolatban, az alábbi séma szerint:
+*“Én mint [felhasználó típusa], szeretnék [valamit elérni] azért, hogy [valamilyen okból]”* formában.
 
-Jane sokféle területtel szeretett volna foglalkozni, beleértve a gyerekekkel foglalkozást, pszichodrámát, csoportos foglalkozásokat stb. Azonban egyszer megemlítette, hogy ő inkább 18 éves kortól felfelé szeretne tanácsadást nyújtani. Itt javasoltam neki, hogy szűkítsük le a célcsoportot a felnőttekre.
+![User stories created for the psychologist website (in Hungarian)](https://dl.dropboxusercontent.com/s/7j2pytghgfy5myd/persz%C3%B3n%C3%A1k1-min.png)
 
+Megállapításra került, hogy alapvetően inkább a fiatal felnőtt korosztály lehet fogékony a pszichológiai tanácsadás iránt. Méghozzá középosztálybeliek, akik meg tudják fizetni a pszichológust (az óradíj általában 5.000-8.000 Ft között mozog. Budapesten 10.000 felett is lehet).
 
-### Felhasználói történetek és perszónaalkotás
-
-Ezután mondattam Jane-nel felhasználói történeteket *“Én mint [felhasználó típusa], szeretnék [valamit elérni] azért, hogy [valamilyen okból]”* formában.
-
-Nehézséget jelentett, hogy túl szerteágazóak a kliensek, sokféle problémával küszködnek, és emiatt nehéz általános perszónával lefedni őket. A problémák személyspecifikusak és a megoldás rájuk szintén az. Emiatt inkább a felhasználói történetekből indultam ki, majd hozzájuk rendeltem a képeket.
-
-![Perszónák Jane Doe pszichológus honlapjához](https://dl.dropboxusercontent.com/s/7j2pytghgfy5myd/persz%C3%B3n%C3%A1k1-min.png)
-
-Ennek ellenére megállapítható volt, hogy alapvetően inkább a fiatal felnőtt korosztály lehet fogékony a pszichológiai tanácsadás, veszteségfeldolgozás, stresszkezelés hármas iránt. Méghozzá középosztálybeliek, akik meg tudják fizetni a pszichológust. Tájékoztatásul közlöm, hogy a pszichológiai tanácsadás óradíja általában 5.000-8.000 Ft között mozog. Budapesten ez 10.000 felett is lehet.
-
-
-### Értékajánlat, branding
-
+### Value proposition:
 *Azoknak a középosztálybeli fiatal felnőtteknek,
 akik pszichológus tanácsára szorulnak,
 Jane Doe pszichológus magánpraxisa
 segít rávezetni őket a megoldásra.*
 
-Jane Doe **közvetlen**, **megközelíthető** és **profi** pszichológus.
-* módszertanilag sokféle,
-* spontán, facilitátor,
-* személyében közvetlen.
+---
+## Constrains
 
-## A harmadik alkalom – Versenytárs-kutatás
+A kliensekkel nem lehetett interjút készíteni, hiszen az emberek a személyes problémáikról nem beszélnének egy idegennek. Helyette a pszichológus barátom elmondásaira hagyatkoztam, aki nagyon jól ismeri a hozzá fordulók problémáit. Természetesen őt is korlátozza a titoktartás abban, hogy beszéljen a legutóbbi esetekről részletesen. Ezért úgy éreztem, hogy kicsit általánosabb síkon kellett mozognom a vele folytatott interjú alatt.
 
-Rákerestem más pszichológusok honlapjaira (23 db) és kielemeztem őket az előnyeik és a hátrányaik tekintetében.
+A pszichológiai tanácsadásnak van egy szakmailag meghatározott menete, ami a telefonhívással kezdődik, így az user journey, illetve tágabb értelemben a customer journey is előre megszabott, attól eltérni nem szabad. Fontos a hitelesség és a szakmaiság fenntartása, mivel sok kókler "tanácsadó" van az interneten.
 
-Néhány összefoglaló statisztikai információt közreadok:
-* Magázódás: 17 oldalon (74%)
-* Leggyakoribb domináns szín: a zöld (7 oldalon, 30%)
-* Az árak nincsenek feltüntetve: 14 oldalon (61%)
-* Az egyes menüpontok és előfordulási gyakoriságuk:
-  1. **Kapcsolat**, Elérhetőségeim: 18
-  2. **Bemutatkozás**, Bemutatkozom: 16
-  3. **Amivel hozzám fordulhat**, Mivel fordulhat hozzám?: 8
-  4. **Módszerek**, Alkalmazott módszerek: 7
-  5. Terápia, ár és/vagy családterápia: 7
-  6. Blog, cikkek: 7
-  7. Árak, információ, időpontfoglalás: 7
-  8. **Főoldal** vagy kezdőlap: 6
-  9. stb.
+Nehézséget jelentett, hogy túl szerteágazóak a kliensek, sokféle problémával küszködnek, és emiatt nehéz általános perszónával lefedni őket. A problémák személyspecifikusak és a megoldás rájuk szintén az.
 
+---
+## Design process
+
+A legelső lépés mindig a szövegek, a tartalmak, a navigáció, oldaltérkép stb. elkészítése az oldal számára, hiszen ezek nélkül nem lehet design tervet készíteni. A tartalom határozza meg, hogy milyen elrendezést használunk.
+
+Utána kielemeztem a versenytársak honlapjait és igyekeztem a jó gyakorlatokat átvenni, ihletet meríteni belűlük. Mindig így szoktam kezdeni a tervezést.
+
+![Inspiration Board from the competitors' websites](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/34dfb085965601.5ddd4b40c8eb2.jpg)
+
+
+Említésre méltó honlapok:
 | Versenytárs | Előnyök | Hátrányok                                                                                                                                                                                                                                                                                            |
  --- | --- | ---
-| [Lázár Gergely](http://gery.hu/) | A vélemények rész nagyon ötletes! Vannak interjúi, videói és cikkei (Youtube, Facebook). Szép ikonok. Pénzvisszafizetési garancia. | Tegeződik. Túl sok önsztárolás. Nincs elég végzettsége hozzá. Nem elég feltűnő a kapcsolat rész. Túl sok szöveg, elég apró betűvel, sorkizárás, egyértelműbbé is tehetné, hogy mely területek kiemeltek.
-| [Kiss Anna](https://kiss-anna.hu/) | Szép, terápiás zöld szín, kifejező kép. Jó arckép a pszichológusról. | Talán túlságosan is nagy a fotója. Accessibility hiba a gombnál (alacsony kontrasztarány). A bemutatkozás sok, kevésbé releváns infó a felhasználók számára, nem a CV bemutatása a lényeg, az ügyfél az első.
-| [Mindset Pszichológia](https://mindsetpszichologia.hu/) | A design profi | Lila = kreativitás és zöld = nyugtató kombó talán nem jó ide. A zöld gomb kontrasztaránya pocsék (1,99!) „Pszichológiai központunkban cikkek, terápia, tanácsadás, tréningek, rendezvények, oktatás és kutatás által segítjük a társadalom és a benne élő egyének fejlődését – a te fejlődésedet.” Túl általánosnak érzem, bár lehet még jó is.
-| [Torma Zita](http://tormazita.hu/index.php) | Egyszerű honlap, egészen jó. A felhőanimáció ötletes. | Túl csajos színek (pasztell), ha a célcsoport döntően nőkből áll, akkor ez teljesen oké.
-| [Ferles Péter](https://ferlespeter.hu/) | Tűrhető design, de semmi extra. Adatkezelési tájékoztató van (bár az elhelyezése nem szerencsés) | Középre igazítást ne! Vizuális hierarchia, betűvastagság problémák. Néhol zsúfolt (kevés padding). Nagyon lassan tölt be.
-| [Deliága Éva](http://gyermekpszichologia.info/) | 10 ezer facebook követő. Sok médiaszereplés. | Bal felső sarok hamburger menü hiba (konvenciók). Margók rosszak, zsúfolt.
+| [Mindset Pszichológia](https://mindsetpszichologia.hu/) | A legprofibb munka, amit láttam a pszichológus honlapok közt. | Lila = kreativitás és zöld = nyugtató kombó. A zöld gomb kontrasztaránya pocsék (1,99!) „Pszichológiai központunkban cikkek, terápia, tanácsadás, tréningek, rendezvények, oktatás és kutatás által segítjük a társadalom és a benne élő egyének fejlődését – a te fejlődésedet.” Kicsit általánosnak érzem, de attól függetlenül nagyon jó lehet.
+| [Torma Zita](http://tormazita.hu/index.php) | Egyszerű honlap, egészen jó. A felhőanimáció nagyon ötletes, ahogy jönnek a sötét fellegek, majd elszállnak a gondok. | Túl csajos színek (pasztell), ha a célcsoport döntően nőkből áll, akkor kiváló!
+| [Lázár Gergely](http://gery.hu/) | A vélemények rész nagyon ötletes! Vannak interjúi, videói és cikkei. Szép ikonok. Pénzvisszafizetési garancia. | Tegeződik. Túl sok önsztárolás. Nincs elég végzettsége hozzá. Nem elég feltűnő a kapcsolat rész. Túl sok szöveg, elég apró betűvel, sorkizárás, egyértelműbbé is tehetné, hogy mely területek kiemeltek.
+| [Kiss Anna](https://kiss-anna.hu/) | Szép, terápiás zöld szín, kifejező kép. Jó arckép a pszichológusról. | Accessibility hiba a gombnál (alacsony kontrasztarány). A bemutatkozás rész talán egy kicsit önéletrajz-szagú, bár nagyon fontos hangsúlyozni a szakmaiságot, a megfelelő végzettséget. Így lehet valaki hiteles. Szerintem elég tudatosan lett így kialakítva.
 [Versenytárskutatás: előnyök és hátrányok. Egy részlet.]
 
-Feltűnt nekem, hogy a pszichológus honlapok tekintélyes részén hiányzott az adatkezelési tájékoztató. Ugyanúgy fontos lehet hangsúlyozni a pszichológusok titoktartási kötelezettségét, hogy könnyebben elnyerhessük az ügyfél bizalmát. Ez különösen fontos a pszichológusokhoz társított negatív kép miatt. Mindazonáltal lehet alapja pszichológusokkal szembeni előítéleteknek, ha például valakinek negatív tapasztalatai voltak egy pszichológussal. Problémát jelent, hogy az interneten vannak kókler „tanácsadók”, akik nem rendelkeznek olyan végzettséggel, hogy pszichológusnak nevezhetnék magukat.
 
-## A negyedik alkalom
+Ezt követően kezdtem el papíron ötletelni, skicceket, vázlatokat készíteni. Kipróbáltam az összes ötletemet, a különböző elrendezéseket. Az egész folyamat végére összeállnak az ötletek egy egységes elképzeléssé és így meg tudom rajzolni az egész low fidelity design tervet.
 
-Átbeszéltük, hogy milyen információkat szeretnénk a honlapon prezentálni. Kértem Jane-től szövegeket, amiket felhasználok majd a honlapon, beleértve a bemutatkozást, a 3 fő terület (veszteségfeldolgozás, tanácsadás és stresszkezelés) és a módszerek rövid leírását. Plusz egy profi fotót is kértem, hogy csináltasson magáról.
+![Paper sketches, results from the brainstorming sessions with my client](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/40289e85965601.5ddd4b40c874c.jpg)
 
-Megterveztem az oldal információs architektúráját. Szintén beleástam magamat a GDPR és az adatkezelési tájékoztatók rejtelmeibe, ami igen hasznosnak bizonyult.
+Végül digitálisan kezdek el dolgozni. A prototípusok felépítésére a Figmát használom. (Régebben az Axure RP 8-cal dolgoztam.) Az így készített tervek high fidelity. Ezeken dolgozok tovább a már végleges UI design kialakítása felé.
 
-User journey-t nem csináltam, mert a pszichológiai tanácsadásnak van egy szakmailag megszabott folyamata, ami a telefonhívással kezdődik. Betekintést azért kaptam Jane-től, mert sokat kérdeztem a tanácsadás menetéről. Még soha az életemben nem vettem részt pszichológiai tanácsadáson. Jane azt is említette, hogy sokan mások ajánlása alapján választanak maguknak pszichológust, akiknek már segítséget nyújtott.
+----
+## The result
 
-Sajnos a későbbiekben Jane elfoglaltsága (és személyes okok) miatt miatt félbemaradt a projekt. Nagy kár érte, mert már a usability tesztelést is tervezgettem. Mindenesetre a bonyodalmak után egyedül folytattam a munkát, mert nem szokásom feladni, szükségem van referenciákra a portfóliómhoz.
+### Colors
 
-## Egyedül folytatva – Drótvázazás, look&feel, UI design
+A nyugtató, terápiás zöldes-türkizes színt kombináltam a profizmust, komolyságot sugallmazó sötétkékes színnel, ami egészen feketének hat. A fotón látható modell meleg színe, barátságos megjelenése kontrasztban áll a türkiz és a sötétkék nyugodtságával, hűvösségével és tárgyilagosságával.
 
-**Felhívom a figyelmet**, hogy ezek csak előzetes design tervek, melyek nincsenek még letesztelve a felhasználókkal! Ha Jane úgy döntene, hogy mégis akarja a honlapot, akkor természetesen el fogom végezni a teszteket a szürkeárnyalatos drótvázon. Talán 2 tesztelés-javítás iteráció elég is lenne egy ilyen egyszerű landing page-hez.
+![Color and type system used](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/60fddd85965601.5d8b7dc6ba092.png)
 
-Mindig papíron kezdek el tervezni filctollal. Mindig ötleteléssel kezdek, majd miután összeállt az elképzelésem, megrajzolom papíron az egész design-t (low fidelity sketch). És csak ezután kezdek el digitálisan dolgozni.
+### Typography
 
-![A papíron elkészített egyik designtervem](https://dl.dropboxusercontent.com/s/jl9r908t6n8879n/20190701_145243-min.jpg)
+A tipográfia terén talpatlan betűtípusokat választottam. Több kombinációt kipróbáltam. Végül ez a három párosítás maradt versenyben:
+1. Címsor: **PT Sans**, szövegtörzs: **Muli** 
+2. Címsor: **Ubuntu** szövegtörzs: **PT Sans**
+3. Címsor: **Fira Sans** szövegtörzs: **Fira Sans**
 
-A drótvázazáshoz az Axure RP 8-at használom diákliszensszel. Az UI design-okat a Figmával készítem.
+![Some font combinations I considered](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/cf482985965601.5ddd635a712e6.png)
 
-Sajnos kénytelen voltam néhány helyen Lorem Ipsum szöveget használni a hiányos információs architektúra miatt. Továbbá a [CreativeMarket.com](https://creativemarket.com/) oldalon kerestem képeket a design-hoz.
-
-* [A drótváz ezen a linken érhető el](https://ouu2o2.axshare.com/#g=1&p=home).
-
-* [Az UI design ezen a linken érhető el](https://www.figma.com/file/P2XOgxteMM62pzWGb6tmJ9LP/janeDoePsychologist2019?node-id=0%3A1)
-
-Fontos volt a megfelelő hangnem megtalálása
-A magázásnak fontos szerepe van a tanácsadás során, mert ezek a formális keretek biztonságérzést, kontrollérzetet nyújtanak a kliens számára. Igyekeztem megtalálni az egyensúlyt a magázódás és a pszichológus személyének elérhetősége vagy megközelíthetősége között, amivel oldani szeretném a pszichológusokkal szembeni ellenérzéseket.
-
-A design világos, a színösszetétele színvakbarát és a kontrasztarány mindenhol megfelelő (WCAG 2.1 kompatibilis). A nyugtató, terápiás zöldes-türkizes színt kombináltam a profizmust, komolyságot sugallmazó „sötétkék” színnel, ami egészen feketének hat. A fotón látható modell meleg színe, barátságos megjelenése kontrasztban áll a türkiz és a sötétkék nyugodtságával és hűvösségével.
-
-A tipográfia terén talpatlan betűtípusokat választottam. Nekem a „B” változat tetszik egy picivel jobban.
-
-* az „A” változat: **PT Sans** címsor, **Muli** szövegtörzs
-* a „B” változat: **Ubuntu** címsor, **PT Sans** szövegtörzs
-
-FRISSÍTÉS: Végül az új munkámban a **Fira Sans** mellett tettem le a voksomat.
-
-Az Ubuntu kortárs stílusú, precíz, megbízható és szabad szemléletet közvetít. Nagyon jó az olvashatósága, szépek benne a lágyabb ívű geometrikus formák félkövér stílusban. Tetszik az 'l' betű ívelt vége.
+Az Ubuntu kortárs stílusú, precíz, megbízható és szabad szemléletet közvetít. Jó az olvashatósága, szépek benne a lágyabb ívű geometrikus formák félkövér stílusban. Tetszik az 'l' betű ívelt vége.
 
 A PT Sans egy keskenyebb betűkkel rendelkező (jól látszik ez az 'o' betű tojásdad alakján), modern, humanisztikus betűcsalád. Az ívelt 'l' betű itt is gyönyörű.
 
-A Muli egy jól olvasható, minimalisztikus talpatlan betűcsalád kifejezetten kijelzőkhöz tervezve. Számomra neutrális, semleges hatású. A PT Sans és a Muli x-magassága (x-height) azonos.
+A Muli egy jól olvasható, minimalisztikus talpatlan betűcsalád kifejezetten kijelzőkhöz tervezve. Számomra neutrális, semleges hatással bír. A PT Sans és a Muli x-magassága (x-height) azonos.
 
-A választott modernebb stílusú betűcsaládok jobban passzolnak a fiatalosabb célcsoport számára. Természetesen szubjektív lehet, hogy kinek melyik tetszik, viszont a legjobb, ha a felhasználónak nem is tűnik fel, hogy milyen betűcsaládokat használtam.
+A Fira Sans egy olvashatóságra optimalizált humanista stílusú talpatlan betűtípus, a Mozilla FirefoxOS számára készült. tetszik benne az ívelt 'l' betű, a karakteres 'y', a 'g' betű anyaghiánya. A felfele kilógó betűszárak teteje vágott stílusú. 18 kölönbözű stílust tartalmaz a betűcsalád. Címsorként nagyon jó a vastagsága, barátságos és hívogató a megjelenése.
 
-![A kész UI design „B” változata](https://dl.dropboxusercontent.com/s/4yl24eeypntt0gj/Final%20final%20version%20B.png)
+Végül a **Fira Sans** mellett tettem le a voksomat.
 
-FRISSÍTÉS: November elején újracsináltam az egész design munkámat és [feltettem a Behance-ra](https://www.behance.net/gallery/85965601/Jane-Doe-Psychologist-Landing-Page).
+### Information Architecture, Tone of text
 
-![Az ÚJ Design tervem. Most angolul.](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/9d1e9e85965601.5dbc5ed15bd92.png)
+Fontos volt a megfelelő hangnem megtalálása a perszónánkkal. A magázásnak fontos szerepe van a tanácsadás során, mert ezek a formális keretek biztonságérzést és kontrollérzetet nyújtanak a kliensek számára. Igyekeztem megtalálni az egyensúlyt a magázódás és a pszichológus személyének megközelíthetősége között, amivel oldani szeretném a pszichológusokkal szembeni ellenérzéseket. Külön fel kellett hívni a figyelmet a pszichológusi titoktartásra.
 
-*Folytatása következik...*
+### Layout
 
+Az órási negatív tér alkalmazásával a nyitottságot és befogadást közvetítve a érdeklődők számára. A zsúfoltság ezzel szemben zártságot, intimitást vagy megközelíthetetlenséget sugallmazhat. Némi kreativitást is belevittem.
+
+![Jane Doe psychologist private praxis.](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/9d1e9e85965601.5dbc5ed15bd92.png)
+
+----
+## The retrospective
+
+Sajnos Jane elfoglaltsága és személyes okok miatt mégsem lett szükség a weboldalra, viszont az UI design elkészült. Kár érte.
+
+Izgalmas volt épp egy pszichológust meginterjúvolni, egy kicsit tanultam a pszichológusokról és a pszichológiáról, sok hasznos információval lettem gazdagabb. Végre alkalmazhattam egy kicsit az UXstudio kurzusán tanult technikákat egy valós projekten keresztül.
+
+A pszichológus honlap kapcsán felmerült adatkezelési tájékoztató szükségessége a személyes adatok kényessége miatt, így beleástam magamat a GDPR és az adatkezelési tájékoztatók rejtelmeibe.
+
+A pszichológus barátom azt is említette, hogy sokan mások ajánlása alapján választanak maguknak pszichológust, akiknek már segítséget nyújtott. Utólag belegondolva érdemes lehet még ajánlásokat is megjeleníteni a honlapon.
