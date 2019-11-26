@@ -145,17 +145,10 @@ Az órási negatív tér alkalmazásával a nyitottságot és befogadást közve
 ----
 ## The retrospective
 
-Sajnos Jane elfoglaltsága és személyes okok miatt mégsem lett szükség a weboldalra, viszont az UI design elkészült.
+Sajnos Jane elfoglaltsága és személyes okok miatt mégsem lett szükség a weboldalra, viszont az UI design elkészült. Kár érte.
 
-A pszichológus honlapok egy részén volt adatkezelési tájékoztató, amit fontosnak tekintettem a személyes adatok kényessége miatt is így beleástam magamat a GDPR és az adatkezelési tájékoztatók rejtelmeibe, ami igen hasznosnak bizonyult.
+Izgalmas volt épp egy pszichológust meginterjúvolni, egy kicsit tanultam a pszichológusokról és a pszichológiáról, sok hasznos információval lettem gazdagabb. Végre alkalmazhattam egy kicsit az UXstudio kurzusán tanult technikákat egy valós projekten keresztül.
 
-Ugyanúgy fontos lehet hangsúlyozni a pszichológusok titoktartási kötelezettségét, hogy könnyebben 
+A pszichológus honlap kapcsán felmerült adatkezelési tájékoztató szükségessége a személyes adatok kényessége miatt, így beleástam magamat a GDPR és az adatkezelési tájékoztatók rejtelmeibe.
 
-Betekintést azért kaptam Jane-től, mert sokat kérdeztem a tanácsadás menetéről. Még soha az életemben nem vettem részt pszichológiai tanácsadáson. Jane azt is említette, hogy sokan mások ajánlása alapján választanak maguknak pszichológust, akiknek már segítséget nyújtott.
-
-
-
-
-
-
-
+A pszichológus barátom azt is említette, hogy sokan mások ajánlása alapján választanak maguknak pszichológust, akiknek már segítséget nyújtott. Utólag belegondolva érdemes lehet még ajánlásokat is megjeleníteni a honlapon.
