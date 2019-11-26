@@ -13,52 +13,61 @@ expertise: 'Research, Design, Information Architecture, Visual Design'
 platform: 'responsive website for mobile, tablet and desktop'
 deliverables: UI Design
 ---
-*FRISSÍTÉS: Időközben újracsináltam ezt a munkámat. Képként hozzáadtam a cikk végén.*
+## What I did
+Egy reszponzív landing page-et terveztem a pszichológiai segítségnyújtás/tanácsadás iránt érdeklődő egyének számára..
 
-Személyes információt nem adok ki az ügyfelemről, ami elhangzott az üléseken az UX tervezés során. Éppen ezért „Jane” néven fogok rá hivatkozni. Összefoglaló jelleggel szeretném bemutatni annak a folyamatát, hogy hogyan, milyen tények és következtetések alapján jutottam a megoldáshoz. Megindoklom, hogy miért ezeket a megoldásokat választottam.
+## Interviews, UX research
 
-## Az első alkalom
+Legelső lépésként szkript alapján interjúkat folytattam az ügyfelemmel, hogy
+1. Kiderítsem pontosan mely területekkel foglalkozik a pszichológián belül;
+2. Kipuhatoljam kik járnak hozzá tanácsadásra;
+3. Feltárjam, hogy az első alkalmakkor mikre kérdeznek rá a pszichológiai tanácsadással kapcsolatban Pl. milyen problémák merülnek fel a tanácsadással kapcsolatban.
 
-A tervezést az ügyféllel folytatott interjúval kezdtem. Tudtam, hogy egy pszichológusnak (az egyik ismerősömnek) kell honlapot készítenem a magánpraxisa beindításához. Azt mondta nekem, hogy gyászfeldolgozással foglalkozik. Egy kicsit utánajártam az interneten a dolgoknak és kigondoltam, hogy mikre szeretnék rákérdezni, majd készítettem egy interjú szkriptet.
+Az interjúról hangfelvételt készítettem, hogy többször visszahallgathassam. Interjú szkript link?
 
-Az interjú során kiderült, hogy Jane nem csak a gyászfeldolgozással foglalkozik, hanem sokkal több mindennel, így aztán változtatnom kellett az előre kigondolt  kérdéseken. Jane felsorolt „tíz millió dolgot” a magánpraxisával kapcsolatban, hogy miket szeretne csinálni. Világosan látszott, hogy erősen priorizálni kell a későbbiekben a problémákat, hogy mely területekre essen a fókusz.
+Erősen priorizálni kellett, hogy az ügyfelem mely területekkel szeretne foglalkozni a magánpraxisában, ugyanis egy csomó dolgot említett nekem a karriertanácsadástól kezdve a pszichodrámán át a gyászfeldolgozásig. Látszott, hogy nem volt egyértelmű koncepciója - mindent pedig nem lehet belezsúfolni.
+Három fő terület maradt, a többit elvetettük:
+1. **Veszteségfeldolgozás**
+2. **Krízis intervenció** (később Tanácsadásra módosult)
+3. **Stresszkezelés**
+4. Karrier és pályatanácsadás
+5. Életvezetési kérdések
+6. Egyéni/csoportos tréningek (autogén, pszichodráma, szociális készségek)
 
-Sajnos a lehetséges felhasználókkal nem lehetett interjút készíteni, hiszen etikai szemszögből nem lenne elfogadható, ha az emberek a személyes problémáikról beszéljenek egy idegennek, aki még csak nem is pszichológus. Nem is akarnának.
+## The problem
 
-Jane-t egyébként is korlátozza a titoktartás abban, hogy beszéljen a legutóbbi esetekről részletesen. Ezért úgy éreztem, hogy kicsit általánosabb síkon kellett mozognom a vele folytatott interjú alatt. Viszont Jane pszichológus révén nagyon jól ismeri a hozzá forduló egyének problémáit, rengeteg tapasztalatot szerzett ezen a téren. Teljesen elfogadhatónak tartottam az ő elmondásaira hagyatkozni a tervezés során. Nem befolyásoltam a válaszait, hanem hagytam őt kibontakozni az interjú alatt.
- Az interjúról hangfelvétel készült.
-
-### Az interjúnak 3 célkitűzése volt:
-
-1. Megtudni, hogy Jane pontosan mely területekkel foglalkozik a pszichológián belül (veszteségfeldolgozás, ??).
-2. Annak kiderítése, hogy kik járnak hozzá.
-3. Feltárni, hogy az első alkalmakkor mire kérdeznek rá a pszichológiai tanácsadással kapcsolatban.
-
-## A második alkalom
-
-Brainstorming-gal kezdtük, mely során post-it-ekre írtuk fel az ügyfelek problémáit. Utána csoportosítottuk a problémákat és mindegyik problémahalmaznak nevet is adtunk. Ezt követően Jane-nek elsőnek ki kellett választania a három, szerinte legfontosabb problémacsoportot. Végezetül e három csoport közül is meg kellett határoznia a legeslegfontosabbat.
-
-![A brainstorming eredménye post-it-eken](https://dl.dropboxusercontent.com/s/zz1hqxf0vpv8q7z/20190429_144032-min.jpg)
-
-### Az alábbi problémacsoportokat állítottuk fel:
+Következő alkalommal brainstorming-gal kezdtünk, mely során post-it-ekre írtuk a pszichológiai tanácsadással kapcsolatben felmerül problémákat, majd csoportosítottuk azokat. Ezután kiválasztattam a legeslegfontosabb problémahalmazt.
 
 * **Elérhetőség** (a pszichológus személyének megközelíthetősége)
-* **Keretek** (pl. biztonságot ad a kliensnek, magázás fontossága, lemorzsolódás, hatékonyság stb.)
+* **Keretek** (pl. biztonságot ad a kliensnek, a magázás fontossága, lemorzsolódás ellen, hatékonyság miatt stb.)
 * **Etika** (pl. titoktartás, adatvédelem, anonimitás stb.)
 * Indikációk (pl. Cry for help)
 * Előítéletek (pszichológussal szemben, illetve, hogy a pszichológust felkeressék)
 * Anyagiak (drága)
 
-**A legfontosabb problémának az Elérhetőséget tekintette, utána jött a Keretek és az Etika.** Utána rákérdeztem, hogy a pszichológusokkal szembeni előítéletet miért nem választotta. Azt válaszolta, hogy ennek a fenti háromnak a megoldásával ez is megoldódik. Elfogadtam az érvelését.
+A legfontosabb probléma az elérhetőség, azaz a pszichológus személyének megközelíthetősége. Különösen fontos a közvetlenség, nyitottság, barátságosság, mert az emberek idegenkednek, negatív kép párosul a pszichológusokhoz az előítéletek miatt. "A pszichológus vájkál". "Egy idegennek miért mondanám el?"
 
-A következő lépésben felírattam vele azokat a területeket, amelyekkel szeretne foglalkozni a magánpraxisában. Utána ezeket fontosság szerinti sorba rendeztettem vele. A prioritás szerinti sorrend:
+## Users & Audience
 
-1. **Veszteségfeldolgozás**
-2. **Krízis intervenció** (később ez Tanácsadásra módosult)
-3. **Stresszkezelés**
-4. Karrier és pályatanácsadás
-5. Életvezetési kérdések
-6. Egyéni/csoportos tréningek (autogén, pszichodráma, szoc. készségek)
+Az ügyfelem az interjú során megemlítette, hogy ő inkább 18 éves kortól felfelé szeretne tanácsadást nyújtani (fiatalkorúak esetén szülői beleegyezésre van szükség, több a papírmunka). Ezért csak a felnőttekre szűkítettük le célcsoportunkat.
+
+Felhasználói történeteket találtunk ki a pszichológiai tanácsadással kapcsolatban, az alábbi séma szerint:
+*“Én mint [felhasználó típusa], szeretnék [valamit elérni] azért, hogy [valamilyen okból]”* formában.
+
+Megállapításra került, hogy alapvetően inkább a fiatal felnőtt korosztály lehet fogékony a pszichológiai tanácsadás iránt. Méghozzá középosztálybeliek, akik meg tudják fizetni a pszichológust (az óradíj általában 5.000-8.000 Ft között mozog. Budapesten 10.000 felett is lehet).
+
+Value proposition
+
+
+
+## Constrains
+
+A kliensekkel nem lehetett interjút készíteni, hiszen az emberek a személyes problémáikról nem beszélnének egy idegennek. Helyette a pszichológus barátom elmondásaira hagyatkoztam, aki nagyon jól ismeri a hozzá fordulók problémáit. Természetesen őt is korlátozza a titoktartás abban, hogy beszéljen a legutóbbi esetekről részletesen. Ezért úgy éreztem, hogy kicsit általánosabb síkon kellett mozognom a vele folytatott interjú alatt.
+
+A pszichológiai tanácsadásnak van egy szakmailag meghatározott menete, ami a telefonhívással kezdődik, így az user journey, illetve tágabb értelemben a customer journey is előre megszabott, attól eltérni nem szabad.
+
+
+![A brainstorming eredménye post-it-eken](https://dl.dropboxusercontent.com/s/zz1hqxf0vpv8q7z/20190429_144032-min.jpg)
 
 ![A témakörök fontossági sorba való rendezése](https://dl.dropboxusercontent.com/s/x0sn2nfpuikkcq4/20190429_145222-min.jpg)
 
@@ -67,13 +76,13 @@ Jane sokféle területtel szeretett volna foglalkozni, beleértve a gyerekekkel 
 
 ### Felhasználói történetek és perszónaalkotás
 
-Ezután mondattam Jane-nel felhasználói történeteket *“Én mint [felhasználó típusa], szeretnék [valamit elérni] azért, hogy [valamilyen okból]”* formában.
+
 
 Nehézséget jelentett, hogy túl szerteágazóak a kliensek, sokféle problémával küszködnek, és emiatt nehéz általános perszónával lefedni őket. A problémák személyspecifikusak és a megoldás rájuk szintén az. Emiatt inkább a felhasználói történetekből indultam ki, majd hozzájuk rendeltem a képeket.
 
 ![Perszónák Jane Doe pszichológus honlapjához](https://dl.dropboxusercontent.com/s/7j2pytghgfy5myd/persz%C3%B3n%C3%A1k1-min.png)
 
-Ennek ellenére megállapítható volt, hogy alapvetően inkább a fiatal felnőtt korosztály lehet fogékony a pszichológiai tanácsadás, veszteségfeldolgozás, stresszkezelés hármas iránt. Méghozzá középosztálybeliek, akik meg tudják fizetni a pszichológust. Tájékoztatásul közlöm, hogy a pszichológiai tanácsadás óradíja általában 5.000-8.000 Ft között mozog. Budapesten ez 10.000 felett is lehet.
+
 
 
 ### Értékajánlat, branding
