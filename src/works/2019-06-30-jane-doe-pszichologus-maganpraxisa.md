@@ -1,121 +1,4 @@
 ---
-'0': E
-'1': g
-'10': 'n'
-'100': e
-'101': g
-'102': 'y'
-'103': é
-'104': 'n'
-'105': e
-'106': k
-'107': ' '
-'108': s
-'109': z
-'11': z
-'110': á
-'111': m
-'112': á
-'113': r
-'114': a
-'115': .
-'116': .
-'12': í
-'13': v
-'14': ' '
-'15': l
-'16': a
-'17': 'n'
-'18': d
-'19': i
-'2': 'y'
-'20': 'n'
-'21': g
-'22': ' '
-'23': p
-'24': a
-'25': g
-'26': e
-'27': '-'
-'28': e
-'29': t
-'3': ' '
-'30': ' '
-'31': t
-'32': e
-'33': r
-'34': v
-'35': e
-'36': z
-'37': t
-'38': e
-'39': m
-'4': r
-'40': ' '
-'41': a
-'42': ' '
-'43': p
-'44': s
-'45': z
-'46': i
-'47': c
-'48': h
-'49': o
-'5': e
-'50': l
-'51': ó
-'52': g
-'53': i
-'54': a
-'55': i
-'56': ' '
-'57': s
-'58': e
-'59': g
-'6': s
-'60': í
-'61': t
-'62': s
-'63': é
-'64': g
-'65': 'n'
-'66': 'y'
-'67': ú
-'68': j
-'69': t
-'7': z
-'70': á
-'71': s
-'72': /
-'73': t
-'74': a
-'75': 'n'
-'76': á
-'77': c
-'78': s
-'79': a
-'8': p
-'80': d
-'81': á
-'82': s
-'83': ' '
-'84': i
-'85': r
-'86': á
-'87': 'n'
-'88': t
-'89': ' '
-'9': o
-'90': é
-'91': r
-'92': d
-'93': e
-'94': k
-'95': l
-'96': ő
-'97': d
-'98': ő
-'99': ' '
 title: Jane Doe psychologist private praxis
 date: '2019-06-30'
 thumbnail: /assets/images/design/jane_doe_pszichologus_honlap_2019.jpg
@@ -130,6 +13,11 @@ expertise: 'Research, Design, Information Architecture, Visual Design'
 platform: 'responsive website for mobile, tablet and desktop'
 deliverables: UI Design
 website: '-'
+---
+
+## What I did
+Egy reszponzív landing page-et terveztem a pszichológiai segítségnyújtás/tanácsadás iránt érdeklődő egyének számára..
+
 ---
 ## Interviews, UX research
 
