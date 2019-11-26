@@ -83,21 +83,20 @@ A legelső lépés mindig a szövegek, a tartalmak, a navigáció, oldaltérkép
 
 Utána kielemeztem a versenytársak honlapjait és igyekeztem a jó gyakorlatokat átvenni, ihletet meríteni belűlük. Mindig így szoktam kezdeni a tervezést.
 
-Ezt követően kezdek el papíron ötletelni, skicceket, vázlatokat készíteni. Kipróbálom az összes ötletemet, a különböző elrendezéseket. Az egész folyamat végére összeállnak az ötletek egy egységes elképzeléssé és így meg tudom rajzolni az egész low fidelity design tervet.
-
-Végül digitálisan kezdek el dolgozni. A prototípusok felépítésére a Figmát használom. (Régebben az Axure RP 8-cal dolgoztam.) Az így készített tervek high fidelity.
-
-Ezeken dolgozok tovább a már végleges UI design kialakítása felé.
-
+Említésre méltó honlapok:
 | Versenytárs | Előnyök | Hátrányok                                                                                                                                                                                                                                                                                            |
  --- | --- | ---
+| [Mindset Pszichológia](https://mindsetpszichologia.hu/) | A legprofibb munka, amit láttam a pszichológus honlapok közt. design profi | Lila = kreativitás és zöld = nyugtató kombó. A zöld gomb kontrasztaránya pocsék (1,99!) „Pszichológiai központunkban cikkek, terápia, tanácsadás, tréningek, rendezvények, oktatás és kutatás által segítjük a társadalom és a benne élő egyének fejlődését – a te fejlődésedet.” Kicsit általánosnak érzem, de attól függetlenül nagyon jó lehet.
+| [Torma Zita](http://tormazita.hu/index.php) | Egyszerű honlap, egészen jó. A felhőanimáció nagyon ötletes, ahogy jönnek a fellegek, majd elszállnak a gondok. | Túl csajos színek (pasztell), ha a célcsoport döntően nőkből áll, akkor kiváló!
 | [Lázár Gergely](http://gery.hu/) | A vélemények rész nagyon ötletes! Vannak interjúi, videói és cikkei (Youtube, Facebook). Szép ikonok. Pénzvisszafizetési garancia. | Tegeződik. Túl sok önsztárolás. Nincs elég végzettsége hozzá. Nem elég feltűnő a kapcsolat rész. Túl sok szöveg, elég apró betűvel, sorkizárás, egyértelműbbé is tehetné, hogy mely területek kiemeltek.
-| [Kiss Anna](https://kiss-anna.hu/) | Szép, terápiás zöld szín, kifejező kép. Jó arckép a pszichológusról. | Talán túlságosan is nagy a fotója. Accessibility hiba a gombnál (alacsony kontrasztarány). A bemutatkozás sok, kevésbé releváns infó a felhasználók számára, nem a CV bemutatása a lényeg, az ügyfél az első.
-| [Mindset Pszichológia](https://mindsetpszichologia.hu/) | A design profi | Lila = kreativitás és zöld = nyugtató kombó talán nem jó ide. A zöld gomb kontrasztaránya pocsék (1,99!) „Pszichológiai központunkban cikkek, terápia, tanácsadás, tréningek, rendezvények, oktatás és kutatás által segítjük a társadalom és a benne élő egyének fejlődését – a te fejlődésedet.” Túl általánosnak érzem, bár lehet még jó is.
-| [Torma Zita](http://tormazita.hu/index.php) | Egyszerű honlap, egészen jó. A felhőanimáció ötletes. | Túl csajos színek (pasztell), ha a célcsoport döntően nőkből áll, akkor ez teljesen oké.
-| [Ferles Péter](https://ferlespeter.hu/) | Tűrhető design, de semmi extra. Adatkezelési tájékoztató van (bár az elhelyezése nem szerencsés) | Középre igazítást ne! Vizuális hierarchia, betűvastagság problémák. Néhol zsúfolt (kevés padding). Nagyon lassan tölt be.
-| [Deliága Éva](http://gyermekpszichologia.info/) | 10 ezer facebook követő. Sok médiaszereplés. | Bal felső sarok hamburger menü hiba (konvenciók). Margók rosszak, zsúfolt.
+| [Kiss Anna](https://kiss-anna.hu/) | Szép, terápiás zöld szín, kifejező kép. Jó arckép a pszichológusról. | Accessibility hiba a gombnál (alacsony kontrasztarány). A bemutatkozás rész talán egy kicsit önéletrajz-szagú, bár nagyon fontos hangsúlyozni a szakmaiságot, a megfelelő végzettséget. Így lehet valaki hiteles. Szerintem elég tudatosan lett így kialakítva.
 [Versenytárskutatás: előnyök és hátrányok. Egy részlet.]
+
+
+Ezt követően kezdtem el papíron ötletelni, skicceket, vázlatokat készíteni. Kipróbáltam az összes ötletemet, a különböző elrendezéseket. Az egész folyamat végére összeállnak az ötletek egy egységes elképzeléssé és így meg tudom rajzolni az egész low fidelity design tervet.
+
+Végül digitálisan kezdek el dolgozni. A prototípusok felépítésére a Figmát használom. (Régebben az Axure RP 8-cal dolgoztam.) Az így készített tervek high fidelity. Ezeken dolgozok tovább a már végleges UI design kialakítása felé.
+
 
 ## The result
 
