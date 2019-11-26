@@ -104,10 +104,24 @@ Ezt követően kezdtem el papíron ötletelni, skicceket, vázlatokat készíten
 
 Végül digitálisan kezdek el dolgozni. A prototípusok felépítésére a Figmát használom. (Régebben az Axure RP 8-cal dolgoztam.) Az így készített tervek high fidelity. Ezeken dolgozok tovább a már végleges UI design kialakítása felé.
 
-
+----
 ## The result
 
+### Colors
 
+A nyugtató, terápiás zöldes-türkizes színt kombináltam a profizmust, komolyságot sugallmazó „sötétkék” színnel, ami egészen feketének hat. A fotón látható modell meleg színe, barátságos megjelenése kontrasztban áll a türkiz és a sötétkék nyugodtságával, hűvösségével.
+
+
+### Typography
+
+### Information Architecture, Tone of text
+
+Fontos volt a megfelelő hangnem megtalálása a perszónánkkal. A magázásnak fontos szerepe van a tanácsadás során, mert ezek a formális keretek biztonságérzést és kontrollérzetet nyújtanak a kliensek számára. Igyekeztem megtalálni az egyensúlyt a magázódás és a pszichológus személyének megközelíthetősége között, amivel oldani szeretném a pszichológusokkal szembeni ellenérzéseket.
+
+### Layout
+ Az órási negatív tér alkalmazásával a nyitottságot és befogadást közvetítve a érdeklődők számára. A zsúfoltság ezzel szemben zártságot, intimitást vagy megközelíthetetlenséget sugallmazhat. Némi kreativitást és egyfajta szabálytalanságot is belevittem az egyhangú dobozok (div-ek) életébe. Nem is teljesen tudatosan terveztem ezt, de szerintem ez a fajta "szabálytalanságok" az ember hibáit is szimbolizálhatják, hogy senki sem tökéletes és rászorulhat egy másik, objektívebb nézőpontra, egy pszichológus személyén keresztül. Vagy hogy mindenki egyéniség
+
+----
 ## The retrospective
 
 Sajnos Jane elfoglaltsága és személyes okok miatt mégsem lett szükség a weboldalra, viszont az UI design elkészült.
@@ -121,10 +135,9 @@ Betekintést azért kaptam Jane-től, mert sokat kérdeztem a tanácsadás menet
 
 * [Az UI design ezen a linken érhető el](https://www.figma.com/file/P2XOgxteMM62pzWGb6tmJ9LP/janeDoePsychologist2019?node-id=0%3A1)
 
-Fontos volt a megfelelő hangnem megtalálása
-A magázásnak fontos szerepe van a tanácsadás során, mert ezek a formális keretek biztonságérzést, kontrollérzetet nyújtanak a kliens számára. Igyekeztem megtalálni az egyensúlyt a magázódás és a pszichológus személyének elérhetősége vagy megközelíthetősége között, amivel oldani szeretném a pszichológusokkal szembeni ellenérzéseket.
 
-A design világos, a színösszetétele színvakbarát és a kontrasztarány mindenhol megfelelő (WCAG 2.1 kompatibilis). A nyugtató, terápiás zöldes-türkizes színt kombináltam a profizmust, komolyságot sugallmazó „sötétkék” színnel, ami egészen feketének hat. A fotón látható modell meleg színe, barátságos megjelenése kontrasztban áll a türkiz és a sötétkék nyugodtságával és hűvösségével.
+
+
 
 A tipográfia terén talpatlan betűtípusokat választottam. Nekem a „B” változat tetszik egy picivel jobban.
 
