@@ -111,12 +111,16 @@ Végül digitálisan kezdek el dolgozni. A prototípusok felépítésére a Figm
 
 A nyugtató, terápiás zöldes-türkizes színt kombináltam a profizmust, komolyságot sugallmazó sötétkékes színnel, ami egészen feketének hat. A fotón látható modell meleg színe, barátságos megjelenése kontrasztban áll a türkiz és a sötétkék nyugodtságával, hűvösségével és tárgyilagosságával.
 
+![Color and type system used](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/60fddd85965601.5d8b7dc6ba092.png)
+
 ### Typography
 
 A tipográfia terén talpatlan betűtípusokat választottam. Több kombinációt kipróbáltam. Végül ez a három párosítás maradt versenyben:
 1. Címsor: **PT Sans**, szövegtörzs: **Muli** 
 2. Címsor: **Ubuntu** szövegtörzs: **PT Sans**
 3. Címsor: **Fira Sans** szövegtörzs: **Fira Sans**
+
+![Some font combinations I considered](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/cf482985965601.5ddd635a712e6.png)
 
 Az Ubuntu kortárs stílusú, precíz, megbízható és szabad szemléletet közvetít. Jó az olvashatósága, szépek benne a lágyabb ívű geometrikus formák félkövér stílusban. Tetszik az 'l' betű ívelt vége.
 
