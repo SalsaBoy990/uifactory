@@ -45,7 +45,7 @@ Következő alkalommal brainstorming-gal kezdtünk, mely során post-it-ekre ír
 * Előítéletek (pszichológussal szemben, illetve, hogy a pszichológust felkeressék)
 * Anyagiak (drága)
 
-A legfontosabb probléma az elérhetőség, azaz a pszichológus személyének megközelíthetősége. Különösen fontos a közvetlenség, nyitottság, barátságosság, mert az emberek idegenkednek, negatív kép párosul a pszichológusokhoz az előítéletek miatt. "A pszichológus vájkál". "Egy idegennek miért mondanám el?"
+A legfontosabb probléma az elérhetőség, azaz a pszichológus személyének megközelíthetősége. Különösen fontos a közvetlenség, nyitottság, barátságosság, mert az emberek idegenkednek, negatív kép párosul a pszichológusokhoz az előítéletek miatt.
 
 ## Users & Audience
 
@@ -56,65 +56,33 @@ Felhasználói történeteket találtunk ki a pszichológiai tanácsadással kap
 
 Megállapításra került, hogy alapvetően inkább a fiatal felnőtt korosztály lehet fogékony a pszichológiai tanácsadás iránt. Méghozzá középosztálybeliek, akik meg tudják fizetni a pszichológust (az óradíj általában 5.000-8.000 Ft között mozog. Budapesten 10.000 felett is lehet).
 
-Value proposition
-
+### Value proposition:
+*Azoknak a középosztálybeli fiatal felnőtteknek,
+akik pszichológus tanácsára szorulnak,
+Jane Doe pszichológus magánpraxisa
+segít rávezetni őket a megoldásra.*
 
 
 ## Constrains
 
 A kliensekkel nem lehetett interjút készíteni, hiszen az emberek a személyes problémáikról nem beszélnének egy idegennek. Helyette a pszichológus barátom elmondásaira hagyatkoztam, aki nagyon jól ismeri a hozzá fordulók problémáit. Természetesen őt is korlátozza a titoktartás abban, hogy beszéljen a legutóbbi esetekről részletesen. Ezért úgy éreztem, hogy kicsit általánosabb síkon kellett mozognom a vele folytatott interjú alatt.
 
-A pszichológiai tanácsadásnak van egy szakmailag meghatározott menete, ami a telefonhívással kezdődik, így az user journey, illetve tágabb értelemben a customer journey is előre megszabott, attól eltérni nem szabad.
+A pszichológiai tanácsadásnak van egy szakmailag meghatározott menete, ami a telefonhívással kezdődik, így az user journey, illetve tágabb értelemben a customer journey is előre megszabott, attól eltérni nem szabad. Fontos a hitelesség és a szakmaiság fenntartása, mivel sok kókler "tanácsadó" van az interneten.
+
+Nehézséget jelentett, hogy túl szerteágazóak a kliensek, sokféle problémával küszködnek, és emiatt nehéz általános perszónával lefedni őket. A problémák személyspecifikusak és a megoldás rájuk szintén az.
 
 
-![A brainstorming eredménye post-it-eken](https://dl.dropboxusercontent.com/s/zz1hqxf0vpv8q7z/20190429_144032-min.jpg)
+## Design process
 
-![A témakörök fontossági sorba való rendezése](https://dl.dropboxusercontent.com/s/x0sn2nfpuikkcq4/20190429_145222-min.jpg)
+A legelső lépés mindig a szövegek, a tartalmak, a navigáció, oldaltérkép stb. elkészítése az oldal számára, hiszen ezek nélkül nem tudsz design tervet készíteni. A tartalom határozza meg, hogy milyen elrendezést használunk. Tilos a Lorem ipsum sablonszöveg használata!
 
-Jane sokféle területtel szeretett volna foglalkozni, beleértve a gyerekekkel foglalkozást, pszichodrámát, csoportos foglalkozásokat stb. Azonban egyszer megemlítette, hogy ő inkább 18 éves kortól felfelé szeretne tanácsadást nyújtani. Itt javasoltam neki, hogy szűkítsük le a célcsoportot a felnőttekre.
+Utána kielemeztem a versenytársak honlapjait és igyekeztem a jó gyakorlatokat átvenni, ihletet meríteni belűlük. Mindig így szoktam kezdeni a tervezést.
 
+Ezt követően kezdek el papíron ötletelni, skicceket, vázlatokat készíteni. Kipróbálom az összes ötletemet, a különböző elrendezéseket. Az egész folyamat végére összeállnak az ötletek egy egységes elképzeléssé és így meg tudom rajzolni az egész low fidelity design tervet.
 
-### Felhasználói történetek és perszónaalkotás
+Végül digitálisan kezdek el dolgozni. A prototípusok felépítésére a Figmát használom. (Régebben az Axure RP 8-cal dolgoztam.) Az így készített tervek high fidelity.
 
-
-
-Nehézséget jelentett, hogy túl szerteágazóak a kliensek, sokféle problémával küszködnek, és emiatt nehéz általános perszónával lefedni őket. A problémák személyspecifikusak és a megoldás rájuk szintén az. Emiatt inkább a felhasználói történetekből indultam ki, majd hozzájuk rendeltem a képeket.
-
-![Perszónák Jane Doe pszichológus honlapjához](https://dl.dropboxusercontent.com/s/7j2pytghgfy5myd/persz%C3%B3n%C3%A1k1-min.png)
-
-
-
-
-### Értékajánlat, branding
-
-*Azoknak a középosztálybeli fiatal felnőtteknek,
-akik pszichológus tanácsára szorulnak,
-Jane Doe pszichológus magánpraxisa
-segít rávezetni őket a megoldásra.*
-
-Jane Doe **közvetlen**, **megközelíthető** és **profi** pszichológus.
-* módszertanilag sokféle,
-* spontán, facilitátor,
-* személyében közvetlen.
-
-## A harmadik alkalom – Versenytárs-kutatás
-
-Rákerestem más pszichológusok honlapjaira (23 db) és kielemeztem őket az előnyeik és a hátrányaik tekintetében.
-
-Néhány összefoglaló statisztikai információt közreadok:
-* Magázódás: 17 oldalon (74%)
-* Leggyakoribb domináns szín: a zöld (7 oldalon, 30%)
-* Az árak nincsenek feltüntetve: 14 oldalon (61%)
-* Az egyes menüpontok és előfordulási gyakoriságuk:
-  1. **Kapcsolat**, Elérhetőségeim: 18
-  2. **Bemutatkozás**, Bemutatkozom: 16
-  3. **Amivel hozzám fordulhat**, Mivel fordulhat hozzám?: 8
-  4. **Módszerek**, Alkalmazott módszerek: 7
-  5. Terápia, ár és/vagy családterápia: 7
-  6. Blog, cikkek: 7
-  7. Árak, információ, időpontfoglalás: 7
-  8. **Főoldal** vagy kezdőlap: 6
-  9. stb.
+Ezeken dolgozok tovább a már végleges UI design kialakítása felé.
 
 | Versenytárs | Előnyök | Hátrányok                                                                                                                                                                                                                                                                                            |
  --- | --- | ---
@@ -126,29 +94,23 @@ Néhány összefoglaló statisztikai információt közreadok:
 | [Deliága Éva](http://gyermekpszichologia.info/) | 10 ezer facebook követő. Sok médiaszereplés. | Bal felső sarok hamburger menü hiba (konvenciók). Margók rosszak, zsúfolt.
 [Versenytárskutatás: előnyök és hátrányok. Egy részlet.]
 
-Feltűnt nekem, hogy a pszichológus honlapok tekintélyes részén hiányzott az adatkezelési tájékoztató. Ugyanúgy fontos lehet hangsúlyozni a pszichológusok titoktartási kötelezettségét, hogy könnyebben elnyerhessük az ügyfél bizalmát. Ez különösen fontos a pszichológusokhoz társított negatív kép miatt. Mindazonáltal lehet alapja pszichológusokkal szembeni előítéleteknek, ha például valakinek negatív tapasztalatai voltak egy pszichológussal. Problémát jelent, hogy az interneten vannak kókler „tanácsadók”, akik nem rendelkeznek olyan végzettséggel, hogy pszichológusnak nevezhetnék magukat.
+## The result
 
-## A negyedik alkalom
 
-Átbeszéltük, hogy milyen információkat szeretnénk a honlapon prezentálni. Kértem Jane-től szövegeket, amiket felhasználok majd a honlapon, beleértve a bemutatkozást, a 3 fő terület (veszteségfeldolgozás, tanácsadás és stresszkezelés) és a módszerek rövid leírását. Plusz egy profi fotót is kértem, hogy csináltasson magáról.
+## The retrospective
 
-Megterveztem az oldal információs architektúráját. Szintén beleástam magamat a GDPR és az adatkezelési tájékoztatók rejtelmeibe, ami igen hasznosnak bizonyult.
+Sajnos Jane elfoglaltsága és személyes okok miatt mégsem lett szükség a weboldalra, viszont az UI design elkészült.
 
-User journey-t nem csináltam, mert a pszichológiai tanácsadásnak van egy szakmailag megszabott folyamata, ami a telefonhívással kezdődik. Betekintést azért kaptam Jane-től, mert sokat kérdeztem a tanácsadás menetéről. Még soha az életemben nem vettem részt pszichológiai tanácsadáson. Jane azt is említette, hogy sokan mások ajánlása alapján választanak maguknak pszichológust, akiknek már segítséget nyújtott.
+A pszichológus honlapok egy részén volt adatkezelési tájékoztató, amit fontosnak tekintettem a személyes adatok kényessége miatt is így beleástam magamat a GDPR és az adatkezelési tájékoztatók rejtelmeibe, ami igen hasznosnak bizonyult.
 
-Sajnos a későbbiekben Jane elfoglaltsága (és személyes okok) miatt miatt félbemaradt a projekt. Nagy kár érte, mert már a usability tesztelést is tervezgettem. Mindenesetre a bonyodalmak után egyedül folytattam a munkát, mert nem szokásom feladni, szükségem van referenciákra a portfóliómhoz.
+Ugyanúgy fontos lehet hangsúlyozni a pszichológusok titoktartási kötelezettségét, hogy könnyebben 
 
-## Egyedül folytatva – Drótvázazás, look&feel, UI design
+Betekintést azért kaptam Jane-től, mert sokat kérdeztem a tanácsadás menetéről. Még soha az életemben nem vettem részt pszichológiai tanácsadáson. Jane azt is említette, hogy sokan mások ajánlása alapján választanak maguknak pszichológust, akiknek már segítséget nyújtott.
 
-**Felhívom a figyelmet**, hogy ezek csak előzetes design tervek, melyek nincsenek még letesztelve a felhasználókkal! Ha Jane úgy döntene, hogy mégis akarja a honlapot, akkor természetesen el fogom végezni a teszteket a szürkeárnyalatos drótvázon. Talán 2 tesztelés-javítás iteráció elég is lenne egy ilyen egyszerű landing page-hez.
 
-Mindig papíron kezdek el tervezni filctollal. Mindig ötleteléssel kezdek, majd miután összeállt az elképzelésem, megrajzolom papíron az egész design-t (low fidelity sketch). És csak ezután kezdek el digitálisan dolgozni.
 
 ![A papíron elkészített egyik designtervem](https://dl.dropboxusercontent.com/s/jl9r908t6n8879n/20190701_145243-min.jpg)
 
-A drótvázazáshoz az Axure RP 8-at használom diákliszensszel. Az UI design-okat a Figmával készítem.
-
-Sajnos kénytelen voltam néhány helyen Lorem Ipsum szöveget használni a hiányos információs architektúra miatt. Továbbá a [CreativeMarket.com](https://creativemarket.com/) oldalon kerestem képeket a design-hoz.
 
 * [A drótváz ezen a linken érhető el](https://ouu2o2.axshare.com/#g=1&p=home).
 
@@ -181,4 +143,11 @@ FRISSÍTÉS: November elején újracsináltam az egész design munkámat és [fe
 ![Az ÚJ Design tervem. Most angolul.](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/9d1e9e85965601.5dbc5ed15bd92.png)
 
 *Folytatása következik...*
+
+
+![A brainstorming eredménye post-it-eken](https://dl.dropboxusercontent.com/s/zz1hqxf0vpv8q7z/20190429_144032-min.jpg)
+
+![A témakörök fontossági sorba való rendezése](https://dl.dropboxusercontent.com/s/x0sn2nfpuikkcq4/20190429_145222-min.jpg)
+
+![Perszónák Jane Doe pszichológus honlapjához](https://dl.dropboxusercontent.com/s/7j2pytghgfy5myd/persz%C3%B3n%C3%A1k1-min.png)
 
