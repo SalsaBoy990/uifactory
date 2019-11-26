@@ -2,6 +2,7 @@
 title: Jane Doe psychologist private praxis
 date: '2019-06-30'
 thumbnail: /assets/images/design/jane_doe_pszichologus_honlap_2019.jpg
+hexagonImage: /assets/images/design/jane_doe_psychologist_hexagon.jpg
 excerpt: >-
   Egy pszichológus barátom magánpraxisa számára készítettem egy weboldalt, hogy
   több kuncsaftot érjen el. A barátom kérésére nem adhatok ki személyes

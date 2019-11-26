@@ -29,7 +29,7 @@ collections:
       - {label: "Work title", name: "title", widget: "string"}
       - {label: "Publication date", name: "date", widget: "date", format: 'YYYY-MM-DD'}
       - {label: "Cover image", name: "thumbnail", widget: "image", default: '/src/assets/images/uifactory_cover.jpg'}
-      - {label: "Hexagon image (only for case studies)", name: "thumbnail", widget: "image", required: false}
+      - {label: "Hexagon image (only for case studies)", name: "hexagonImage", widget: "image", required: false}
       - {label: "Short description", name: "excerpt", widget: "text"}
       - {
           label: "Type",
