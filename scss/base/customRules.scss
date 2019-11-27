@@ -9,6 +9,17 @@
   text-decoration: underline;
 }
 
+.white-link-menu {
+  color: $hawkes-blue !important;
+  text-decoration: none;
+}
+
+.white-link-menu:hover, .white-link-menu:active, .white-link-menu:focus {
+  transition: ease-in 0.3s;
+  color: #fff;
+  text-decoration: underline;
+}
+
 .gray-link {
   color: #E5E5E5;
   text-decoration: underline;

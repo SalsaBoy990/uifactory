@@ -1,4 +1,4 @@
-<div class="m-mx-18px align-center">
+<div class="m-mx-16px align-center">
   <a id="work"></a>
   <h1 class="h2 mt3 m-mt2 mb0 pbhalf uppercase">Case Studies</h1>
   <hr class="mx-auto small-hr mb1 m-mb0">
@@ -20,8 +20,9 @@
     <article>
       <div class="mt1 bg-almost-white border-shadow border-light-blue border-radius-0-7 plhalf prhalf pbhalf mb1 m-mb0"
         style="min-height: 300px;">
-        <h2 class="h3 sub-title mbhalf mthalf"><a class="invisible-link" href="<%= worksDataForIndexPage[i].pathToPost %>">
-          <%= worksDataForIndexPage[i].title %></a>
+        <h2 class="h3 sub-title mbhalf mthalf"><a class="invisible-link"
+            href="<%= worksDataForIndexPage[i].pathToPost %>">
+            <%= worksDataForIndexPage[i].title %></a>
           <span class="sans-serif badge badge-secondary white min-size normal">
             <%= worksDataForIndexPage[i].type %></span>
         </h2>
@@ -29,8 +30,10 @@
           <%= worksDataForIndexPage[i].excerpt %>
         </p>
         <div class="d-xs-block d-sm-block d-md-none">
-          <img class="p0 m0" src="<%= worksDataForIndexPage[i].thumbnail %>"
-            alt="<%= worksDataForIndexPage[i].title %>">
+          <a href="<%= worksDataForIndexPage[i].pathToPost %>">
+            <img class="p0 m0" src="<%= worksDataForIndexPage[i].thumbnail %>"
+              alt="<%= worksDataForIndexPage[i].title %>">
+          </a>
         </div>
 
         <div class="align-center">
@@ -49,7 +52,8 @@
     <article>
       <div class="mt1 bg-almost-white border-shadow border-light-blue border-radius-0-7 plhalf prhalf pbhalf mb1 m-mb0"
         style="z-index: 9999; min-height: 300px;">
-        <h2 class="h3 sub-title mbhalf mthalf"><a class="invisible-link" href="<%= worksDataForIndexPage[i].pathToPost %>">
+        <h2 class="h3 sub-title mbhalf mthalf"><a class="invisible-link"
+            href="<%= worksDataForIndexPage[i].pathToPost %>">
             <%= worksDataForIndexPage[i].title %></a>
           <span class="sans-serif badge badge-secondary white min-size normal">
             <%= worksDataForIndexPage[i].type %></span>
@@ -58,8 +62,10 @@
           <%= worksDataForIndexPage[i].excerpt %>
         </p>
         <div class="d-sm-block d-md-none">
-          <img class="p0 m0" src="<%= worksDataForIndexPage[i].thumbnail %>"
-            alt="<%= worksDataForIndexPage[i].title %>">
+          <a href="<%= worksDataForIndexPage[i].pathToPost %>">
+            <img class="p0 m0" src="<%= worksDataForIndexPage[i].thumbnail %>"
+              alt="<%= worksDataForIndexPage[i].title %>">
+          </a>
         </div>
 
         <div class="align-center">
@@ -91,7 +97,7 @@
 <div class="bg-linear-blue pb2 m-pb-1 m-mt2">
   <div class="row mx-responsive m0 p0 align-center">
     <div class="col-12 p0">
-      <div class="m-mx-18px align-center">
+      <div class="m-mx-16px align-center">
         <h1 class="h2 mt3 m-mt2 mb0 pbhalf uppercase">Mini Projects</h1>
         <hr class="mx-auto small-hr mb2 m-mb1">
       </div>
