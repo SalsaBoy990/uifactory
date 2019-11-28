@@ -1,7 +1,7 @@
 ---
 title: A LovelyVeg főzőiskola honlapjának újratervezése
 date: '2019-08-19'
-thumbnail: /assets/images/design/lovelyveg.jpg
+thumbnail: /assets/images/design/LovelyVegMockupCrop.jpg
 hexagonImage: /assets/images/design/lovelyveg_hexagon.jpg
 excerpt: >-
   Gyakorlásképpen újraterveztem az egyik ismerősöm vállalkozásának, a LovelyVeg
