@@ -58,34 +58,22 @@ Külön büszke vagyok a receptek rendszerezésére, ahol hozzávalók szerint c
 A legnagyobb korlát technológiai jellegű volt: a Wordpress platformfüggőség, ugyanis egy már meglévő, jól bejáratott rendszert (CMS, tartalomkezelő stb.) megbolygatni, és áttérni egy másikra nehézséget és kényelmetlenséget okozni Szilvinek. Nem is javasolnám ezt. A meglévő felhasználók számára is rossz lenne, ha például a hozzászólás rendszert le kéne cserélni. Ugyanis néhányan a honlapon át adnak értékelést, visszajelzést a főzőtanfolyamoktól.
 
 
+## Design process
+
+### Usability testing!
+
+### Colors
+
 A honlap színvilágán alig változtattam, sokkal inkább az oldal szerkezetén és az információs architektúrán kellett dolgoznom.
 
-A
+A színeknél a HSB színmodellt használom, ahol mindig egy Hue értéket használok, és csupán a telítettséget és a fényességet módosítva keverem ki az összes színt. Ezen felül szokásom még egy komplementer színt is választani, hogy kiemeljek fontos elemeket, "signifier"-eket. Szintén választok színt pl. a hiba-/sikerüzenetek számára.
 
-![A LovelyVeg honlap jelenlegi változata. A honlap címe: [https://lovelyveg.hu/](https://lovelyveg.hu/)](/assets/images/design/lovelyveg_eredeti.png)
+* A lila szín HUE értéke: 295
+* A sárga szín HUE értéke: 57
 
+A színvilágon keveset változtattam, a LovelyVeg-nek már kialakult az imázsa, teljesen szükségtelen megbabrálni a színeket, bár a kontrasztarányokon javítani kellett. A színek egészen csajosak, mivel alapvetően nőkből áll a célcsoport.
 
-
-
-Az újratervezés során ezért pontosan erre helyeztem a hangsúlyt. A szöveget lecsökkentettem, képeket és a médiaszereplés-videókat hangsúlyoztam ki. (FRISSÍTÉS: a médiamegjelenések részt teljesen kidobtam a főoldalról.) A blogbejegyzéseknek menniük kellett az oldal tetejéről, mert az oda látogató azt gondolhatja, hogy a LovelyVeg elsősorban egy vegán életmód blog receptek sokaságával, nem egy főzőiskola. (FRISSÍTÉS: a blogbejegyzések lekerültek a kezdőlapról, helyette új aloldalra kerültek.)
-
-A receptkereső is külön aloldalra került. A receptkereső designja is [felkerült a Béhance-ra.](https://www.behance.net/gallery/86940591/LovelyVeg-Recipe-Search-Page)
-
-![A LovelyVeg Receptkereső aloldal design terve](
-https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/db781686940591.5da88fc067600.png)
-
-
-
-
-
-
-A hipotéziseket persze le is kell majd tesztelni, hogy a valóság alátámasztja-e azokat. A lényeg, hogy a perszóna mentális modelljével egyezzen az oldal működése.
-
-![LovelyVeg főzőiskola honlapja újra újratervezve!](
-https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/b3914b87343695.5db5912900ce5.png)
-
-
-## Tipográfia és színek
+### Typography
 
 A betűtípusok kombinálására a „tesztelős módszert” alkalmazom, vagyis megnézek rengeteg címsor-szövegtörzs betűtípus párosítást, és kiválasztom azt a változatot, amelyik legjobban passzol. Van nekem betűtípus gyűjteményem, jó kombinációkkal, papíron leírva, majd valamikor megosztom ezeket itt, a portfólió oldalamon.
 
@@ -102,13 +90,30 @@ Ezek a betűtípusok voltak versenyben:
 
 ![Néhány betűtípus-kombináció a LovelyVeg-hez](/assets/images/design/lovelyveg_font_combinations.png)
 
-### A színek
+### Information architecture
 
-A színeknél a HSB színmodellt használom, ahol mindig egy Hue értéket használok, és csupán a telítettséget és a fényességet módosítva keverem ki az összes színt. Ezen felül szokásom még egy komplementer színt is választani, hogy kiemeljek fontos elemeket, "signifier"-eket. Szintén választok színt pl. a hiba-/sikerüzenetek számára.
+Az újratervezés során ezért pontosan erre helyeztem a hangsúlyt. A szöveget lecsökkentettem, képeket és a médiaszereplés-videókat hangsúlyoztam ki. (FRISSÍTÉS: a médiamegjelenések részt teljesen kidobtam a főoldalról.) A blogbejegyzéseknek menniük kellett az oldal tetejéről, mert az oda látogató azt gondolhatja, hogy a LovelyVeg elsősorban egy vegán életmód blog receptek sokaságával, nem egy főzőiskola. (FRISSÍTÉS: a blogbejegyzések lekerültek a kezdőlapról, helyette új aloldalra kerültek.)
 
-* A lila szín HUE értéke: 295
-* A sárga szín HUE értéke: 57
+A receptkereső is külön aloldalra került.
 
-A színvilágon keveset változtattam, a LovelyVeg-nek már kialakult az imázsa, teljesen szükségtelen megbabrálni a színeket, bár a kontrasztarányokon javítani kellett. A színek egészen csajosak, mivel alapvetően nőkből áll a célcsoport.
+### Layout
+
+
+## The retrospective
+
+A receptkereső designja is [felkerült a Béhance-ra.](https://www.behance.net/gallery/86940591/LovelyVeg-Recipe-Search-Page)
+
+![A LovelyVeg Receptkereső aloldal design terve](
+https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/db781686940591.5da88fc067600.png)
+
+
+![A LovelyVeg honlap jelenlegi változata. A honlap címe: [https://lovelyveg.hu/](https://lovelyveg.hu/)](/assets/images/design/lovelyveg_eredeti.png)
+
+
+
+A hipotéziseket persze le is kell majd tesztelni, hogy a valóság alátámasztja-e azokat. A lényeg, hogy a perszóna mentális modelljével egyezzen az oldal működése.
+
+![LovelyVeg főzőiskola honlapja újra újratervezve!](
+https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/b3914b87343695.5db5912900ce5.png)
 
 ![A használt színpaletta a LovelyVeg-hez (nem használtam fel az összes színt)](/assets/images/design/lovelyveg_colors.png)
