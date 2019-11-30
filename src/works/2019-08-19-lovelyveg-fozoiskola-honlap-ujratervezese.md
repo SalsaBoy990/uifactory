@@ -15,10 +15,12 @@ platform: 'Responsive website, iOS, Android'
 deliverables: 'UI, UX'
 website: '-'
 ---
+----
 ## What I did
 
 Már egy meglévő, bejáratott márka/termék honlapját terveztem újra, így brandingre nem volt szükség. Továbbá egy szakácskönyv appot is terveztem.
 
+----
 ## Interviews, UX research
 
 Az interjú során megtudtam, hogy Szilvi több éve kezdett el a vegán életmóddal, vegán sütéssel-főzéssel foglalkozni. Az egész küldetése egy bloggal kezdődött.
@@ -27,6 +29,7 @@ Kiderült, hogy ő most igazából a főzőiskoláját akarja felfuttatni, mert 
 
 Kérdeztem tőle, hogy nem gondolkodik-e egy vegán szakácskönyv kiadásában, mert rengeteg recept érhető el a honlapján. Azt válaszolta, hogy ez nagyon költséges és nehezen megvalósítható lenne, és nem mellesleg rengeteg munka is, ami nem biztos, hogy kifizetődik. Innen jött az ötletem, hogy egy szakácskönyv appot tervezzek a már meglévő receptek számára.
 
+----
 ## The problem
 
 Design szempontjából túl zsúfolt volt az eredeti honlap, kevés negatív térrel, a vizuális hierarchián javítani kellett.
@@ -35,6 +38,7 @@ Persze, a jól megfogalmazott copytext nagyon fontos egy honlapnál, de egy gond
 
 ![A LovelyVeg honlap jelenlegi változata. A honlap címe: [https://lovelyveg.hu/](https://lovelyveg.hu/)](/assets/images/design/lovelyveg_eredeti.png)
 
+----
 ## Users & Audience
 
 A célközönség nagyon könnyen behatárolható volt, főként nőkből áll, akik munkahelyen dolgoznak vagy háztartásbeliek. Az idősebb korosztály (50+) is jól reprezentált. Elég csak megnézned a főzőtanfolyamok csoportfotóit.
@@ -55,12 +59,12 @@ Esetleg még lehetne napi receptajánló funkciót is hozzáadni, ha éppen semm
 
 *Azoknak a munkahelyen dolgozó vagy háztartásbeli nőknek (nagyobb részt nekik) és férfiaknak, akik szeretnének egészségesebben étkezni, „több tonna” zöldséget és gyümölcsöt fogyasztani, esetleg fogyókúrázni, a LovelyVeg szakácsapp bevezeti őket a vegán sütés-főzés rejtelmeibe és rengeteg egészséges és nem mellékesen finom recepthez ad hozzáférést. Kitűnő segédeszköz minden kezdő, középhaladó és haladó szintű vegán konyhatündér számára a főzőtanfolyamon felül.*
 
-
+----
 ## Constrains
 
 A legnagyobb korlát technológiai jellegű volt: a Wordpress platformfüggőség, ugyanis egy már meglévő, jól bejáratott rendszert (CMS, tartalomkezelő stb.) megbolygatni, és áttérni egy másikra nehézséget és kényelmetlenséget okozni Szilvinek. Nem is javasolnám ezt. A meglévő felhasználók számára is rossz lenne, ha például a hozzászólás rendszert le kéne cserélni. Ugyanis néhányan a honlapon át adnak értékelést, visszajelzést a főzőtanfolyamoktól.
 
-
+----
 ## Design process
 
 Elsőnek papíron kezdek el tervezni, vázlatokat készíteni. Mindig 8-10 perces brainstorming session-ökkel kezdek. Az összes ötletemet kirajzolom magamból. Utána low fidelity papíros drótvázakat állítok össze.
@@ -81,6 +85,7 @@ Néhány említésre méltó versenytárs:
 * [Street Kitchen](https://streetkitchen.hu/category/vegetarianus-etelek/)
 * [Deliciously Ella](https://deliciouslyella.com/)
 
+----
 ## The Result
 
 Végül egy egységes megjelenésű responsive weboldalt és azonos tartalommal bíró app-ot terveztem. Az app-ot az összes platformra szánom. Ha technológiát választanék, akkor Ionic framework-kel állnék hozzá. A versenytársaknak is voltak appjaik, de kizárólag csak iOS platformra, amivel sok felhasználót veszítenek.
@@ -126,7 +131,7 @@ A receptkereső is külön aloldalra került. Külön büszke vagyok a receptek 
 ![A LovelyVeg Receptkereső design terve. Asztali nézet.](
 https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/db781686940591.5da88fc067600.png)
 
-
+----
 ## The retrospective
 Egyelőre üres...
 
