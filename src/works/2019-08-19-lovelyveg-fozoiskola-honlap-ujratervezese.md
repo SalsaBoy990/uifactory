@@ -101,7 +101,7 @@ A fő szín a lila, amihez monokromatikus színskálát készítettem. A komplem
 
 A színek és a logó finomságán, a szövegek igényes megfogalmazásán keresztül felsejlik Szilvi személyisége, művészlelke.
 
-![A LovelyVeg-hez készült színpalettám](/assets/images/design/lovelyveg_colors.png)
+![A LovelyVeg-hez készült színpalettám](https://mir-cdn.behance.net/v1/rendition/project_modules/max_1200/ca624f87343695.5de2d97a09c99.png)
 
 
 ### Typography
