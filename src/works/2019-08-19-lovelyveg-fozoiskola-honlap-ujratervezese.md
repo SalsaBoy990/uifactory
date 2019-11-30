@@ -33,6 +33,7 @@ Design szempontjából túl zsúfolt volt az eredeti honlap, kevés negatív té
 A legnagyobb problémának a honlapon a tartalom priorizálásának hiányát, a redundáns linkeket és a felhasználóra zúduló túl sok szöveget (cognitive overflow) tartottam.
 Persze, a jól megfogalmazott copytext nagyon fontos egy honlapnál, de egy gondosan felépített, letisztult design szintén elengedhetetlen. Szilvi említette, hogy a redundáns linkek kuszasága az SEO miatt van. Természetesen a keresőmotorokban való láthatóság is egy lényeges szempont.
 
+![A LovelyVeg honlap jelenlegi változata. A honlap címe: [https://lovelyveg.hu/](https://lovelyveg.hu/)](/assets/images/design/lovelyveg_eredeti.png)
 
 ## Users & Audience
 
@@ -67,6 +68,18 @@ Elsőnek papíron kezdek el tervezni, vázlatokat készíteni. Mindig 8-10 perce
 Utána kezdek el digitálisan dolgozni a Figmával és fokozatosan jutok el a részletesen kidolgozott prototípusokhoz. Természetesen design sokat változik a tervezés során, míg elnyeri a végleges formáját. Az első elképzelés nem feltétlenül a legjobb.
 
 Mindig ihletet, ötleteket merítek a versenytársak honlapjaiból, appjaiból. Ez nem egy az egyben lemásolást jelent. Ehhez inspiration board-okat szoktam készíteni. Nem csak a brandingre, a visual design-ra figyelek, hanem az információs architektúrára, a működésre/használhatóságra is. Le is tesztelem a versenytársak honlapjait a használhatóság/élmény szempontjából. Sok dolog kiderül hogyan gondolkodtak a honlap/app tervezői/fejlesztői.
+
+![Inspiration Board for LovelyVeg](https://mir-cdn.behance.net/v1/rendition/project_modules/max_1200/f6156687343695.5de2c9e688d67.png)
+
+Néhány említésre méltó versenytárs:
+* [NoSalty](https://www.nosalty.hu/)
+* [VegaNinja](https://veganinja.hu/)
+* [FittBoszi](https://www.fittboszi.hu/receptek/vegan-receptek)
+* [Mindmegette](http://www.mindmegette.hu/kereses/veg%C3%A1n/)
+* [Green Kitchen Stories](https://greenkitchenstories.com/recipe-index/)
+* [Minimalist Baker](https://minimalistbaker.com/recipe-index/)
+* [Street Kitchen](https://streetkitchen.hu/category/vegetarianus-etelek/)
+* [Deliciously Ella](https://deliciouslyella.com/)
 
 ## The Result
 
@@ -115,11 +128,6 @@ A receptkereső is külön aloldalra került. Külön büszke vagyok a receptek 
 
 ![A LovelyVeg Receptkereső aloldal design terve](
 https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/db781686940591.5da88fc067600.png)
-
-
-![A LovelyVeg honlap jelenlegi változata. A honlap címe: [https://lovelyveg.hu/](https://lovelyveg.hu/)](/assets/images/design/lovelyveg_eredeti.png)
-
-
 
 
 ![A használt színpaletta a LovelyVeg-hez (nem használtam fel az összes színt)](/assets/images/design/lovelyveg_colors.png)
