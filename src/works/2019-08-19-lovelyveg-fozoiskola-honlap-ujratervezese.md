@@ -38,7 +38,7 @@ Persze, a jól megfogalmazott copytext nagyon fontos egy honlapnál, de egy gond
 
 A célközönség nagyon könnyen behatárolható volt, főként nőkből áll, akik munkahelyen dolgoznak vagy háztartásbeliek. Az idősebb korosztály (50+) is jól reprezentált. Elég csak megnézned a főzőtanfolyamok csoportfotóit.
 
-A szakácsapp vagy receptapp számára viszont egy kicsit árnyalni kellett a képet. Elképzeltem az a forgatókönyvet, amikor a vegán, húsmentes fűzés-sütés iránt érdeklődő „konyhatündérek” készíteni szeretnének egy vegán ételt ebédre. Ehhez jó recepteket keresnek. Két "embertípust" különböztettem meg:
+A szakácsapp vagy receptapp számára viszont egy kicsit árnyalni kellett a képet. Elképzeltem az a forgatókönyvet, amikor a vegán, húsmentes fűzés-sütés iránt érdeklődő „konyhatündérek” készíteni szeretnének egy vegán ételt ebédre. Ehhez jó recepteket keresnek. Két „embertípust” különböztettem meg:
 
 1. **A praktikusan gondolkodók és elkényelmesedettek** megnézik, hogy milyen hozzávaló van otthon, és abból akarnak ételt készíteni. Pl. van otthon cukkinijük, ezért a cukkinis recepteket akarják a leggyorsabban megtalálni. A receptkeresőt is ennek megfelelően kell optimalizálni.
 
@@ -50,7 +50,7 @@ Esetleg még lehetne napi receptajánló funkciót is hozzáadni, ha éppen semm
 
 ### Value Proposition
 
-*Azoknak a munkahelyen dolgozó vagy háztartásbeli nőknek (nagyobb részt nekik) és férfiaknak, akik szeretnének egészségesebben étkezni, "több tonna" zöldséget és gyümölcsöt fogyasztani, esetleg fogyókúrázni, a LovelyVeg szakácsapp bevezeti őket a vegán sütés-főzés rejtelmeibe és rengeteg egészséges és nem mellékesen finom recepthez ad hozzáférést. Kitűnő segédeszköz minden kezdő, középhaladó és haladó szintű vegán konyhatündér számára a főzőtanfolyamon felül.*
+*Azoknak a munkahelyen dolgozó vagy háztartásbeli nőknek (nagyobb részt nekik) és férfiaknak, akik szeretnének egészségesebben étkezni, „több tonna” zöldséget és gyümölcsöt fogyasztani, esetleg fogyókúrázni, a LovelyVeg szakácsapp bevezeti őket a vegán sütés-főzés rejtelmeibe és rengeteg egészséges és nem mellékesen finom recepthez ad hozzáférést. Kitűnő segédeszköz minden kezdő, középhaladó és haladó szintű vegán konyhatündér számára a főzőtanfolyamon felül.*
 
 
 ## Constrains
@@ -81,31 +81,27 @@ A színvilágon keveset változtattam, a LovelyVeg-nek már kialakult az imázsa
 
 ### Typography
 
-A betűtípusok kombinálására a „tesztelős módszert” alkalmazom, vagyis megnézek rengeteg címsor-szövegtörzs betűtípus párosítást, és kiválasztom azt a változatot, amelyik legjobban passzol. Van nekem betűtípus gyűjteményem, jó kombinációkkal, papíron leírva, majd valamikor megosztom ezeket itt, a portfólió oldalamon.
+A betűtípusok kombinálására a „tesztelős módszert” alkalmazom, vagyis megnézek rengeteg címsor-szövegtörzs betűtípus párosítást, és kiválasztom azt a változatot, amelyik legjobban passzol.
 
 ### A győztes párosítás:
 * Címsor: **Wremena** (1001fonts.com)
 * Szövegtörzs: **Asap** (Google Fonts)
 * Az oldal címe számára pedig a **Lobster Two** bizonyult megfelelőnek (végül nem használtam, mert meghagytam az eredeti betűtípust)
 
-A Wremena talpas betűtípus, tetszenek benne a betűk éles végei, jól passzol hozzá az Asap talpatlan betűtípus lágysága, lekerekített formái. Egyedüli hátrány, hogy a Wremena betűcsaládban lehetne vastagabb stílus is: a félkövér nem elég vastag szerintem.
+A Wremena talpas betűtípus, tetszenek benne a betűk éles végei, jól passzol hozzá az Asap talpatlan betűtípus lágysága, lekerekített formái. Egyedüli hátrány, hogy a Wremena betűcsaládban lehetne vastagabb stílus is: a félkövér nem elég vastag.
 
 Ezek a betűtípusok voltak versenyben:
 * Címsor: Wremena, Playfair Display, Martel, Josefin Sans
-* Szövegtörzs: Asap, Lato, Rubik, Nunito Sans, Josefin Sans (az utóbbi nagyon nem jött be)
+* Szövegtörzs: Asap, Lato, Rubik, Nunito Sans, Josefin Sans
 
 ![Néhány betűtípus-kombináció a LovelyVeg-hez](/assets/images/design/lovelyveg_font_combinations.png)
 
 ### Information architecture
 
-Az oldal szerkezete és az információs architektúra igényelt "tisztítást".
+Az oldal szerkezete és az információs architektúra igényelt „tisztítást”.
 A blogbejegyzéseknek menniük kellett az oldal tetejéről, mert a LovelyVeg már nem csupán egy vegán életmód és szakácsblog receptek sokaságával. A blogbejegyzések átkerültek a főoldalról egy blog aloldalra. A fő profil a főzőiskola lett.
 
-Az újratervezés során ezért pontosan erre helyeztem a hangsúlyt. A szöveget lecsökkentettem, képeket és a médiaszereplés-videókat hangsúlyoztam ki. (FRISSÍTÉS: a médiamegjelenések részt teljesen kidobtam a főoldalról.) A blogbejegyzéseknek menniük kellett az oldal tetejéről, mert az oda látogató azt gondolhatja, hogy a LovelyVeg elsősorban egy vegán életmód blog receptek sokaságával, nem egy főzőiskola. (FRISSÍTÉS: a blogbejegyzések lekerültek a kezdőlapról, helyette új aloldalra kerültek.)
-
 A receptkereső is külön aloldalra került. Külön büszke vagyok a receptek rendszerezésére, ahol hozzávalók szerint csoportosítottam szótár nézetben.
-
-### Layout
 
 
 ## The retrospective
