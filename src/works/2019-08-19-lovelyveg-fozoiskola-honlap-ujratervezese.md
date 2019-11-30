@@ -9,8 +9,6 @@ excerpt: >-
 type:
   - landing page
   - webapp
-  - Android app
-  - iOS app
 category: case study
 expertise: 'Design, IA, visual design'
 platform: 'Responsive website, iOS, Android'
@@ -32,22 +30,23 @@ Kérdeztem tőle, hogy nem gondolkodik-e egy vegán szakácskönyv kiadásában,
 ## The problem
 
 Design szempontjából túl zsúfolt volt az eredeti honlap, kevés negatív térrel, a vizuális hierarchián javítani kellett.
-A legnagyobb problémának tartottam a honlapon a tartalom priorizálásának hiányát, a redundáns linkeket és a túl sok szöveget, ami a felhasználóra zúdul (cognitive overflow).
-Persze, a jól megfogalmazott copytext nagyon fontos egy honlapnál, de egy gondosan felépített, letisztult design is elengedhetetlen. Szilvi említette, hogy a redundáns linkek kuszasága az SEO miatt van. Természetesen a keresőmotorokban való láthatóság is egy fontos szempont.
+A legnagyobb problémának a honlapon a tartalom priorizálásának hiányát, a redundáns linkeket és a felhasználóra zúduló túl sok szöveget (cognitive overflow) tartottam.
+Persze, a jól megfogalmazott copytext nagyon fontos egy honlapnál, de egy gondosan felépített, letisztult design szintén elengedhetetlen. Szilvi említette, hogy a redundáns linkek kuszasága az SEO miatt van. Természetesen a keresőmotorokban való láthatóság is egy lényeges szempont.
 
 
 ## Users & Audience
 
-Külön büszke vagyok a receptek rendszerezésére, ahol hozzávalók szerint csoportosítottam szótár nézetben. Az ötletet [innen kölcsönöztem.](https://www.spellitout.xyz/glossary/). A kognitív pszichológiából ismeretes, hogy az ember agya mindig kategorizálja, csoportosítja az elé táruló objektumokat, entitásokat, és erre a folyamatra rá kell játszani a tervezés során. Itt érdemes lehet kutatást végezni a felhasználók körében, hogy hogyan gondolkodnak.
+A célközönség nagyon könnyen behatárolható volt, főként nőkből áll, akik munkahelyen dolgoznak vagy háztartásbeliek. Az idősebb korosztály (50+) is jól reprezentált. Elég csak megnézned a főzőtanfolyamok csoportfotóit.
 
-> Pl. olyan egy forgatókönyvet tudok elképzelni, amikor a vegán, húsmentes fűzés-sütés iránt érdeklődő „konyhatündérek” készíteni szeretnének egy vegán ételt mondjuk ebédre. Ehhez keresnek jó recepteket.
+A szakácsapp vagy receptapp számára viszont egy kicsit árnyalni kellett a képet. Elképzeltem az a forgatókönyvet, amikor a vegán, húsmentes fűzés-sütés iránt érdeklődő „konyhatündérek” készíteni szeretnének egy vegán ételt ebédre. Ehhez jó recepteket keresnek. Két "embertípust" különböztettem meg:
 
-### Két hipotézisem van:
-
-1. **A praktikusan gondolkodók és elkényelmesedettek** megnézik, hogy milyen hozzávaló van otthon, és abból akarnak ételt készíteni. Pl. van otthon cukkínijük, ezért a cukkinis recepteket akarják a leggyorsabban megtalálni.
+1. **A praktikusan gondolkodók és elkényelmesedettek** megnézik, hogy milyen hozzávaló van otthon, és abból akarnak ételt készíteni. Pl. van otthon cukkinijük, ezért a cukkinis recepteket akarják a leggyorsabban megtalálni. A receptkeresőt is ennek megfelelően kell optimalizálni.
 
 2. A másik, **a kísérletező típus**, aki pl. a fejébe veszi, hogy márpedig ő megpróbálkozik egy vegán leves elkészítésével és a vegán levesek után kutat, függetlenül attól, hogy milyen alapanyag van otthon nála. Lelkes, ezért elmegy bevásárolni. Tehát szükség van olyan kategóriák szerinti bontásban csoportosítani az ételeket, mint levesek, főételek, desszertek, saláták stb..
 
+Gondoltam arra is, hogy ne kelljen állandóan bevásárlólistát írni kis papírfecnikre, hanem elég csak kikeresni az appban a megfelelő receptet, ahol egy helyen listázva van az összes szükséges hozzávaló.
+
+Esetleg még lehetne napi receptajánló funkciót is hozzáadni, ha éppen semmi nem jut eszedbe, hogy mit főzzél aznapra vagy másnapra.
 
 ### Value Proposition
 
@@ -55,12 +54,19 @@ Külön büszke vagyok a receptek rendszerezésére, ahol hozzávalók szerint c
 
 
 ## Constrains
+
 A legnagyobb korlát technológiai jellegű volt: a Wordpress platformfüggőség, ugyanis egy már meglévő, jól bejáratott rendszert (CMS, tartalomkezelő stb.) megbolygatni, és áttérni egy másikra nehézséget és kényelmetlenséget okozni Szilvinek. Nem is javasolnám ezt. A meglévő felhasználók számára is rossz lenne, ha például a hozzászólás rendszert le kéne cserélni. Ugyanis néhányan a honlapon át adnak értékelést, visszajelzést a főzőtanfolyamoktól.
 
 
 ## Design process
 
-### Usability testing!
+Elsőnek papíron kezdek el tervezni, vázlatokat készíteni. Mindig 8-10 perces brainstorming session-ökkel kezdek. Az összes ötletemet kirajzolom magamból. Utána low fidelity papíros drótvázakat állítok össze.
+
+Utána kezdek el digitálisan dolgozni a Figmával és fokozatosan jutok el a részletesen kidolgozott prototípusokhoz. Természetesen design sokat változik a tervezés során, míg elnyeri a végleges formáját. Az első elképzelés nem feltétlenül a legjobb.
+
+Mindig ihletet, ötleteket merítek a versenytársak honlapjaiból, appjaiból. Ez nem egy az egyben lemásolást jelent. Ehhez inspiration board-okat szoktam készíteni. Nem csak a brandingre, a visual design-ra figyelek, hanem az információs architektúrára, a működésre/használhatóságra is. Le is tesztelem a versenytársak honlapjait a használhatóság/élmény szempontjából. Sok dolog kiderül hogyan gondolkodtak a honlap/app tervezői/fejlesztői.
+
+## The Result
 
 ### Colors
 
@@ -92,16 +98,19 @@ Ezek a betűtípusok voltak versenyben:
 
 ### Information architecture
 
+Az oldal szerkezete és az információs architektúra igényelt "tisztítást".
+A blogbejegyzéseknek menniük kellett az oldal tetejéről, mert a LovelyVeg már nem csupán egy vegán életmód és szakácsblog receptek sokaságával. A blogbejegyzések átkerültek a főoldalról egy blog aloldalra. A fő profil a főzőiskola lett.
+
 Az újratervezés során ezért pontosan erre helyeztem a hangsúlyt. A szöveget lecsökkentettem, képeket és a médiaszereplés-videókat hangsúlyoztam ki. (FRISSÍTÉS: a médiamegjelenések részt teljesen kidobtam a főoldalról.) A blogbejegyzéseknek menniük kellett az oldal tetejéről, mert az oda látogató azt gondolhatja, hogy a LovelyVeg elsősorban egy vegán életmód blog receptek sokaságával, nem egy főzőiskola. (FRISSÍTÉS: a blogbejegyzések lekerültek a kezdőlapról, helyette új aloldalra kerültek.)
 
-A receptkereső is külön aloldalra került.
+A receptkereső is külön aloldalra került. Külön büszke vagyok a receptek rendszerezésére, ahol hozzávalók szerint csoportosítottam szótár nézetben.
 
 ### Layout
 
 
 ## The retrospective
 
-A receptkereső designja is [felkerült a Béhance-ra.](https://www.behance.net/gallery/86940591/LovelyVeg-Recipe-Search-Page)
+
 
 ![A LovelyVeg Receptkereső aloldal design terve](
 https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/db781686940591.5da88fc067600.png)
@@ -109,9 +118,6 @@ https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/db781686940591.5da88f
 
 ![A LovelyVeg honlap jelenlegi változata. A honlap címe: [https://lovelyveg.hu/](https://lovelyveg.hu/)](/assets/images/design/lovelyveg_eredeti.png)
 
-
-
-A hipotéziseket persze le is kell majd tesztelni, hogy a valóság alátámasztja-e azokat. A lényeg, hogy a perszóna mentális modelljével egyezzen az oldal működése.
 
 ![LovelyVeg főzőiskola honlapja újra újratervezve!](
 https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/b3914b87343695.5db5912900ce5.png)
