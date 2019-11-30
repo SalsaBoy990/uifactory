@@ -77,7 +77,7 @@ Néhány említésre méltó versenytárs:
 * [FittBoszi](https://www.fittboszi.hu/receptek/vegan-receptek)
 * [Mindmegette](http://www.mindmegette.hu/kereses/veg%C3%A1n/)
 * [Green Kitchen Stories](https://greenkitchenstories.com/recipe-index/)
-* [Minimalist Baker](https://minimalistbaker.com/recipe-index/)
+* [Minimalist Baker](https://minimalistbaker.com/recipe-index/)
 * [Street Kitchen](https://streetkitchen.hu/category/vegetarianus-etelek/)
 * [Deliciously Ella](https://deliciouslyella.com/)
 
@@ -95,6 +95,8 @@ A színvilágon keveset változtattam, a LovelyVeg-nek már kialakult az imázsa
 A fő szín a lila, amihez monokromatikus színskálát készítettem. A komplementer és másodlagos szín a sárga maradt. A HSB színmodellt használom a színek keverésénél. A Hue értéket változatlanul hagyom, és csak a telítettséget és a fényességet változtatom általában. A fekete és szürke szövegekben is van lilás árnyalat.
 
 A színek és a logó finomságán, a szövegek igényes megfogalmazásán keresztül felsejlik Szilvi személyisége, művészlelke.
+
+![A LovelyVeg-hez készült színpalettám](/assets/images/design/lovelyveg_colors.png)
 
 
 ### Typography
@@ -121,13 +123,15 @@ A blogbejegyzéseknek menniük kellett az oldal tetejéről, mert a LovelyVeg m�
 
 A receptkereső is külön aloldalra került. Külön büszke vagyok a receptek rendszerezésére, ahol hozzávalók szerint csoportosítottam szótár nézetben.
 
-
-## The retrospective
-
-
-
-![A LovelyVeg Receptkereső aloldal design terve](
+![A LovelyVeg Receptkereső design terve. Asztali nézet.](
 https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/db781686940591.5da88fc067600.png)
 
 
-![A használt színpaletta a LovelyVeg-hez (nem használtam fel az összes színt)](/assets/images/design/lovelyveg_colors.png)
+## The retrospective
+Egyelőre üres...
+
+
+
+
+
+
