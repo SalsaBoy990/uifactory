@@ -13,7 +13,7 @@ category: case study
 expertise: 'Design, IA, visual design'
 platform: 'Responsive website, iOS, Android'
 deliverables: 'UI, UX'
-website: not implemented
+website: '-'
 ---
 ## What I did
 
@@ -48,6 +48,8 @@ Gondoltam arra is, hogy ne kelljen állandóan bevásárlólistát írni kis pap
 
 Esetleg még lehetne napi receptajánló funkciót is hozzáadni, ha éppen semmi nem jut eszedbe, hogy mit főzzél aznapra vagy másnapra.
 
+![LovelyVeg főzőiskola app. iPhone 6 mockup.](https://mir-cdn.behance.net/v1/rendition/project_modules/max_1200/92084f87343695.5de2c3319891b.png)
+
 ### Value Proposition
 
 *Azoknak a munkahelyen dolgozó vagy háztartásbeli nőknek (nagyobb részt nekik) és férfiaknak, akik szeretnének egészségesebben étkezni, „több tonna” zöldséget és gyümölcsöt fogyasztani, esetleg fogyókúrázni, a LovelyVeg szakácsapp bevezeti őket a vegán sütés-főzés rejtelmeibe és rengeteg egészséges és nem mellékesen finom recepthez ad hozzáférést. Kitűnő segédeszköz minden kezdő, középhaladó és haladó szintű vegán konyhatündér számára a főzőtanfolyamon felül.*
@@ -68,22 +70,25 @@ Mindig ihletet, ötleteket merítek a versenytársak honlapjaiból, appjaiból. 
 
 ## The Result
 
+Végül egy egységes megjelenésű responsive weboldalt és azonos tartalommal bíró app-ot terveztem. Az app-ot az összes platformra szánom. Ha technológiát választanék, akkor Ionic framework-kel állnék hozzá. A versenytársaknak is voltak appjaik, de kizárólag csak iOS platformra, amivel sok felhasználót veszítenek.
+
+![LovelyVeg főzőiskola újratervezett honlapja. Asztali nézet.](
+https://mir-cdn.behance.net/v1/rendition/project_modules/max_1200/6120a687343695.5de2c65418048.png)
+
 ### Colors
 
-A honlap színvilágán alig változtattam, sokkal inkább az oldal szerkezetén és az információs architektúrán kellett dolgoznom.
-
-A színeknél a HSB színmodellt használom, ahol mindig egy Hue értéket használok, és csupán a telítettséget és a fényességet módosítva keverem ki az összes színt. Ezen felül szokásom még egy komplementer színt is választani, hogy kiemeljek fontos elemeket, "signifier"-eket. Szintén választok színt pl. a hiba-/sikerüzenetek számára.
-
-* A lila szín HUE értéke: 295
-* A sárga szín HUE értéke: 57
-
 A színvilágon keveset változtattam, a LovelyVeg-nek már kialakult az imázsa, teljesen szükségtelen megbabrálni a színeket, bár a kontrasztarányokon javítani kellett. A színek egészen csajosak, mivel alapvetően nőkből áll a célcsoport.
+
+A fő szín a lila, amihez monokromatikus színskálát készítettem. A komplementer és másodlagos szín a sárga maradt. A HSB színmodellt használom a színek keverésénél. A Hue értéket változatlanul hagyom, és csak a telítettséget és a fényességet változtatom általában. A fekete és szürke szövegekben is van lilás árnyalat.
+
+A színek és a logó finomságán, a szövegek igényes megfogalmazásán keresztül felsejlik Szilvi személyisége, művészlelke.
+
 
 ### Typography
 
 A betűtípusok kombinálására a „tesztelős módszert” alkalmazom, vagyis megnézek rengeteg címsor-szövegtörzs betűtípus párosítást, és kiválasztom azt a változatot, amelyik legjobban passzol.
 
-### A győztes párosítás:
+A győztes párosítás:
 * Címsor: **Wremena** (1001fonts.com)
 * Szövegtörzs: **Asap** (Google Fonts)
 * Az oldal címe számára pedig a **Lobster Two** bizonyult megfelelőnek (végül nem használtam, mert meghagytam az eredeti betűtípust)
@@ -115,7 +120,6 @@ https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/db781686940591.5da88f
 ![A LovelyVeg honlap jelenlegi változata. A honlap címe: [https://lovelyveg.hu/](https://lovelyveg.hu/)](/assets/images/design/lovelyveg_eredeti.png)
 
 
-![LovelyVeg főzőiskola honlapja újra újratervezve!](
-https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/b3914b87343695.5db5912900ce5.png)
+
 
 ![A használt színpaletta a LovelyVeg-hez (nem használtam fel az összes színt)](/assets/images/design/lovelyveg_colors.png)
