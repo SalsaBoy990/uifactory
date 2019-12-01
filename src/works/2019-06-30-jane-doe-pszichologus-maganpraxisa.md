@@ -127,13 +127,13 @@ Az Ubuntu kortárs stílusú, precíz, megbízható és szabad szemléletet köz
 
 A PT Sans egy keskenyebb betűkkel rendelkező (jól látszik ez az 'o' betű tojásdad alakján), modern, humanisztikus betűcsalád. Az ívelt 'l' betű itt is gyönyörű.
 
-A Muli egy jól olvasható, minimalisztikus talpatlan betűcsalád kifejezetten kijelzőkhöz tervezve. Számomra neutrális, semleges hatással bír. A PT Sans és a Muli x-magassága (x-height) azonos.
+A Muli egy jól olvasható, minimalisztikus talpatlan betűcsalád kifejezetten kijelzőkhöz tervezve. Számomra neutrális, semleges hatással bír. A PT Sans és a Muli x-magassága azonos.
 
-A Fira Sans egy olvashatóságra optimalizált humanista stílusú talpatlan betűtípus, a Mozilla FirefoxOS számára készült. tetszik benne az ívelt 'l' betű, a karakteres 'y', a 'g' betű anyaghiánya. A felfele kilógó betűszárak teteje vágott stílusú. 18 kölönbözű stílust tartalmaz a betűcsalád. Címsorként nagyon jó a vastagsága, barátságos és hívogató a megjelenése.
+A Fira Sans egy olvashatóságra optimalizált humanista stílusú talpatlan betűtípus, a Mozilla FirefoxOS számára készült. Tetszik benne az ívelt 'l' betű, a karakteres 'y', a 'g' betű anyaghiánya. A felfele kilógó betűszárak teteje vágott stílusú. 18 kölönböző stílust tartalmaz a betűcsalád. Címsorként nagyon jó a vastagsága, barátságos és hívogató a megjelenése.
 
 Végül a **Fira Sans** mellett tettem le a voksomat.
 
-### Information Architecture, Tone of text
+### Information Architecture, Tone of voice
 
 Fontos volt a megfelelő hangnem megtalálása a perszónánkkal. A magázásnak fontos szerepe van a tanácsadás során, mert ezek a formális keretek biztonságérzést és kontrollérzetet nyújtanak a kliensek számára. Igyekeztem megtalálni az egyensúlyt a magázódás és a pszichológus személyének megközelíthetősége között, amivel oldani szeretném a pszichológusokkal szembeni ellenérzéseket. Külön fel kellett hívni a figyelmet a pszichológusi titoktartásra.
 
@@ -142,6 +142,8 @@ Fontos volt a megfelelő hangnem megtalálása a perszónánkkal. A magázásnak
 Az órási negatív tér alkalmazásával a nyitottságot és befogadást közvetítve a érdeklődők számára. A zsúfoltság ezzel szemben zártságot, intimitást vagy megközelíthetetlenséget sugallmazhat. Némi kreativitást is belevittem.
 
 ![Jane Doe psychologist private praxis.](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/9d1e9e85965601.5dbc5ed15bd92.png)
+
+You can check out the [design files in Figma](https://www.figma.com/file/nNm0BXr6bUAlTr653koQC5/2019_janeDoePortfolioProject?node-id=0%3A1).
 
 ----
 ## The retrospective

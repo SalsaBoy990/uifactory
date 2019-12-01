@@ -6,8 +6,9 @@ hexagonImage: /assets/images/design/kizombadanceszeged_hexagon.jpg
 excerpt: >-
   Érdekel az afrikai társastáncok világa? Gyere és próbáld ki! Táncolj úgy, mint
   egy afrikai! A weboldal tervem a saját táncos projektemhez.
-type: website
-category: 'case study'
+type:
+ - website
+category: 'x'
 expertise: null
 platform: null
 deliverables: null

@@ -23,9 +23,11 @@
         <h2 class="h3 sub-title mbhalf mthalf"><a class="invisible-link"
             href="<%= worksDataForIndexPage[i].pathToPost %>">
             <%= worksDataForIndexPage[i].title %></a>
+          <% for (var j = 0; j < worksDataForIndexPage[i].type.length; j++) { %>
           <span class="sans-serif badge badge-secondary white min-size normal">
-            <%= worksDataForIndexPage[i].type %></span>
-        </h2>
+            <%= worksDataForIndexPage[i].type[j] %></span>
+        <% } %>
+      </h2>
         <p class="mb1 small-size d-none d-sm-none d-md-block">
           <%= worksDataForIndexPage[i].excerpt %>
         </p>

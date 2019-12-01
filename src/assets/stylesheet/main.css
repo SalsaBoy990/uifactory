@@ -377,6 +377,9 @@ figcaption {
   margin-left: 0;
   text-align: center; }
 
+figure img {
+  margin-top: 3.09rem; }
+
 .normal-font {
   font-style: normal; }
 
@@ -477,10 +480,12 @@ tr:nth-child(even) {
 hr {
   border: 2px solid #47545d;
   margin: 0;
+  margin-top: 1.545rem;
   margin-bottom: 0.5rem; }
 
 .small-hr {
-  width: 136px; }
+  width: 136px;
+  margin-top: 0; }
 
 a {
   text-decoration: underline;
