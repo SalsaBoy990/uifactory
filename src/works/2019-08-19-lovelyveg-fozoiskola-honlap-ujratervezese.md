@@ -119,7 +119,7 @@ A győztes párosítás:
 * Szövegtörzs: **Asap** (Google Fonts)
 * Az oldal címe számára pedig a **Lobster Two** bizonyult megfelelőnek (végül nem használtam, mert meghagytam az eredeti betűtípust)
 
-A Wremena talpas betűtípus, tetszenek benne a betűk éles végei, jól passzol hozzá az Asap talpatlan betűtípus lágysága, lekerekített formái. Egyedüli hátrány, hogy a Wremena betűcsaládban lehetne vastagabb stílus is: a félkövér nem elég vastag.
+A Wremena talpas betűtípus, tetszenek benne a betűk éles végei, jól passzol hozzá a humanisztikus Asap talpatlan betűtípus lágysága, lekerekített formái. Egyedüli hátrány, hogy a Wremena betűcsaládban lehetne vastagabb stílus is: a félkövér nem elég vastag.
 
 Ezek a betűtípusok voltak versenyben:
 * Címsor: Wremena, Playfair Display, Martel, Josefin Sans
@@ -140,4 +140,16 @@ A receptkereső is külön aloldalra került. Külön büszke vagyok a receptek 
 
 ![A LovelyVeg Receptkereső design terve. Asztali nézet.](
 https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/db781686940591.5da88fc067600.png)
+
+
+----
+## The retrospective
+
+Ez még egy futó projekt, a usability tesztek után frissülni fog.
+Viszont már most van egy-két dolog, amin változtatnák a szakácsapp kapcsán. Például bevezetném a napi receptajánlókat és felmerült bennem a gamifikáció ötlete.
+
+Lehetne nehézségi szint szerint csoportosítani a recepteket és a sikeres elkészítés után pont jár (a nehézséggel arányosan). Egy bizonyos pontszám után következő szintre lehet lépni: kezdő, középhaladó és haladó, illetve lehetne kicsit kreatívabb "titulusokat" is megadni, pl. "vegán tanonc", "profi növényevő", "a növények réme". Le kell tesztelni, hogy egy kis humor belefér-e.
+
+![LovelyVeg főzőiskola app. iPhone 6 mockup.](https://mir-cdn.behance.net/v1/rendition/project_modules/max_1200/92084f87343695.5de2c3319891b.png)
+
 
