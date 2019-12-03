@@ -35,7 +35,7 @@ Kérdeztem tőle, hogy nem gondolkodik-e egy vegán szakácskönyv kiadásában,
 ## The problem
 
 Design szempontjából túl zsúfolt volt az eredeti honlap, kevés negatív térrel, a vizuális hierarchián javítani kellett.
-A legnagyobb problémának a honlapon a tartalom priorizálásának hiányát, a redundáns linkeket és a felhasználóra zúduló túl sok szöveget (cognitive overflow) tartottam.
+A legnagyobb problémának a honlapon a tartalom priorizálásának hiányát, a redundáns linkeket és a felhasználóra zúduló túl sok szöveget tartottam (cognitive overflow).
 Persze, a jól megfogalmazott copytext nagyon fontos egy honlapnál, de egy gondosan felépített, letisztult design szintén elengedhetetlen. Szilvi említette, hogy a redundáns linkek kuszasága az SEO miatt van. Természetesen a keresőmotorokban való láthatóság is egy lényeges szempont.
 
 ![A LovelyVeg honlap jelenlegi változata. A honlap címe: [https://lovelyveg.hu/](https://lovelyveg.hu/)](/assets/images/design/lovelyveg_eredeti.png)
@@ -155,7 +155,7 @@ https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/db781686940591.5da88f
 Ez még egy futó projekt, a usability tesztek után frissülni fog.
 Viszont már most van egy-két dolog, amin változtatnák a szakácsapp kapcsán. Például bevezetném a napi receptajánlókat és felmerült bennem a gamifikáció/játékosítás ötlete.
 
-Lehetne nehézségi szint szerint csoportosítani a recepteket és a sikeres elkészítés után pont jár (a nehézséggel arányosan). Egy bizonyos pontszám után következő szintre lehet lépni: kezdő, középhaladó és haladó, illetve lehetne kicsit kreatívabb „titulusokat” is megadni, pl. „vegán tanonc”, „profi növényevő”, „a növények réme”. (Szilvi számára fenntartom a „vegán szakácsistennő” megszólítást, amiért olyan mennyeien finom vegán csokitortát készített a születésnapomra.) Le kell tesztelni, hogy egy kis humor belefér-e. Bár ha gamifikációban gondolkodunk, akkor mindenképen szükséges személyes profil, hogy elmentsük a pontokat. Ez esetben a regisztráció menetét is ki kell dolgoznunk.
+Lehetne nehézségi szint szerint csoportosítani a recepteket és a sikeres elkészítés után pont jár (a nehézséggel arányosan). Egy bizonyos pontszám után következő szintre lehet lépni: kezdő, középhaladó és haladó, illetve lehetne kicsit kreatívabb „titulusokat” is megadni, pl. „vegán tanonc”, „profi növényevő”, „a növények réme”. (Szilvi számára fenntartom a „vegán szakácsistennő” megszólítást, amiért olyan mennyeien finom vegán csokitortát készített a születésnapomra.) Le kell tesztelni, hogy egy kis humor belefér-e. Bár ha gamifikációban gondolkodunk, akkor mindenképen szükséges a személyes profil, hogy elmentsük a pontokat. Ez esetben a regisztráció menetét is ki kell dolgoznunk.
 
 ## Marvel prototype
 
