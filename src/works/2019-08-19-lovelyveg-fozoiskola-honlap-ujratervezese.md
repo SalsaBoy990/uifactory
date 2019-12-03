@@ -150,6 +150,6 @@ Viszont már most van egy-két dolog, amin változtatnák a szakácsapp kapcsán
 
 Lehetne nehézségi szint szerint csoportosítani a recepteket és a sikeres elkészítés után pont jár (a nehézséggel arányosan). Egy bizonyos pontszám után következő szintre lehet lépni: kezdő, középhaladó és haladó, illetve lehetne kicsit kreatívabb "titulusokat" is megadni, pl. "vegán tanonc", "profi növényevő", "a növények réme". Le kell tesztelni, hogy egy kis humor belefér-e.
 
-![LovelyVeg főzőiskola app. iPhone 6 mockup.](https://mir-cdn.behance.net/v1/rendition/project_modules/max_1200/92084f87343695.5de2c3319891b.png)
+## Marvel prototype (interact with it)
 
-
+<iframe src="https://marvelapp.com/6705ff8?emb=1&iosapp=false&frameless=false" width="452" height="901" allowTransparency="true" frameborder="0"></iframe>
