@@ -47,9 +47,9 @@ A szakácsapp vagy receptapp számára viszont egy kicsit árnyalni kellett a k�
 
 1. **A praktikusan gondolkodók és elkényelmesedettek** megnézik, hogy milyen hozzávaló van otthon, és abból akarnak ételt készíteni. Pl. van otthon cukkinijük, ezért a cukkinis recepteket akarják a leggyorsabban megtalálni. A receptkeresőt is ennek megfelelően kell optimalizálni.
 
-2. A másik, **a kísérletező típus**, aki pl. a fejébe veszi, hogy márpedig ő megpróbálkozik egy vegán leves elkészítésével és a vegán levesek után kutat, függetlenül attól, hogy milyen alapanyag van otthon nála. Lelkes, ezért elmegy bevásárolni. Tehát szükség van olyan kategóriák szerinti bontásban csoportosítani az ételeket, mint levesek, főételek, desszertek, saláták stb..
+2. **A kísérletező típus**, aki pl. a fejébe veszi, hogy márpedig ő megpróbálkozik egy vegán leves elkészítésével és a vegán levesek után kutat, függetlenül attól, hogy milyen alapanyag van otthon nála. Lelkes, ezért elmegy bevásárolni. Tehát szükség van olyan kategóriák szerinti bontásban csoportosítani az ételeket, mint levesek, főételek, desszertek, köretek, egytálételek stb..
 
-Gondoltam arra is, hogy ne kelljen állandóan bevásárlólistát írni kis papírfecnikre, hanem elég csak kikeresni az appban a megfelelő receptet, ahol egy helyen listázva van az összes szükséges hozzávaló.
+Gondoltam arra is, hogy ne kelljen állandóan bevásárlólistát írni kis papírfecnikre, hanem elég csak kikeresni az appban a megfelelő receptet, ahol egy helyen listázva van az összes szükséges hozzávaló. Esetleg lehetne pipálni az egyes hozzávalókat az alkalmazásban, ha már beletettük a bevásárlókosarunkba, így biztosan nem marad ki véletlenül egy sem. Ahogyan a bevásárlócetlin is kihúzogatod a már begyűjtött termékeket.
 
 Esetleg még lehetne napi receptajánló funkciót is hozzáadni, ha éppen semmi nem jut eszedbe, hogy mit főzzél aznapra vagy másnapra.
 
@@ -67,7 +67,7 @@ A legnagyobb korlát technológiai jellegű volt: a Wordpress platformfüggősé
 ----
 ## Design process
 
-Elsőnek papíron kezdek el tervezni, vázlatokat készíteni. Mindig 8-10 perces brainstorming session-ökkel kezdek. Az összes ötletemet kirajzolom magamból. Utána low fidelity papíros drótvázakat állítok össze.
+Elsőnek papíron kezdek el tervezni, vázlatokat készíteni. Mindig 8-10 perces brainstorming session-ökkel kezdek. Az összes ötletemet kirajzolom magamból. Utána low fidelity papíros drótvázakat állítok össze. Igyekszem nem kötődni érzelmileg a terveimhez, a csúnya rajzokat ki szoktam dobni, ha már nincs rájuk szükség.
 
 Utána kezdek el digitálisan dolgozni a Figmával és fokozatosan jutok el a részletesen kidolgozott prototípusokhoz. Természetesen design sokat változik a tervezés során, míg elnyeri a végleges formáját. Az első elképzelés nem feltétlenül a legjobb.
 
@@ -94,14 +94,14 @@ Néhány említésre méltó versenytárs:
 ----
 ## The Result
 
-Végül egy egységes megjelenésű responsive weboldalt és azonos tartalommal bíró app-ot terveztem. Az app-ot az összes platformra szánom. Ha technológiát választanék, akkor Ionic framework-kel állnék hozzá. A versenytársaknak is voltak appjaik, de kizárólag csak iOS platformra, amivel sok felhasználót veszítenek.
+Végül egy egységes megjelenésű responsive weboldalt és azonos tartalommal bíró app-ot terveztem. Az app-ot az összes platformra szánom. Ha technológiát választanék, akkor az Ionic framework-kel állnék hozzá. A versenytársaknak is voltak appjaik, de kizárólag csak iOS platformra, amivel szerintem sok felhasználót veszítenek.
 
 ![LovelyVeg főzőiskola újratervezett honlapja. Asztali nézet.](
 https://mir-cdn.behance.net/v1/rendition/project_modules/max_1200/6120a687343695.5de2c65418048.png)
 
 ### Colors
 
-A színvilágon keveset változtattam, a LovelyVeg-nek már kialakult az imázsa, teljesen szükségtelen megbabrálni a színeket, bár a kontrasztarányokon javítani kellett. A színek egészen csajosak, mivel alapvetően nőkből áll a célcsoport.
+A színvilágon keveset változtattam, a LovelyVeg-nek már kialakult az imázsa, teljesen szükségtelen volt nagyon megbabrálni a színeket. A színek egészen csajosak, mivel alapvetően nőkből áll a célcsoport.
 
 A fő szín a lila, amihez monokromatikus színskálát készítettem. A komplementer és másodlagos szín a sárga maradt. A HSB színmodellt használom a színek keverésénél. A Hue értéket változatlanul hagyom, és csak a telítettséget és a fényességet változtatom általában. A fekete és szürke szövegekben is van lilás árnyalat.
 
@@ -146,10 +146,14 @@ https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/db781686940591.5da88f
 ## The retrospective
 
 Ez még egy futó projekt, a usability tesztek után frissülni fog.
-Viszont már most van egy-két dolog, amin változtatnák a szakácsapp kapcsán. Például bevezetném a napi receptajánlókat és felmerült bennem a gamifikáció ötlete.
+Viszont már most van egy-két dolog, amin változtatnák a szakácsapp kapcsán. Például bevezetném a napi receptajánlókat és felmerült bennem a gamifikáció/játékosítás ötlete.
 
-Lehetne nehézségi szint szerint csoportosítani a recepteket és a sikeres elkészítés után pont jár (a nehézséggel arányosan). Egy bizonyos pontszám után következő szintre lehet lépni: kezdő, középhaladó és haladó, illetve lehetne kicsit kreatívabb "titulusokat" is megadni, pl. "vegán tanonc", "profi növényevő", "a növények réme". Le kell tesztelni, hogy egy kis humor belefér-e.
+Lehetne nehézségi szint szerint csoportosítani a recepteket és a sikeres elkészítés után pont jár (a nehézséggel arányosan). Egy bizonyos pontszám után következő szintre lehet lépni: kezdő, középhaladó és haladó, illetve lehetne kicsit kreatívabb „titulusokat” is megadni, pl. „vegán tanonc”, „profi növényevő”, „a növények réme”. (Szilvi számára fenntartom a „vegán szakácsistennő” megszólítást, amiért olyan mennyeien finom vegán csokitortát készített a születésnapomra.) Le kell tesztelni, hogy egy kis humor belefér-e. Bár ha gamifikációban gondolkodunk, akkor mindenképen szükséges személyes profil, hogy elmentsük a pontokat. Ez esetben a regisztráció menetét is ki kell dolgoznunk.
 
-## Marvel prototype (interact with it)
+## Marvel prototype
+
+1. feladat: Van otthon cukkinid és paradicsomod. Szeretnél egy jó vegán receptet hozzá.
+
+2. feladat: Az egyik közeli barátodnak hamarosan születésnapja lesz. Szeretnéd meglepni őt egy saját készítésű csokitortával.
 
 <iframe src="https://marvelapp.com/6705ff8?emb=1&iosapp=false&frameless=false" width="452" height="901" allowTransparency="true" frameborder="0"></iframe>
