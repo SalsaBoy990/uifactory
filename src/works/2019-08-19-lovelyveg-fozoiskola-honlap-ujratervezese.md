@@ -20,6 +20,8 @@ website: '-'
 
 Már egy meglévő, bejáratott márka/termék honlapját terveztem újra, így brandingre nem volt szükség. Továbbá egy szakácskönyv appot is terveztem.
 
+![LovelyVeg főzőiskola app. iPhone 6 mockup.](https://mir-cdn.behance.net/v1/rendition/project_modules/max_1200/92084f87343695.5de2c3319891b.png)
+
 ----
 ## Interviews, UX research
 
@@ -53,7 +55,10 @@ Gondoltam arra is, hogy ne kelljen állandóan bevásárlólistát írni kis pap
 
 Esetleg még lehetne napi receptajánló funkciót is hozzáadni, ha éppen semmi nem jut eszedbe, hogy mit főzzél aznapra vagy másnapra.
 
-![LovelyVeg főzőiskola app. iPhone 6 mockup.](https://mir-cdn.behance.net/v1/rendition/project_modules/max_1200/92084f87343695.5de2c3319891b.png)
+A felhasználók útja. Egy lehetséges forgatókönyv.
+
+![LovelyVeg User Journey 1](https://mir-cdn.behance.net/v1/rendition/project_modules/max_1200/58118d87343695.5de6e4a39d196.jpg)
+
 
 ### Value Proposition
 
@@ -70,6 +75,8 @@ A legnagyobb korlát technológiai jellegű volt: a Wordpress platformfüggősé
 Elsőnek papíron kezdek el tervezni, vázlatokat készíteni. Mindig 8-10 perces brainstorming session-ökkel kezdek. Az összes ötletemet kirajzolom magamból. Utána low fidelity papíros drótvázakat állítok össze. Igyekszem nem kötődni érzelmileg a terveimhez, a csúnya rajzokat ki szoktam dobni, ha már nincs rájuk szükség.
 
 Utána kezdek el digitálisan dolgozni a Figmával és fokozatosan jutok el a részletesen kidolgozott prototípusokhoz. Természetesen design sokat változik a tervezés során, míg elnyeri a végleges formáját. Az első elképzelés nem feltétlenül a legjobb.
+
+![Az egyik korai low fidelity vázlatom a LovelyVeg honlap asztali nézetéről.](https://mir-cdn.behance.net/v1/rendition/project_modules/max_1200/25a89087343695.5de6e4a39da5c.jpg)
 
 Mindig ihletet, ötleteket merítek a versenytársak honlapjaiból, appjaiból. Ez nem egy az egyben lemásolást jelent. Ehhez inspiration board-okat szoktam készíteni. Nem csak a brandingre, a visual design-ra figyelek, hanem az információs architektúrára, a működésre/használhatóságra is. Le is tesztelem a versenytársak honlapjait a használhatóság/élmény szempontjából. Sok dolog kiderül hogyan gondolkodtak a honlap/app tervezői/fejlesztői.
 
@@ -157,3 +164,4 @@ Lehetne nehézségi szint szerint csoportosítani a recepteket és a sikeres elk
 2. feladat: Az egyik közeli barátodnak hamarosan születésnapja lesz. Szeretnéd meglepni őt egy saját készítésű csokitortával.
 
 <iframe src="https://marvelapp.com/6705ff8?emb=1&iosapp=false&frameless=false" width="452" height="901" allowTransparency="true" frameborder="0"></iframe>
+
