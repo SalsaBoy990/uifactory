@@ -1,5 +1,5 @@
 ---
-title: Jane Doe psychologist private praxis
+title: Jane Doe pszichológus magánpraxisa
 date: '2019-06-30'
 thumbnail: /assets/images/design/janeDoePsychologistMockup.png
 hexagonImage: /assets/images/design/jane_doe_psychologist_hexagon.jpg
@@ -10,26 +10,26 @@ excerpt: >-
 type:
   - landing page
 category: case study
-expertise: 'Research, Design, Information Architecture, Visual Design'
-platform: 'responsive website for mobile, tablet and desktop'
+expertise: 'UX kutatás, design, IA, vizuális design'
+platform: 'reszponzív weboldal'
 deliverables: UI Design
 website: '-'
 ---
 
-## What I did
+## Mit csináltam?
 Egy reszponzív landing page-et terveztem a pszichológiai segítségnyújtás/tanácsadás iránt érdeklődő egyének számára.
 
 ---
-## Interviews, UX research
+## Interjúk, UX kutatás
 
 Legelső lépésként szkript alapján interjúkat folytattam az ügyfelemmel, hogy
 1. Kiderítsem pontosan mely területekkel foglalkozik a pszichológián belül;
 2. Kipuhatoljam kik járnak hozzá tanácsadásra;
-3. Feltárjam, hogy az első alkalmakkor mikre kérdeznek rá a pszichológiai tanácsadással kapcsolatban Pl. milyen problémák merülnek fel a tanácsadással kapcsolatban.
+3. Feltárjam, hogy az első alkalmakkor mikre kérdeznek rá a pszichológiai tanácsadással kapcsolatban, pl. milyen problémák merülnek fel?
 
 Az interjúról hangfelvételt készítettem, hogy többször visszahallgathassam.
 
-Erősen priorizálni kellett, hogy az ügyfelem mely területekkel szeretne foglalkozni a magánpraxisában, ugyanis egy csomó dolgot említett nekem a karriertanácsadástól kezdve a pszichodrámán át a gyászfeldolgozásig. Látszott, hogy nem volt egyértelmű koncepciója - mindent pedig nem lehet belezsúfolni.
+Erősen priorizálni kellett, hogy az ügyfelem mely területekkel szeretne foglalkozni a magánpraxisában, ugyanis egy csomó dolgot említett nekem a karriertanácsadástól kezdve a pszichodrámán át a gyászfeldolgozásig. Látszott, hogy nem volt egyértelmű koncepciója—mindent pedig nem lehet belezsúfolni.
 Három fő terület maradt, a többit elvetettük:
 1. **Veszteségfeldolgozás**
 2. **Krízis intervenció** (később Tanácsadásra módosult)
@@ -39,7 +39,7 @@ Három fő terület maradt, a többit elvetettük:
 6. Egyéni/csoportos tréningek (autogén, pszichodráma, szociális készségek)
 
 ---
-## The problem
+## A probléma
 
 Következő alkalommal brainstorming-gal kezdtünk, mely során post-it-ekre írtuk a pszichológiai tanácsadással kapcsolatben felmerül problémákat, majd csoportosítottuk azokat. Ezután kiválasztattam a legeslegfontosabb problémahalmazt.
 
@@ -53,40 +53,40 @@ Következő alkalommal brainstorming-gal kezdtünk, mely során post-it-ekre ír
 A legfontosabb probléma az elérhetőség, azaz a pszichológus személyének megközelíthetősége. Különösen fontos a közvetlenség, nyitottság, barátságosság, mert az emberek idegenkednek, negatív kép párosul a pszichológusokhoz az előítéletek miatt.
 
 ---
-## Users & Audience
+## Felhasználók és célközönség
 
 Az ügyfelem az interjú során megemlítette, hogy ő inkább 18 éves kortól felfelé szeretne tanácsadást nyújtani (fiatalkorúak esetén szülői beleegyezésre van szükség, több a papírmunka). Ezért csak a felnőttekre szűkítettük le célcsoportunkat.
 
 Felhasználói történeteket találtunk ki a pszichológiai tanácsadással kapcsolatban, az alábbi séma szerint:
 *“Én mint [felhasználó típusa], szeretnék [valamit elérni] azért, hogy [valamilyen okból]”* formában.
 
-![User stories created for the psychologist website (in Hungarian)](https://dl.dropboxusercontent.com/s/7j2pytghgfy5myd/persz%C3%B3n%C3%A1k1-min.png)
+![Felhasználói történetek a pszichológiai tanácsadással kapcsolatban](https://dl.dropboxusercontent.com/s/7j2pytghgfy5myd/persz%C3%B3n%C3%A1k1-min.png)
 
 Megállapításra került, hogy alapvetően inkább a fiatal felnőtt korosztály lehet fogékony a pszichológiai tanácsadás iránt. Méghozzá középosztálybeliek, akik meg tudják fizetni a pszichológust (az óradíj általában 5.000-8.000 Ft között mozog. Budapesten 10.000 felett is lehet).
 
-### Value proposition:
+### Értékajánlat
 *Azoknak a középosztálybeli fiatal felnőtteknek,
 akik pszichológus tanácsára szorulnak,
 Jane Doe pszichológus magánpraxisa
 segít rávezetni őket a megoldásra.*
 
 ---
-## Constrains
+## Korlátozó tényezők
 
 A kliensekkel nem lehetett interjút készíteni, hiszen az emberek a személyes problémáikról nem beszélnének egy idegennek. Helyette a pszichológus barátom elmondásaira hagyatkoztam, aki nagyon jól ismeri a hozzá fordulók problémáit. Természetesen őt is korlátozza a titoktartás abban, hogy beszéljen a legutóbbi esetekről részletesen. Ezért úgy éreztem, hogy kicsit általánosabb síkon kellett mozognom a vele folytatott interjú alatt.
 
-A pszichológiai tanácsadásnak van egy szakmailag meghatározott menete, ami a telefonhívással kezdődik, így az user journey, illetve tágabb értelemben a customer journey is előre megszabott, attól eltérni nem szabad. Fontos a hitelesség és a szakmaiság fenntartása, mivel sok kókler "tanácsadó" van az interneten.
+A pszichológiai tanácsadásnak van egy szakmailag meghatározott menete, ami a telefonhívással kezdődik, így a felhasználók útja, illetve tágabb értelemben a vásárlói élmény útja (customer journey) is előre megszabott, attól eltérni nem szabad. Fontos a hitelesség és a szakmaiság fenntartása, mivel sok kókler "tanácsadó" van az interneten.
 
 Nehézséget jelentett, hogy túl szerteágazóak a kliensek, sokféle problémával küszködnek, és emiatt nehéz általános perszónával lefedni őket. A problémák személyspecifikusak és a megoldás rájuk szintén az.
 
 ---
-## Design process
+## A tervezési folyamat
 
 A legelső lépés mindig a szövegek, a tartalmak, a navigáció, oldaltérkép stb. elkészítése az oldal számára, hiszen ezek nélkül nem lehet design tervet készíteni. A tartalom határozza meg, hogy milyen elrendezést használunk.
 
 Utána kielemeztem a versenytársak honlapjait és igyekeztem a jó gyakorlatokat átvenni, ihletet meríteni belűlük. Mindig így szoktam kezdeni a tervezést.
 
-![Inspiration Board from the competitors' websites](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/34dfb085965601.5ddd4b40c8eb2.jpg)
+![Inspirációs tábla a versenytársak honlapjaiból](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/34dfb085965601.5ddd4b40c8eb2.jpg)
 
 
 Említésre méltó honlapok:
@@ -99,29 +99,29 @@ Említésre méltó honlapok:
 [Versenytárskutatás: előnyök és hátrányok. Egy részlet.]
 
 
-Ezt követően kezdtem el papíron ötletelni, skicceket, vázlatokat készíteni. Kipróbáltam az összes ötletemet, a különböző elrendezéseket. Az egész folyamat végére összeállnak az ötletek egy egységes elképzeléssé és így meg tudom rajzolni az egész low fidelity design tervet.
+Ezt követően kezdtem el papíron ötletelni, skicceket, vázlatokat készíteni. Kipróbáltam az összes ötletemet, a különböző elrendezéseket. Az egész folyamat végére összeállnak az ötletek egy egységes elképzeléssé és így meg tudom rajzolni a teljes low fidelity design terveket.
 
-![Paper sketches, results from the brainstorming sessions with my client](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/40289e85965601.5ddd4b40c874c.jpg)
+![Papíros skiccek, az ügyféllel folytatott brainstorm ülések eredményei](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/40289e85965601.5ddd4b40c874c.jpg)
 
 Végül digitálisan kezdek el dolgozni. A prototípusok felépítésére a Figmát használom. (Régebben az Axure RP 8-cal dolgoztam.) Az így készített tervek high fidelity. Ezeken dolgozok tovább a már végleges UI design kialakítása felé.
 
 ----
-## The result
+## Az eredmény
 
-### Colors
+### Színek
 
 A nyugtató, terápiás zöldes-türkizes színt kombináltam a profizmust, komolyságot sugallmazó sötétkékes színnel, ami egészen feketének hat. A fotón látható modell meleg színe, barátságos megjelenése kontrasztban áll a türkiz és a sötétkék nyugodtságával, hűvösségével és tárgyilagosságával.
 
-![Color and type system used](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/60fddd85965601.5d8b7dc6ba092.png)
+![A kialakított szín- és tipográfia rendszerek](https://mir-cdn.behance.net/v1/rendition/project_modules/max_1200/0ab6e385965601.5de7efe8757b7.png)
 
-### Typography
+### Tipográfia
 
 A tipográfia terén talpatlan betűtípusokat választottam. Több kombinációt kipróbáltam. Végül ez a három párosítás maradt versenyben:
 1. Címsor: **PT Sans**, szövegtörzs: **Muli** 
 2. Címsor: **Ubuntu** szövegtörzs: **PT Sans**
 3. Címsor: **Fira Sans** szövegtörzs: **Fira Sans**
 
-![Some font combinations I considered](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/cf482985965601.5ddd635a712e6.png)
+![Néhány figyelembe vett betűtípus-kombináció](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/cf482985965601.5ddd635a712e6.png)
 
 Az Ubuntu kortárs stílusú, precíz, megbízható és szabad szemléletet közvetít. Jó az olvashatósága, szépek benne a lágyabb ívű geometrikus formák félkövér stílusban. Tetszik az 'l' betű ívelt vége.
 
@@ -133,20 +133,20 @@ A Fira Sans egy olvashatóságra optimalizált humanista stílusú talpatlan bet
 
 Végül a **Fira Sans** mellett tettem le a voksomat.
 
-### Information Architecture, Tone of voice
+### Információs architektúra, hangnem
 
 Fontos volt a megfelelő hangnem megtalálása a perszónánkkal. A magázásnak fontos szerepe van a tanácsadás során, mert ezek a formális keretek biztonságérzést és kontrollérzetet nyújtanak a kliensek számára. Igyekeztem megtalálni az egyensúlyt a magázódás és a pszichológus személyének megközelíthetősége között, amivel oldani szeretném a pszichológusokkal szembeni ellenérzéseket. Külön fel kellett hívni a figyelmet a pszichológusi titoktartásra.
 
-### Layout
+### Elrendezés
 
 Az órási negatív tér alkalmazásával a nyitottságot és befogadást közvetítve a érdeklődők számára. A zsúfoltság ezzel szemben zártságot, intimitást vagy megközelíthetetlenséget sugallmazhat. Némi kreativitást is belevittem.
 
-![Jane Doe psychologist private praxis.](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/9d1e9e85965601.5dbc5ed15bd92.png)
+![Jane Doe pszichológus magánpraxisa.](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/9d1e9e85965601.5dbc5ed15bd92.png)
 
-You can check out the [design files in Figma](https://www.figma.com/file/nNm0BXr6bUAlTr653koQC5/2019_janeDoePortfolioProject?node-id=0%3A1).
+Megnézheted a [design fájlokat a Figmában](https://www.figma.com/file/nNm0BXr6bUAlTr653koQC5/2019_janeDoePortfolioProject?node-id=0%3A1).
 
 ----
-## The retrospective
+## Visszatekintés
 
 Sajnos Jane elfoglaltsága és személyes okok miatt mégsem lett szükség a weboldalra, viszont az UI design elkészült. Kár érte.
 
