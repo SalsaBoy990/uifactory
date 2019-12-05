@@ -153,7 +153,7 @@ https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/a8a3fc86940591.5de8ef
 ## Visszatekintés
 
 Ez még egy futó projekt, a usability tesztek után frissülni fog.
-Viszont már most van egy-két dolog, amin változtatnák a szakácsapp kapcsán. Például bevezetném a napi receptajánlókat és felmerült bennem a gamifikáció/játékosítás ötlete.
+Viszont már most van egy-két dolog, amin változtatnék a szakácsapp kapcsán. Például bevezetném a napi receptajánlókat és felmerült bennem a gamifikáció/játékosítás ötlete.
 
 Lehetne nehézségi szint szerint csoportosítani a recepteket és a sikeres elkészítés után pont jár (a nehézséggel arányosan). Egy bizonyos pontszám után következő szintre lehet lépni: kezdő, középhaladó és haladó, illetve lehetne kicsit kreatívabb „titulusokat” is megadni, pl. „vegán tanonc”, „profi növényevő”, „a növények réme”. (Szilvi számára fenntartom a „vegán szakácsistennő” megszólítást, amiért olyan mennyeien finom vegán csokitortát készített a születésnapomra.) Le kell tesztelni, hogy egy kis humor belefér-e. Bár ha gamifikációban gondolkodunk, akkor mindenképen szükséges a személyes profil, hogy elmentsük a pontokat. Ez esetben a regisztráció menetét is ki kell dolgoznunk.
 
