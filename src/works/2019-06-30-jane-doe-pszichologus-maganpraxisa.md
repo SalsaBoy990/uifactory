@@ -11,7 +11,7 @@ type:
   - landing page
 category: case study
 expertise: 'UX kutatás, design, IA, vizuális design'
-platform: 'reszponzív weboldal'
+platform: reszponzív weboldal
 deliverables: UI Design
 website: '-'
 ---
@@ -75,7 +75,7 @@ segít rávezetni őket a megoldásra.*
 
 A kliensekkel nem lehetett interjút készíteni, hiszen az emberek a személyes problémáikról nem beszélnének egy idegennek. Helyette a pszichológus barátom elmondásaira hagyatkoztam, aki nagyon jól ismeri a hozzá fordulók problémáit. Természetesen őt is korlátozza a titoktartás abban, hogy beszéljen a legutóbbi esetekről részletesen. Ezért úgy éreztem, hogy kicsit általánosabb síkon kellett mozognom a vele folytatott interjú alatt.
 
-A pszichológiai tanácsadásnak van egy szakmailag meghatározott menete, ami a telefonhívással kezdődik, így a felhasználók útja, illetve tágabb értelemben a vásárlói élmény útja (customer journey) is előre megszabott, attól eltérni nem szabad. Fontos a hitelesség és a szakmaiság fenntartása, mivel sok kókler "tanácsadó" van az interneten.
+A pszichológiai tanácsadásnak van egy szakmailag meghatározott menete, ami a telefonhívással kezdődik, így a felhasználók útja, illetve tágabb értelemben a vásárlói élmény útja (customer journey) is előre megszabott, attól eltérni nem szabad. Fontos a hitelesség és a szakmaiság fenntartása, mivel sok kókler „tanácsadó” van az interneten.
 
 Nehézséget jelentett, hogy túl szerteágazóak a kliensek, sokféle problémával küszködnek, és emiatt nehéz általános perszónával lefedni őket. A problémák személyspecifikusak és a megoldás rájuk szintén az.
 
@@ -103,7 +103,7 @@ Ezt követően kezdtem el papíron ötletelni, skicceket, vázlatokat készíten
 
 ![Papíros skiccek, az ügyféllel folytatott brainstorm ülések eredményei](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/40289e85965601.5ddd4b40c874c.jpg)
 
-Végül digitálisan kezdek el dolgozni. A prototípusok felépítésére a Figmát használom. (Régebben az Axure RP 8-cal dolgoztam.) Az így készített tervek high fidelity. Ezeken dolgozok tovább a már végleges UI design kialakítása felé.
+Végül digitálisan kezdek el dolgozni. A prototípusok felépítésére a Figmát használom. (Régebben az Axure RP 8-cal dolgoztam.) Az így készített tervek részletesebben kidolgozottak (high fidelity). Ezeken dolgozok tovább a már végleges UI design kialakítása felé.
 
 ----
 ## Az eredmény
@@ -118,8 +118,8 @@ A nyugtató, terápiás zöldes-türkizes színt kombináltam a profizmust, komo
 
 A tipográfia terén talpatlan betűtípusokat választottam. Több kombinációt kipróbáltam. Végül ez a három párosítás maradt versenyben:
 1. Címsor: **PT Sans**, szövegtörzs: **Muli** 
-2. Címsor: **Ubuntu** szövegtörzs: **PT Sans**
-3. Címsor: **Fira Sans** szövegtörzs: **Fira Sans**
+2. Címsor: **Ubuntu**, szövegtörzs: **PT Sans**
+3. Címsor: **Fira Sans**, szövegtörzs: **Fira Sans**
 
 ![Néhány figyelembe vett betűtípus-kombináció](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/cf482985965601.5ddd635a712e6.png)
 
@@ -129,7 +129,7 @@ A PT Sans egy keskenyebb betűkkel rendelkező (jól látszik ez az 'o' betű to
 
 A Muli egy jól olvasható, minimalisztikus talpatlan betűcsalád kifejezetten kijelzőkhöz tervezve. Számomra neutrális, semleges hatással bír. A PT Sans és a Muli x-magassága azonos.
 
-A Fira Sans egy olvashatóságra optimalizált humanista stílusú talpatlan betűtípus, a Mozilla FirefoxOS számára készült. Tetszik benne az ívelt 'l' betű, a karakteres 'y', a 'g' betű anyaghiánya. A felfele kilógó betűszárak teteje vágott stílusú. 18 kölönböző stílust tartalmaz a betűcsalád. Címsorként nagyon jó a vastagsága, barátságos és hívogató a megjelenése.
+A Fira Sans egy olvashatóságra optimalizált humanista stílusú talpatlan betűtípus, a Mozilla FirefoxOS számára készült. Tetszik benne az ívelt 'l' betű, a karakteres 'y', a 'g' betű anyaghiánya. A felfele kilógó betűszárak teteje vágott stílusú. 18 különböző stílust tartalmaz a betűcsalád. Címsorként nagyon jó a vastagsága, barátságos és hívogató a megjelenése.
 
 Végül a **Fira Sans** mellett tettem le a voksomat.
 
