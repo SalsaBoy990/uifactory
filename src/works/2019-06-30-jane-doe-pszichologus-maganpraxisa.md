@@ -4,7 +4,7 @@ date: '2019-06-30'
 thumbnail: /assets/images/design/janeDoePsychologistMockup.png
 hexagonImage: /assets/images/design/jane_doe_psychologist_hexagon.jpg
 excerpt: >-
-  Egy pszichológus barátom magánpraxisa számára készítettem egy weboldalt, hogy
+  Egy pszichológus barátom magánpraxisa számára terveztem egy weboldalt, hogy
   több kuncsaftot érjen el. A barátom kérésére nem adhatok ki személyes
   információt róla, a design tervekbe is kitalált adatokat raktam.
 type:
