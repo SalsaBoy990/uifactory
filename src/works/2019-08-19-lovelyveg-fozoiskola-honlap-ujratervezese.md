@@ -45,7 +45,7 @@ Persze, a jól megfogalmazott szöveg nagyon fontos egy honlapnál, de egy gondo
 
 A célközönség nagyon könnyen behatárolható volt, főként nőkből áll, akik munkahelyen dolgoznak vagy háztartásbeliek. Az idősebb korosztály (50+) is jól reprezentált. Elég csak megnézned a főzőtanfolyamok csoportfotóit.
 
-A szakácsapp vagy receptapp számára viszont egy kicsit árnyalni kellett a képet. Elképzeltem az a forgatókönyvet, amikor a vegán, húsmentes fűzés-sütés iránt érdeklődő „konyhatündérek” készíteni szeretnének egy vegán ételt ebédre. Ehhez jó recepteket keresnek. Két „embertípust” különböztettem meg:
+A szakácsapp vagy receptapp számára viszont egy kicsit árnyalni kellett a képet. Elképzeltem az a forgatókönyvet, amikor a vegán, húsmentes főzés-sütés iránt érdeklődő „konyhatündérek” készíteni szeretnének egy vegán ételt ebédre. Ehhez jó recepteket keresnek. Két „embertípust” különböztettem meg:
 
 1. **A praktikusan gondolkodók és elkényelmesedettek** megnézik, hogy milyen hozzávaló van otthon, és abból akarnak ételt készíteni. Pl. van otthon cukkinijük, ezért a cukkinis recepteket akarják a leggyorsabban megtalálni. A receptkeresőt is ennek megfelelően kell optimalizálni.
 
@@ -78,7 +78,7 @@ Utána kezdek el digitálisan dolgozni a Figmával és fokozatosan jutok el a r�
 
 ![Az egyik korai low fidelity vázlatom a LovelyVeg honlap asztali nézetéről.](https://mir-cdn.behance.net/v1/rendition/project_modules/max_1200/25a89087343695.5de6e4a39da5c.jpg)
 
-Mindig ihletet, ötleteket merítek a versenytársak honlapjaiból, appjaiból. Ez nem egy az egyben lemásolást jelent. Ehhez inspiration board-okat szoktam készíteni. Nem csak a branding-re, a visual design-ra figyelek, hanem az információs architektúrára, a működésre/használhatóságra is. Le is tesztelem a versenytársak honlapjait a használhatóság/élmény szempontjából. Sok dolog kiderül hogyan gondolkodtak a honlap/app tervezői/fejlesztői.
+Mindig ihletet, ötleteket merítek a versenytársak honlapjaiból, appjaiból. Ez nem egy az egyben lemásolást jelent. Ehhez inspirációs táblákat szoktam készíteni. Nem csak a branding-re, a visual design-ra figyelek, hanem az információs architektúrára, a működésre/használhatóságra is. Le is tesztelem a versenytársak honlapjait a használhatóság/élmény szempontjából. Sok dolog kiderül hogyan gondolkodtak a honlap/app tervezői/fejlesztői.
 
 ![Inspirációs tábla a LovelyVeg számára](https://mir-cdn.behance.net/v1/rendition/project_modules/max_1200/f6156687343695.5de2c9e688d67.png)
 
@@ -141,12 +141,12 @@ A blogbejegyzéseknek menniük kellett az oldal tetejéről, mert a LovelyVeg m�
 
 A főzőtanfolyam élménybeszámolókat közvetlenül a meghirdetett főzőtanfolyamok után tettem be, hogy az érdeklődők lássák, hogy milyen hangulatban telnek a tanfolyamok.
 
-A footer-be még belefért néhány kép is. Szándékosan olyan képeket is választottam, ahol Szilvi éppen a tanítványoknak mutat valamit vagy épp segít nekik. Így még hitelesebbnek tűnik az érdeklődők szemében.
+A lábrészbe még belefért néhány kép is. Szándékosan olyan képeket is választottam, ahol Szilvi éppen a tanítványoknak mutat valamit vagy épp segít nekik. Így még hitelesebbnek tűnik az érdeklődők szemében.
 
 A receptkereső is külön aloldalra került. Külön büszke vagyok a receptek rendszerezésére, ahol hozzávalók szerint csoportosítottam azokat szótár nézetben.
 
 ![A LovelyVeg Receptkereső design terve. Asztali nézet.](
-https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/db781686940591.5da88fc067600.png)
+https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/a8a3fc86940591.5de8efc1bc918.png)
 
 
 ----
