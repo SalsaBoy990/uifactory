@@ -5,8 +5,8 @@ thumbnail: /assets/images/design/naptarapp_regisztracio.png
 hexagonImage: null
 excerpt: >-
   Az első komolyabb Android app design-om: NaptárApp - Tervezd meg a hetedet és
-  légy eredményes! A cikk frissülni fog...
-type: webapp
+  légy eredményes!
+type: mobilapp
 category: 'mini project'
 expertise: null
 platform: null

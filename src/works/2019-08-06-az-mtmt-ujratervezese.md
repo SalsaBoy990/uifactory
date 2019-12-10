@@ -4,9 +4,9 @@ date: '2019-08-06'
 thumbnail: /assets/images/design/mtmt.jpg
 hexagonImage: null
 excerpt: >-
-  Újraterveztem a Magyar Tudományos Művek Tárának borzalmasra sikeredett
-  felhasználói felületét, ami rengeteg frusztrációt okoz a tudósok számára.
-type: dashboard
+  Újraterveztem a Magyar Tudományos Művek Tárának borzalmas
+  felhasználói felületét.
+type: vezérlőpult
 category: 'mini project'
 expertise: null
 platform: null

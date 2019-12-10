@@ -96,7 +96,6 @@
         margin-right: 18px !important;
     }
 
-
     .m-pt2 {
       padding-top: margin-size(2);
     }
@@ -174,18 +173,9 @@
       float: right;
     }
 
-
     .m-fs18 {
       font-size: 18px !important;
     }
-
-   /* .small-size {
-      font-size: 16px !important
-    }*/
-
-    /*.min-size {
-      font-size: 14px !important
-    }*/
 
     caption, figcaption {
       font-size: 16px !important
@@ -205,6 +195,10 @@
 
     .m-pb-1 {
       padding-bottom: margin-size(1);
+    }
+
+    .m-pb0 {
+      padding-bottom: margin-size(0);
     }
 
     .m-pt2 {

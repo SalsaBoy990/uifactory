@@ -26,8 +26,8 @@
           <% for (var j = 0; j < worksDataForIndexPage[i].type.length; j++) { %>
           <span class="sans-serif badge badge-secondary white min-size normal">
             <%= worksDataForIndexPage[i].type[j] %></span>
-        <% } %>
-      </h2>
+          <% } %>
+        </h2>
         <p class="mb1 small-size d-none d-sm-none d-md-block">
           <%= worksDataForIndexPage[i].excerpt %>
         </p>
@@ -96,7 +96,7 @@
 <% } %>
 <% } %>
 
-<div class="bg-linear-blue pb2 m-pb-1 m-mt2">
+<div class="bg-linear-blue pb1 m-pb0 m-mt2">
   <div class="row mx-responsive m0 p0 align-center">
     <div class="col-12 p0">
       <div class="m-mx-16px align-center">
@@ -107,61 +107,36 @@
   </div>
 
   <div class="row mx-responsive m0 p0 mt0">
-    <% for (var i = 0, j = 0; i < worksDataForIndexPage.length; i++) { %>
-    <% if (worksDataForIndexPage[i].category === 'mini project') { %>
-    <div class="col-xs-12 col-sm-12 col-md-6 col-lg-4 col-xl-4 p0 mb1 d-none d-sm-none d-md-block">
-      <div class="flip-card border-shadow">
-        <div class="flip-card-inner">
-          <div class="flip-card-front">
-            <img class="pl0 m0" src="<%= worksDataForIndexPage[i].thumbnail %>"
-              alt="<%= worksDataForIndexPage[i].title %>">
+    <div class="col-lg-12 p0 mb1">
+      <% for (var i = 0, j = 0; i < worksDataForIndexPage.length; i++) { %>
+      <% if (worksDataForIndexPage[i].category === 'mini project') { %>
+      <article>
+        <div class="row m0 p0 mb1 bg-white-transparent50 border-shadow">
+
+          <div class="col-3 col-sm-4 col-md-4 col-lg-4 col-xl-4 p0">
+            <a href="<%= worksDataForIndexPage[i].pathToPost %>">
+              <div class="zoom-animation">
+                <img class="pl0 m0 m-mt-15px" src="<%= worksDataForIndexPage[i].thumbnail %>"
+                  alt="<%= worksDataForIndexPage[i].title %>">
+              </div>
+            </a>
           </div>
-          <div class="flip-card-back align-center">
-            <h2 class="mb0 mt1 small-size" style="line-height: 1.2"><a
-                aria-label="<%= worksDataForIndexPage[i].title %>"
-                class="pthalf pbhalf white-link sans-serif no-underline bold-700 mb0"
+          <div class="col-9 col-sm-8 col-md-8 col-lg-8 col-xl-6 plhalf">
+            <h2 class="mb0 mthalf h4" style="line-height: 1.2"><a aria-label="<%= worksDataForIndexPage[i].title %>"
+                class="pthalf pbhalf sans-serif no-underline bold-700 mb0"
                 href="<%= worksDataForIndexPage[i].pathToPost %>">
                 <%= worksDataForIndexPage[i].title %>
               </a></h2>
-            <p class="m0 p0 sans-serif">
-              <span class="badge badge-secondary white min-size normal">
-                <%= worksDataForIndexPage[i].type %></span>
+            <p class="m0 p0 small-size">
+              <%= worksDataForIndexPage[i].excerpt %>
             </p>
+            <span class="gray-3 mb0 pb0 min-size sans-serif">
+              <%= worksDataForIndexPage[i].type %></span>
           </div>
         </div>
-      </div>
-    </div>
-
-    <% } %>
-    <% } %>
-  </div>
-
-
-
-
-
-
-  <div class="row m0 p0">
-    <% for (var i = 0, count = 0; i < worksDataForIndexPage.length; i++) { %>
-    <% if (worksDataForIndexPage[i].category === 'mini project') { %>
-    <div class="col-xs-12 col-sm-12 col-md-12 p0 m0 d-sm-block d-md-none">
-      <article>
-        <div class="bg-light-gray border-shadow border-gray-4 phalf mrhalf mlhalf mb1 m-mx-0">
-          <h2 class="h3 sub-title mbhalf mt0"><a href="<%= worksDataForIndexPage[i].pathToPost %>">
-              <%= worksDataForIndexPage[i].title %></a>
-            <span
-              class="sans-serif badge badge-secondary white min-size normal"><%= worksDataForIndexPage[i].type %></span>
-          </h2>
-          <!--<p class="mbhalf">
-              <%= worksDataForIndexPage[i].excerpt %>
-            </p>-->
-          <a href="<%= worksDataForIndexPage[i].pathToPost %>">
-            <img class="pl0 m0 thumbnail-img" src="<%= worksDataForIndexPage[i].thumbnail %>"
-              alt="<%= worksDataForIndexPage[i].title %>">
-          </a>
-        </div>
       </article>
+      <% } %>
+      <% } %>
     </div>
-    <% } %>
-    <% } %>
   </div>
+</div>

@@ -441,13 +441,15 @@ tr:nth-child(even) {
 }
 
 
-
-
 hr {
   border: 2px solid $san-juan;
   margin: 0;
   margin-top: margin-size(1);
   margin-bottom: 0.5rem;
+}
+
+.light-hr {
+  border: 1px solid $light-gray2;
 }
 
 .small-hr {

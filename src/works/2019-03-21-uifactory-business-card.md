@@ -6,7 +6,7 @@ hexagonImage: null
 excerpt: >-
   Felhasználóbarát honlapok és app-ok készítése. A saját névjegykártya-tervem.
   Adobe Photoshop-pal készült.
-type: business card
+type: névjegykártya
 category: 'mini project'
 expertise: null
 platform: null

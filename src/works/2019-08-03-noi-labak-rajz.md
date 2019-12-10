@@ -5,7 +5,7 @@ thumbnail: /assets/images/design/noi_labak.jpg
 hexagonImage: null
 excerpt: >-
   Újra elkezdtem rajzolni kb. 15 év kihagyás után. A rajzom címe: „Női lábak”.
-type: drawing
+type: rajz
 category: 'mini project'
 expertise: null
 platform: null
