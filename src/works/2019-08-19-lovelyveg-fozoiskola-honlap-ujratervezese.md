@@ -45,7 +45,7 @@ Persze, a jól megfogalmazott szöveg nagyon fontos egy honlapnál, de egy gondo
 
 A célközönség nagyon könnyen behatárolható volt, főként nőkből áll, akik munkahelyen dolgoznak vagy háztartásbeliek. Az idősebb korosztály (50+) is jól reprezentált. Elég csak megnézned a főzőtanfolyamok csoportfotóit.
 
-A szakácsapp vagy receptapp számára viszont egy kicsit árnyalni kellett a képet. Elképzeltem az a forgatókönyvet, amikor a vegán, húsmentes fűzés-sütés iránt érdeklődő „konyhatündérek” készíteni szeretnének egy vegán ételt ebédre. Ehhez jó recepteket keresnek. Két „embertípust” különböztettem meg:
+A szakácsapp vagy receptapp számára viszont egy kicsit árnyalni kellett a képet. Elképzeltem az a forgatókönyvet, amikor a vegán, húsmentes főzés-sütés iránt érdeklődő „konyhatündérek” készíteni szeretnének egy vegán ételt ebédre. Ehhez jó recepteket keresnek. Két „embertípust” különböztettem meg:
 
 1. **A praktikusan gondolkodók és elkényelmesedettek** megnézik, hogy milyen hozzávaló van otthon, és abból akarnak ételt készíteni. Pl. van otthon cukkinijük, ezért a cukkinis recepteket akarják a leggyorsabban megtalálni. A receptkeresőt is ennek megfelelően kell optimalizálni.
 
@@ -67,7 +67,7 @@ A felhasználók útja. Egy lehetséges forgatókönyv.
 ----
 ## A korlátozó tényezők
 
-A legnagyobb korlát technológiai jellegű volt: a Wordpress platformfüggőség, ugyanis egy már meglévő, jól bejáratott rendszert (CMS, tartalomkezelő stb.) megbolygatni, és áttérni egy másikra nehézséget és kényelmetlenséget okozni Szilvinek. Nem is javasolnám ezt. A meglévő felhasználók számára is rossz lenne, ha például a hozzászólás rendszert le kéne cserélni. Ugyanis néhányan a honlapon át adnak értékelést, visszajelzést a főzőtanfolyamoktól.
+A legnagyobb korlát technológiai jellegű volt: a Wordpress platformfüggőség, ugyanis egy már meglévő, jól bejáratott rendszert (CMS, tartalomkezelő stb.) megbolygatni, és áttérni egy másikra nehézséget és kényelmetlenséget okozna Szilvinek. Nem is javasolnám ezt. A meglévő felhasználók számára is rossz lenne, ha például a hozzászólás rendszert le kéne cserélni. Ugyanis néhányan a honlapon át adnak értékelést, visszajelzést a főzőtanfolyamoktól.
 
 ----
 ## A tervezési folyamat
@@ -78,7 +78,7 @@ Utána kezdek el digitálisan dolgozni a Figmával és fokozatosan jutok el a r�
 
 ![Az egyik korai low fidelity vázlatom a LovelyVeg honlap asztali nézetéről.](https://mir-cdn.behance.net/v1/rendition/project_modules/max_1200/25a89087343695.5de6e4a39da5c.jpg)
 
-Mindig ihletet, ötleteket merítek a versenytársak honlapjaiból, appjaiból. Ez nem egy az egyben lemásolást jelent. Ehhez inspiration board-okat szoktam készíteni. Nem csak a branding-re, a visual design-ra figyelek, hanem az információs architektúrára, a működésre/használhatóságra is. Le is tesztelem a versenytársak honlapjait a használhatóság/élmény szempontjából. Sok dolog kiderül hogyan gondolkodtak a honlap/app tervezői/fejlesztői.
+Mindig ihletet, ötleteket merítek a versenytársak honlapjaiból, appjaiból. Ez nem egy az egyben lemásolást jelent. Ehhez inspirációs táblákat szoktam készíteni. Nem csak a branding-re, a visual design-ra figyelek, hanem az információs architektúrára, a működésre/használhatóságra is. Le is tesztelem a versenytársak honlapjait a használhatóság/élmény szempontjából. Sok dolog kiderül hogyan gondolkodtak a honlap/app tervezői/fejlesztői.
 
 ![Inspirációs tábla a LovelyVeg számára](https://mir-cdn.behance.net/v1/rendition/project_modules/max_1200/f6156687343695.5de2c9e688d67.png)
 
@@ -104,7 +104,7 @@ Néhány említésre méltó versenytárs:
 Végül egy egységes megjelenésű reszponzív weboldalt és azonos tartalommal bíró app-ot terveztem. Az app-ot az összes platformra szánom. Ha technológiát választanék, akkor az Ionic framework-kel állnék hozzá. A versenytársaknak is voltak appjaik, de kizárólag csak iOS platformra, amivel szerintem sok felhasználót veszítenek.
 
 ![LovelyVeg főzőiskola újratervezett honlapja. Asztali nézet.](
-https://mir-cdn.behance.net/v1/rendition/project_modules/max_1200/6120a687343695.5de2c65418048.png)
+https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/a4f14187343695.5de8f7c61515b.png)
 
 ### Színek
 
@@ -141,12 +141,12 @@ A blogbejegyzéseknek menniük kellett az oldal tetejéről, mert a LovelyVeg m�
 
 A főzőtanfolyam élménybeszámolókat közvetlenül a meghirdetett főzőtanfolyamok után tettem be, hogy az érdeklődők lássák, hogy milyen hangulatban telnek a tanfolyamok.
 
-A footer-be még belefért néhány kép is. Szándékosan olyan képeket is választottam, ahol Szilvi éppen a tanítványoknak mutat valamit vagy épp segít nekik. Így még hitelesebbnek tűnik az érdeklődők szemében.
+A lábrészbe még belefért néhány kép is. Szándékosan olyan képeket is választottam, ahol Szilvi éppen a tanítványoknak mutat valamit vagy épp segít nekik. Így még hitelesebbnek tűnik az érdeklődők szemében.
 
 A receptkereső is külön aloldalra került. Külön büszke vagyok a receptek rendszerezésére, ahol hozzávalók szerint csoportosítottam azokat szótár nézetben.
 
 ![A LovelyVeg Receptkereső design terve. Asztali nézet.](
-https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/db781686940591.5da88fc067600.png)
+https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/a8a3fc86940591.5de8efc1bc918.png)
 
 
 ----
@@ -155,7 +155,7 @@ https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/db781686940591.5da88f
 Ez még egy futó projekt, a usability tesztek után frissülni fog.
 Viszont már most van egy-két dolog, amin változtatnák a szakácsapp kapcsán. Például bevezetném a napi receptajánlókat és felmerült bennem a gamifikáció/játékosítás ötlete.
 
-Lehetne nehézségi szint szerint csoportosítani a recepteket és a sikeres elkészítés után pont jár (a nehézséggel arányosan). Egy bizonyos pontszám után következő szintre lehet lépni: kezdő, középhaladó és haladó, illetve lehetne kicsit kreatívabb „titulusokat” is megadni, pl. „vegán tanonc”, „profi növényevő”, „a növények réme”. (Szilvi számára fenntartom a „vegán szakácsistennő” megszólítást, amiért olyan mennyeien finom vegán csokitortát készített a születésnapomra.) Le kell tesztelni, hogy egy kis humor belefér-e. Bár ha gamifikációban gondolkodunk, akkor mindenképen szükséges a személyes profil, hogy elmentsük a pontokat. Ez esetben a regisztráció menetét is ki kell dolgoznunk.
+Lehetne nehézségi szint szerint csoportosítani a recepteket és a sikeres elkészítés után pont jár (a nehézséggel arányosan). Egy bizonyos pontszám után következő szintre lehet lépni: kezdő, középhaladó és haladó, illetve lehetne kicsit kreatívabb „titulusokat” is megadni, pl. „vegán tanonc”, „profi növényevő”, „a növények réme”. (Szilvi számára fenntartom a „vegán szakácsistennő” megszólítást, amiért olyan mennyeien finom vegán csokitortát készített a születésnapomra.) Le kell tesztelni, hogy egy kis humor belefér-e. Bár ha gamifikációban gondolkodunk, akkor mindenképpen szükséges a személyes profil, hogy elmentsük a pontokat. Ez esetben a regisztráció menetét is ki kell dolgoznunk.
 
 ## Kattintható prototípus (Marvel)
 
