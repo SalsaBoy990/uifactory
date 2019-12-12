@@ -52,7 +52,7 @@ collections:
             ],
           multiple: true
         }
-      - {label: "Category", name: "category", widget: "select",  options: ['case study', 'mini project']}
+      - {label: "Category", name: "category", widget: "select",  options: ["case study", "mini project", "other"]}
       - {label: "Expertise", name: "expertise", widget: "text"}
       - {label: "Platform", name: "platform", widget: "text"}
       - {label: "Deliverables", name: "deliverables", widget: "text"}
@@ -83,10 +83,17 @@ collections:
     fields: # The fields for each document, usually in front matter
       - {label: "Article title", name: "title", widget: "string"}
       - {label: "Publication date", name: "url", widget: "string"}
-      - {label: "Publication date", name: "date", widget: "date", format: 'YYYY-MM-DD'}
+      - {label: "Publication date", name: "date", widget: "date", format: "YYYY-MM-DD"}
       - {label: "Datetime (test)", name: "datetime", widget: "datetime", default: "", format: "LLL"}
       - {label: "Category", name: "category", widget: "select",  options: ["news"], default: ["news"]}
-      - {label: "Topic", name: "topic", widget: "select",  options: ["branding", "design", "marketing", "Netlify", "webfejlesztés"], default: ["design"]}
+      - {
+          label: "Topic",
+          name: "topic",
+          widget: "select", 
+          options: ["branding", "design", "marketing", "Netlify", "webfejlesztés"],
+          default: ["design"],
+          multiple: true
+        }
       - {label: "Small description or a video embedded", name: "body", widget: "markdown"}
 
 
