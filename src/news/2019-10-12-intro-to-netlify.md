@@ -1,8 +1,9 @@
 ---
-title: 'Complete Intro to Netlify in 3.5 hours'
-url: https://www.netlify.com/blog/2019/10/07/complete-intro-to-netlify-in-3.5-hours/
+title: Complete Intro to Netlify in 3.5 hours
+url: >-
+  https://www.netlify.com/blog/2019/10/07/complete-intro-to-netlify-in-3.5-hours/
 date: '2019-12-10'
-datetime: 
+datetime: 'December 10, 2019 9:30 PM'
 category: news
 topic:
   - webfejlesztés
