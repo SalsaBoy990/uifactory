@@ -2,8 +2,10 @@
 title: 'Microsoft wants everyone to follow its lead with its new mobile design'
 url: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2019/12/5/20996748/microsoft-fluent-design-mobile-office-apps-new-updates-features
 date: '2019-12-10'
+datetime: 
 category: news
-topic: design
+topic:
+ - design
 ---
 
 <div class="embed-responsive embed-responsive-16by9">

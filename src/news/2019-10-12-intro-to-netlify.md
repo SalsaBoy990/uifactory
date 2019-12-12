@@ -2,8 +2,11 @@
 title: 'Complete Intro to Netlify in 3.5 hours'
 url: https://www.netlify.com/blog/2019/10/07/complete-intro-to-netlify-in-3.5-hours/
 date: '2019-12-10'
+datetime: 
 category: news
-topic: design
+topic:
+  - webfejlesztés
+  - Netlify
 ---
 
 <div class="embed-responsive embed-responsive-16by9">
