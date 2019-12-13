@@ -2,7 +2,7 @@
 title: Wodify iPhone App – 10-Minute Redesign
 url: 'https://www.youtube.com/watch?v=OdS7fOS7bTk'
 date: '2019-12-14'
-datetime: 'December 14, 2019 12:33 AM'
+datetime: 'December 14, 2019 12:40 AM'
 category: news
 topic:
   - re-design videó
