@@ -1,5 +1,5 @@
 ---
-title: A NaptárApp Android alkalmazás tervezése
+title: NaptárApp Android alkalmazás
 date: '2019-09-02'
 thumbnail: /assets/images/design/naptarapp_regisztracio.png
 hexagonImage: null

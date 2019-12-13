@@ -1,10 +1,10 @@
 <div class="m-mx-16px">
   <section>
-    <h1 class="mt3 m-mt2">Design cikkek a világból</h1>
+    <h1 class="mt3 m-mt2">Design cikkek, videók a világból</h1>
     <hr>
-    <p class="mt1 mb2">Az UI/UX designnal és a fejlesztéssel kapcsolatos cikkeket gyűjtöm össze itt. Nem teljes körű a
+    <p class="mt1 mb2">Az UI/UX designnal és a fejlesztéssel kapcsolatos cikkeket és videókat gyűjtöm össze itt. Nem teljes körű a
       lista,
-      inkább csak a számomra értékesnek talált cikkeket adom hozzá.</p>
+      inkább csak a számomra értékesnek talált cikkeket és videókat adom hozzá.</p>
 
     <% for (var i = 0; i < newsDataForNewsPage.length; i++) { %>
     <article>
@@ -74,6 +74,24 @@
       <% for (var i = 0; i < newsDataForNewsPage.length; i++) { %>
       <% for (var j = 0; j < newsDataForNewsPage[i].topic.length; j++) { %>
       <% if (newsDataForNewsPage[i].topic[j] === 'webfejlesztés') { %>
+      <% found = 1; %>
+      <% } %>
+      <% } %>
+      <% if (found === 1) { %>
+      <li>
+        <a href="<%= newsDataForNewsPage[i].url %>" rel="noreferrer noopener" target="_blank"><%= newsDataForNewsPage[i].title %></a>
+      </li>
+      <% found = 0 %>
+      <% } %>
+      <% } %>
+    </ul>
+
+    <h2 class="h4">Redesign videók</h2>
+    <% var found = 0; %>
+    <ul>
+      <% for (var i = 0; i < newsDataForNewsPage.length; i++) { %>
+      <% for (var j = 0; j < newsDataForNewsPage[i].topic.length; j++) { %>
+      <% if (newsDataForNewsPage[i].topic[j] === 're-design videó') { %>
       <% found = 1; %>
       <% } %>
       <% } %>

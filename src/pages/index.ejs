@@ -1,6 +1,6 @@
 <div class="m-mx-16px align-center">
   <a id="munka"></a>
-  <h1 class="h2 mt3 m-mt2 mb0 pbhalf uppercase">Esettanulmányok</h1>
+  <h1 class="h2 mt3 m-mt2 mb0 pbhalf uppercase large-title">Esettanulmányok</h1>
   <hr class="mx-auto small-hr mb1 m-mb0">
 </div>
 
@@ -100,7 +100,7 @@
   <div class="row mx-responsive m0 p0 align-center">
     <div class="col-12 p0">
       <div class="m-mx-16px align-center">
-        <h1 class="h2 mt3 m-mt2 mb0 pbhalf uppercase">Mini projektek</h1>
+        <h1 class="h2 mt3 m-mt2 mb0 pbhalf uppercase large-title">Mini projektek</h1>
         <hr class="mx-auto small-hr mb2 m-mb1">
       </div>
     </div>
@@ -122,16 +122,16 @@
             </a>
           </div>
           <div class="col-9 col-sm-8 col-md-8 col-lg-8 col-xl-6 plhalf">
-            <h2 class="mb0 mthalf h4" style="line-height: 1.2"><a aria-label="<%= worksDataForIndexPage[i].title %>"
+            <h2 class="mthalf h4 mbhalf" style="line-height: 1.2"><a aria-label="<%= worksDataForIndexPage[i].title %>"
                 class="pthalf pbhalf sans-serif no-underline bold-700 mb0"
                 href="<%= worksDataForIndexPage[i].pathToPost %>">
                 <%= worksDataForIndexPage[i].title %>
-              </a></h2>
+              </a> <span class="sans-serif badge badge-secondary white min-size normal">
+                  <%= worksDataForIndexPage[i].type %></span></h2>
             <p class="m0 p0 small-size">
               <%= worksDataForIndexPage[i].excerpt %>
             </p>
-            <span class="gray-3 mb0 pb0 min-size sans-serif">
-              <%= worksDataForIndexPage[i].type %></span>
+            
           </div>
         </div>
       </article>

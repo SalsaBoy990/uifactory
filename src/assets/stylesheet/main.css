@@ -665,9 +665,6 @@ textarea {
   background-repeat: repeat; }
 
 /* CUSTOM CSS RULES */
-.large-title {
-  font-size: 72px; }
-
 .nav-pills .nav-link.active, .nav-pills .show > .nav-link {
   color: #fff;
   background-color: #b7344c; }

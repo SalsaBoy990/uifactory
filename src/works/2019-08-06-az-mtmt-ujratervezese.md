@@ -1,5 +1,5 @@
 ---
-title: A Magyar Tudományos Művek Tárának újratervezése
+title: Magyar Tudományos Művek Tára
 date: '2019-08-06'
 thumbnail: /assets/images/design/mtmt.jpg
 hexagonImage: null

@@ -82,7 +82,7 @@ collections:
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - {label: "Article title", name: "title", widget: "string"}
-      - {label: "Publication date", name: "url", widget: "string"}
+      - {label: "Article url", name: "url", widget: "string"}
       - {label: "Publication date", name: "date", widget: "date", format: "YYYY-MM-DD"}
       - {label: "Datetime (test)", name: "datetime", widget: "datetime", default: "", format: "LLL"}
       - {label: "Category", name: "category", widget: "select",  options: ["news"], default: ["news"]}
@@ -90,7 +90,13 @@ collections:
           label: "Topic",
           name: "topic",
           widget: "select", 
-          options: ["branding", "design", "marketing", "Netlify", "webfejlesztés"],
+          options: [
+            "branding",
+            "design",
+            "marketing",
+            "Netlify",
+            "webfejlesztés",
+            "re-design videó"],
           default: ["design"],
           multiple: true
         }
