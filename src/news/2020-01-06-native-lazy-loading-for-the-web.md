@@ -7,4 +7,4 @@ category: news
 topic:
   - webfejlesztés
 ---
-Browser-level native lazy-loading is finally here!Browser-level native lazy-loading is finally here!
+Browser-level native lazy-loading is finally here!
