@@ -2,7 +2,7 @@
 title: Google keresőoptimalizálás 2020 – A title tag pszichológiája
 url: 'https://7blog.hu/google-keresooptimalizalas-title-tag/'
 date: '2020-01-21'
-datetime: 'January 21, 2020 12:33 AM'
+datetime: 'January 21, 2020 12:33 PM'
 category: news
 topic:
   - marketing
