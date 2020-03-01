@@ -91,15 +91,29 @@ collections:
           name: "topic",
           widget: "select", 
           options: [
+            "Angular",
+            "api",
             "branding",
+            "cms",
             "design",
+            "graphql",
+            "Forestry",
+            "frontend",
+            "Gatsby"
             "marketing",
+            "Material"
             "Netlify",
-            "webfejlesztés",
-            "re-design videó"],
+            "pwa",
+            "React",
+            "re-design videó"
+            "ux design",
+            "ui-design",
+            "videó",
+            "webfejlesztés"
+            ],
           default: ["design"],
           multiple: true
         }
-      - {label: "Small description or a video embedded", name: "body", widget: "markdown"}
+      - {label: "Short description or a video embedded", name: "body", widget: "markdown"}
 
 
