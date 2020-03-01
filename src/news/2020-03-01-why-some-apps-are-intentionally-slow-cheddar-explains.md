@@ -8,4 +8,6 @@ topic:
   - design
   - ux design
 ---
-Why Some Apps Are Intentionally Slow - Cheddar Explains
+<div class="embed-responsive embed-responsive-16by9">
+<iframe width="560" height="315" class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/O6ZQ9r8a3iw" loading="lazy" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>     </iframe>
+</div>
