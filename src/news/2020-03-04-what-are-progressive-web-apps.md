@@ -7,5 +7,6 @@ category: news
 topic:
   - pwa
   - webfejlesztés
+  - api
 ---
 Progressive Web Apps (PWA) are built and enhanced with modern APIs to deliver native-like capabilities, reliability, and installability while reaching anyone, anywhere, on any device with a single codebase.
