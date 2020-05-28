@@ -1,0 +1,6 @@
+import './node_modules/bootstrap/dist/css/bootstrap.min.css'
+import './src/styles/global.css'
+import './node_modules/@popperjs/core/dist/umd/popper.min.js'
+import './node_modules/jquery/dist/jquery.slim.min.js'
+import './node_modules/bootstrap/dist/js/bootstrap.min.js'
+import './node_modules/remixicon/fonts/remixicon.css'

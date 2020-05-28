@@ -1,0 +1,11 @@
+# Disallow admin page
+User-agent: *
+Disallow: /admin/
+
+# Disallow cimkek pages
+User-agent: *
+Disallow: /cimkek
+
+# Rule 2
+User-agent: *
+Allow: /

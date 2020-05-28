@@ -1,0 +1,13 @@
+.siteTitle {
+  font-size: 72px;
+  margin-left: -5px;
+}
+
+.secondary {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 34px;
+  letter-spacing: 0.02em;
+  color: #636d73;
+}

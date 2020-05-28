@@ -1,21 +1,32 @@
 ---
 title: A LovelyVeg főzőiskola honlapjának újratervezése
 date: '2019-08-19'
-thumbnail: /assets/images/design/LovelyVegMockupCrop.jpg
-hexagonImage: /assets/images/design/lovelyveg_hexagon.jpg
+cover_image: ../images/uploads/LovelyVegMockupCrop.jpg
 excerpt: >-
   Az egyik barátom vállalkozásának, a LovelyVeg vegán főzőiskolának a honlapját
   terveztem újra.
-type:
+tags:
+  - információs architektúra
+  - esettanulmány
   - landing page
+  - ui design
+  - vizuális design
   - webapp
-category: case study
-expertise: 'Design, IA, visual design'
-platform: 'Reszponzív weboldal, iOS, Android'
-deliverables: 'UI, UX'
-website: '-'
+category: design
+expertise:
+  - ui design
+  - információs architektúra
+  - visual design
+platform:
+  - weboldal
+  - iOS
+  - Android
+deliverables:
+  - UI
+  - UX
+website: ''
 ---
-----
+
 ## Mit csináltam?
 
 Már egy meglévő, bejáratott márka/termék honlapját terveztem újra, így brandingre nem volt szükség. Továbbá egy szakácskönyv appot is terveztem.

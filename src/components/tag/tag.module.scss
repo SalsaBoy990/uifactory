@@ -1,0 +1,22 @@
+@import "../../styles/base/variables.scss";
+
+.tagContainer {
+  display: inline-block;
+  border: 1px solid $gray2;
+  border-radius: 10px;
+  background-color: $white2;
+  padding: margin-size(0.25);
+  margin-right: margin-size(0.25);
+  margin-bottom: margin-size(0.25);
+  font-size: $min-size;
+  color: #000;
+}
+
+.tagContainer.a {
+  text-decoration: none !important;
+}
+
+.tagContainer:hover {
+  text-decoration: underline;
+  background-color: #FECA59;
+}

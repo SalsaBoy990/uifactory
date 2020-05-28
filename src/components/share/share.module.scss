@@ -1,0 +1,12 @@
+@import "../../styles/base/variables.scss";
+
+.tagContainer {
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  background-color: $white2;
+  padding: margin-size(0.25);
+  margin-right: margin-size(0.25);
+  margin-bottom: margin-size(0.25);
+  font-size: $min-size;
+}

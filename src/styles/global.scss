@@ -1,0 +1,136 @@
+@import "./base/variables.scss";
+@import "./base/base.scss";
+@import "./base/marginsPaddings.scss";
+@import "./base/mediaQueries.scss";
+
+.initialClose {
+  display: none;
+}
+
+.open {
+  display: block !important;
+}
+
+.close {
+  display: none !important;
+}
+
+.navbar-nav > a {
+  font-size: 16px;
+  padding-top: 9px;
+  padding-bottom: 9px;
+  // color: #9bd9fd;
+  color: rgba(255, 255, 255, 0.75);
+  text-decoration: none;
+  /* pseudo selectors work as well */
+  &:hover {
+    color: #fff !important;
+    text-decoration: underline;
+  }
+}
+
+a.white-link {
+  color: $light-gray !important;
+  text-decoration: none;
+  transition: 0.3s;
+}
+a.white-link:hover,
+a.white-link:focus,
+a.white-link:active {
+  color: #fff !important;
+  text-decoration: underline;
+}
+
+.activeLink {
+  color: #fff !important;
+  text-decoration: underline !important;
+}
+
+.navbar-brand {
+  font-size: 22px;
+}
+
+.listHeader {
+  margin-bottom: 17px;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 120%;
+  color: #d61438;
+}
+
+.listContent li a {
+  font-size: 18px;
+  line-height: 34px;
+  /* identical to box height, or 189% */
+  text-decoration-line: underline;
+  color: #333c42;
+}
+.listContent li a:hover {
+  color: #21263c;
+
+  text-decoration-line: none;
+}
+
+.listContent li:hover {
+  background: #feca59;
+}
+
+ul {
+  margin-bottom: 51px;
+}
+
+.badge-secondary {
+  color: #47545d;
+  background-color: #d7dae1;
+}
+
+.lh110 {
+  padding-top: 7px;
+  padding-bottom: 7px;
+  line-height: 110% !important;
+}
+
+.carousel-indicators li {
+  background-color: #999;
+  width: $baseline;
+  height: 7px;
+  border-radius: 0px 7px !important;
+}
+
+.white-subtitle {
+  color: #fff;
+  font-weight: 600;
+  font-size: 37px;
+  line-height: 52px;
+  text-transform: uppercase;
+  margin-top: -34px;
+  margin-left: 0px;
+}
+
+.black-subtitle {
+  color: #000000;
+  font-weight: 600;
+  font-size: 37px;
+  line-height: 52px;
+  text-transform: uppercase;
+}
+
+.gray-chevron {
+  color: #646f76;
+  background-color: rgba(255, 255, 255, 0.75);
+  text-decoration: none;
+  border-radius: 0px 7px;
+}
+
+.container-max-width {
+  max-width: 1440px;
+  margin: 0 auto;
+}
+
+.bradius07 {
+  border-radius: 0px 7px;
+}
+
+a > span > i {
+  text-decoration: none !important;
+}

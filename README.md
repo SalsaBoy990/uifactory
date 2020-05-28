@@ -1,125 +1,99 @@
-# static-site-express
+<!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
+<p align="center">
+  <a href="https://www.gatsbyjs.org">
+    <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
+  </a>
+</p>
+<h1 align="center">
+  Gatsby's hello-world starter
+</h1>
 
-static-site-express is a simple Node.js based static-site generator that uses EJS and Markdown. You can deploy your static site to the Netlify cloud computing platform. Deploy, customize, and write your own blog.
+Kick off your project with this hello-world boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
 
-*Post updated on September 13, 2019*
-*Current version: 4.1.0*
+_Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.org/docs/gatsby-starters/)._
 
+## 🚀 Quick start
 
-## Documentation
+1.  **Create a Gatsby site.**
 
+    Use the Gatsby CLI to create a new site, specifying the hello-world starter.
 
-### Install static-site-express
+    ```shell
+    # create a new Gatsby site using the hello-world starter
+    gatsby new my-hello-world-starter https://github.com/gatsbyjs/gatsby-starter-hello-world
+    ```
 
-You have to options:
+1.  **Start developing.**
 
-a) Clone my repository:
+    Navigate into your new site’s directory and start it up.
 
-````raw
-git clone https://github.com/SalsaBoy990/static-site-express name-of-your-site
-````
+    ```shell
+    cd my-hello-world-starter/
+    gatsby develop
+    ```
 
-b) Use the 'Deploy to Netlify' button on the [example website](https://static-site-express.netlify.com/)
+1.  **Open the source code and start editing!**
 
+    Your site is now running at `http://localhost:8000`!
 
-### Build your site locally
+    _Note: You'll also see a second link: _`http://localhost:8000/___graphql`_. This is a tool you can use to experiment with querying your data. Learn more about using this tool in the [Gatsby tutorial](https://www.gatsbyjs.org/tutorial/part-five/#introducing-graphiql)._
 
-a) Build site from `./src` into `./public` folder:
+    Open the `my-hello-world-starter` directory in your code editor of choice and edit `src/pages/index.js`. Save your changes and the browser will update in real time!
 
-````raw
-npm run build
-````
+## 🧐 What's inside?
 
-b) Serve website on `localhost:4000`:
+A quick look at the top-level files and directories you'll see in a Gatsby project.
 
-````raw
-npm run serve
-````
+    .
+    ├── node_modules
+    ├── src
+    ├── .gitignore
+    ├── .prettierrc
+    ├── gatsby-browser.js
+    ├── gatsby-config.js
+    ├── gatsby-node.js
+    ├── gatsby-ssr.js
+    ├── LICENSE
+    ├── package-lock.json
+    ├── package.json
+    └── README.md
 
-c) Or you can watch for changes and trigger re-build with nodemon:
+1.  **`/node_modules`**: This directory contains all of the modules of code that your project depends on (npm packages) are automatically installed.
 
-````raw
-npm run watch
-````
+2.  **`/src`**: This directory will contain all of the code related to what you will see on the front-end of your site (what you see in the browser) such as your site header or a page template. `src` is a convention for “source code”.
 
-You need to add `sudo` before the commands on Linux system.
+3.  **`.gitignore`**: This file tells git which files it should not track / not maintain a version history for.
 
-#### Important notes
+4.  **`.prettierrc`**: This is a configuration file for [Prettier](https://prettier.io/). Prettier is a tool to help keep the formatting of your code consistent.
 
-- `nodemon` not trigger re-build on Linux on file changes (this behavior was experienced on Ubuntu 18.04 LTS Bionic Beaver)
-- On Ubuntu, you can run `npm run watch-exp` command which uses the [chokidar](https://github.com/paulmillr/chokidar) package. *Experimental!*
+5.  **`gatsby-browser.js`**: This file is where Gatsby expects to find any usage of the [Gatsby browser APIs](https://www.gatsbyjs.org/docs/browser-apis/) (if any). These allow customization/extension of default Gatsby settings affecting the browser.
 
-Inspect `package.json` for more info. The `./lib` folder contains the JavaScript files used for building and serving the website. Check them out.
+6.  **`gatsby-config.js`**: This is the main configuration file for a Gatsby site. This is where you can specify information about your site (metadata) like the site title and description, which Gatsby plugins you’d like to include, etc. (Check out the [config docs](https://www.gatsbyjs.org/docs/gatsby-config/) for more detail).
 
-The `site.config.js` file contains some of the site properties (like site title, author, description, social media links etc.) that are used in the EJS partials.
+7.  **`gatsby-node.js`**: This file is where Gatsby expects to find any usage of the [Gatsby Node APIs](https://www.gatsbyjs.org/docs/node-apis/) (if any). These allow customization/extension of default Gatsby settings affecting pieces of the site build process.
 
+8.  **`gatsby-ssr.js`**: This file is where Gatsby expects to find any usage of the [Gatsby server-side rendering APIs](https://www.gatsbyjs.org/docs/ssr-apis/) (if any). These allow customization of default Gatsby settings affecting server-side rendering.
 
-### Register at Netlify and publish your website
+9.  **`LICENSE`**: Gatsby is licensed under the MIT license.
 
-- Register on [Netlify](https://www.netlify.com/), and [see this tutorial video](https://www.netlify.com/docs/continuous-deployment/) if you are unfamiliar with the procedure. You can publish your site in a minute.
+10. **`package-lock.json`** (See `package.json` below, first). This is an automatically generated file based on the exact versions of your npm dependencies that were installed for your project. **(You won’t change this file directly).**
 
-- The `netlify.toml` configuration file contains important properties:
+11. **`package.json`**: A manifest file for Node.js projects, which includes things like metadata (the project’s name, author, etc). This manifest is how npm knows which packages to install for your project.
 
-````raw
-[build]
-  base    = "/"
-  publish = "public"
-  command = "npm run build"
-````
+12. **`README.md`**: A text file containing useful reference information about your project.
 
-The base path, the build command, and the publish directory. You can keep those settings.
+## 🎓 Learning Gatsby
 
-In the `_headers` file you can specify the HTTP headers and set Content Security Policy (CSP) rules for the Netlify server. Currently, CSP rules are not set because I don't know which domains you want to whitelist when you create your own website. I recommend you the [CSP Evaluator by Google](https://csp-evaluator.withgoogle.com/).
+Looking for more guidance? Full documentation for Gatsby lives [on the website](https://www.gatsbyjs.org/). Here are some places to start:
 
-The `_redirects` file is currently empty. When you have a custom domain, you can make a redirect from *.netlify.com to your custom domain.
+- **For most developers, we recommend starting with our [in-depth tutorial for creating a site with Gatsby](https://www.gatsbyjs.org/tutorial/).** It starts with zero assumptions about your level of ability and walks through every step of the process.
 
-`sitemap.xml` is self-explanatory. Empty by default.
-`robots.txt` is for search engines. Default settings:
+- **To dive straight into code samples, head [to our documentation](https://www.gatsbyjs.org/docs/).** In particular, check out the _Guides_, _API Reference_, and _Advanced Tutorials_ sections in the sidebar.
 
-```raw
-# Disallow admin page
-User-agent: *
-Disallow: /admin/
+## 💫 Deploy
 
-# Disallow message-sent page
-User-agent: *
-Disallow: /message-sent/
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-hello-world)
 
-# Rule 3
-User-agent: *
-Allow: /
-````
+[![Deploy with ZEIT Now](https://zeit.co/button)](https://zeit.co/import/project?template=https://github.com/gatsbyjs/gatsby-starter-hello-world)
 
-For [Google Search Console](https://search.google.com/search-console/about) verification, you should have an HTML file from Google included in the root of your Netlify publish folder (in our case, public). The build script copies this file from `./src` to `./public`. Change line 87 in `./lib/build.js`: 
-
-````javascript
-ssg.copyRootFile('FILENAME.html', srcPath, distPath)
-````
-
-### Alternatively, you can use the Express server app on Heroku (not recommended)
-
-A `Procfile` is already supplied for you with the command to build the site, and after that, to run the app server:
-
-````raw
-web: npm run heroku
-````
-
-You need improve security! I already set security headers with the `helmet` npm package, just 2 lines:
-
-````javascript
-// Set Security Headers.
-const helmet = require('helmet')
-app.use(helmet())
-````
-
-Also, you can set Content Security Policy (CSP) rules using the `helmet-csp` package.
-
-Keep in mind that the contact form on the example site only works on Netlify!!
-
-### Q&A
-
-If you have a problem or a question about static-site-express, [open an issue here](https://github.com/SalsaBoy990/static-site-express/issues).
-
-
-PS. The idea of making a static site generator in Node.js came from this good article by Douglas Matoso: [Build a static site generator in 40 lines with Node.js](https://medium.com/douglas-matoso-english/build-static-site-generator-nodejs-8969ebe34b22).
-
+<!-- AUTO-GENERATED-CONTENT:END -->

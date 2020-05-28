@@ -1,2 +1,0 @@
-# Redirect default Netlify subdomain to primary domain
-https://uifactory.netlify.com/* https://uifactory.design/:splat 301!

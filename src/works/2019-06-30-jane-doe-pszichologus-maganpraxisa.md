@@ -1,19 +1,29 @@
 ---
 title: Jane Doe pszichológus magánpraxisa
 date: '2019-06-30'
-thumbnail: /assets/images/design/janeDoePsychologistMockup.png
-hexagonImage: /assets/images/design/jane_doe_psychologist_hexagon.jpg
+cover_image: ../images/uploads/janeDoePsychologistMockup.png
 excerpt: >-
   Egy pszichológus barátom magánpraxisa számára terveztem egy weboldalt, hogy
   több kuncsaftot érjen el. A barátom kérésére nem adhatok ki személyes
   információt róla, a design tervekbe is kitalált adatokat raktam.
-type:
-  - landing page
-category: case study
-expertise: 'UX kutatás, design, IA, vizuális design'
-platform: reszponzív weboldal
-deliverables: UI Design
-website: '-'
+tags:
+  - információs architektúra
+  - esettanulmány
+  - landing oldal
+  - UX kutatás
+  - UI design
+  - vizuális design
+category: design
+expertise: 
+  - UX kutatás
+  - UI design
+  - információs architektúra
+  - vizuális design
+platform:
+  - weboldal
+deliverables:
+  - UI Design
+website: ''
 ---
 
 ## Mit csináltam?
