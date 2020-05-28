@@ -39,7 +39,7 @@ const Intro = () => {
         >
           UI/web designer és frontend fejlesztő
         </p>
-        <p className={IntroStyles.secondary}>
+        <p className={`${IntroStyles.secondary} mb0`}>
           Wordpress + WooCommerce | Gatsby.js
         </p>
       </div>

@@ -16,6 +16,7 @@ tags:
   - sitebuild
   - reszponzív design
   - Wordpress fejlesztés
+  - WooCommerce
 category: design
 expertise:
   - ui design

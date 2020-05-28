@@ -14,9 +14,9 @@ export default () => {
     <>
      <SEO title={`Frontend asztal`} pathname={`/frontend-desk/`} website={true} description={"Hasznos Frontend és UI design linkek gyűjteménye. A válogatás nem teljes körű."} />
       <Header></Header>
-      <div className="container-max-width bg-linear-blue-2" css={css``}>
+      <div className="container-max-width bg-linear-blue-2">
         <Container>
-          <Row>
+          <div className="row mx-responsive mb2 p0">
             <div className="col-12 p0 mt1">
               <Breadcrumb>Frontend munkasztal</Breadcrumb>
               <h1
@@ -28,7 +28,7 @@ export default () => {
                 Frontend munkasztal
               </h1>
             </div>
-          </Row>
+          </div>
         </Container>
       </div>
       <div className="container-max-width">
@@ -36,11 +36,8 @@ export default () => {
           <Row>
             <div
               className="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4 p0"
-              css={css`
-                padding-top: 51px;
-              `}
             >
-              <h2 className="listHeader">Android, Google</h2>
+              <h2 className="listHeader mt0">Android, Google</h2>
               <ul
                 className="listContent no-bullets"
                 css={css`
@@ -365,11 +362,8 @@ export default () => {
             </div>
             <div
               className="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4 p0"
-              css={css`
-                padding-top: 51px;
-              `}
             >
-              <h2 className="listHeader">Ikonkészletek</h2>
+              <h2 className="listHeader mt0">Ikonkészletek</h2>
               <ul
                 className="listContent no-bullets"
                 css={css`
@@ -675,12 +669,9 @@ export default () => {
               </ul>
             </div>
             <div
-              className="col-12 col-sm-12 col-md-6 col-lg-4 col-xl-4 p0"
-              css={css`
-                padding-top: 51px;
-              `}
+              className="col-12 col-sm-12 col-md-6 col-lg-4 col-xl-4 p0 mb2 m-mb1"
             >
-              <h2 className="listHeader">Színeszközök</h2>
+              <h2 className="listHeader mt0">Színeszközök</h2>
               <ul
                 className="listContent no-bullets"
                 css={css`

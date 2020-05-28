@@ -33,9 +33,9 @@ export default ({ data }) => {
       </Container>
       <Container>
         <div className="container-max-width">
-          <div className="row mx-responsive p0 mb1 m-mb0">
+          <div className="row mx-responsive-mobile p0 mb1 m-mb0">
             <div className="col-12 m0 p0">
-              <h2 className="black-subtitle mt3 m-mt2 mb2 m-mb1">
+              <h2 className="black-subtitle mt3 m-mt2 mb2 m-mb1 m-px16">
                 Esettanulmányok
               </h2>
               {myDesignWorks.edges.map((elem, index) => (
@@ -78,14 +78,14 @@ export default ({ data }) => {
                       </Link>
                     </motion.div>
                   </div>
-                  <div className="col-12 col-md-7 p0 pl1 pr1">
+                  <div className="col-12 col-md-7 p0 pl1 pr1 m-px16">
                     <h3 className="mthalf">
                       <Link to={elem.node.fields.slug}>
                         {elem.node.frontmatter.title}
                       </Link>
                     </h3>
                     <p className="">{elem.node.frontmatter.excerpt}</p>
-                    <div className="clearfix">
+                    <div className="clearfix mbhalf">
                       {elem.node.frontmatter.website ? (
                         <span>
                           <i
@@ -115,7 +115,7 @@ export default ({ data }) => {
           </div>
           <div className="row mx-responsive p0">
             <div className="col-12 col-sm-12 col-md-10 col-lg-10 col-xl-8 p0 m0">
-              <h2 className="black-subtitle mt0 mb2 m-mb1">Fejlesztés projektek</h2>
+              <h2 className="black-subtitle mt0 mb2 m-mb1">Fejlesztés</h2>
               <ul className="list-unstyled mb3 m-mb2">
                 <li className="media mt1">
                   <Img
@@ -154,7 +154,7 @@ export default ({ data }) => {
                   <div className="media-body">
                     <h3 className="h4 mt0">
                       <a
-                        href="https://github.com/SalsaBoy990/static-site-express"
+                        href="https://github.com/SalsaBoy990/uifactory"
                         target="_blank"
                         rel="noopener noreferrer"
                       >
@@ -314,7 +314,7 @@ export const query = graphql`
       edges {
         node {
           childImageSharp {
-            fixed(width: 64, height: 64) {
+            fixed(width: 50, height: 50) {
               ...GatsbyImageSharpFixed
             }
           }
@@ -327,7 +327,7 @@ export const query = graphql`
       edges {
         node {
           childImageSharp {
-            fixed(width: 64) {
+            fixed(width: 50) {
               ...GatsbyImageSharpFixed
             }
           }
@@ -338,7 +338,7 @@ export const query = graphql`
       edges {
         node {
           childImageSharp {
-            fixed(width: 64) {
+            fixed(width: 50) {
               ...GatsbyImageSharpFixed
             }
           }
@@ -349,7 +349,7 @@ export const query = graphql`
       edges {
         node {
           childImageSharp {
-            fixed(width: 64) {
+            fixed(width: 50) {
               ...GatsbyImageSharpFixed
             }
           }
