@@ -40,9 +40,10 @@ website: 'https://szlavidanceart.com/'
 Egy teljesen új egyéni vállalkozás arculatát és honlapját készítettem el. A SzlaVi Dance Art Tánciskola számára készítettem egy landing oldalt és egy webáruházat. A webáruházon keresztül táncos szolgáltatásokat értékesítünk. A design és a fejlesztés teljes folyamatát egyedül vittem végig.
 
 ----
-## Interjúk, UX kutatás
+## Kutatás
 
-Feltöltés alatt...
+A fő szakterületem nem a kutatás, így ez a rész nem volt hangsúlyos. Az ügyfeleim által elmondottakra és a saját tapsztalataimra hagyatkoztam. Már több éve megfordulok a táncos közösségekben és veszek részt időnként bulikon, ezért van rálátásom a témára. Szokásom elemezni mások viselkedését és sokszor alkalmazom az aktív hallgatási technikáimat és megjegyzem a hasznosnak ítélt információkat.
+Ez egyébként is az UX kutatók feladata lenne.
 
 ----
 ## A probléma
@@ -52,11 +53,13 @@ A szegedi táncoktatás piaca meglehetősen telített, sok versenytárssal, ahol
 ----
 ## Felhasználók és célközönség
 
-Feltöltés alatt...
+Olyan embereket keresünk, akik érzik, hogy hiányzik valami a „modern” életükből, ami teljessé tehetné azt. A tánc a hiányzó láncszemük.
 
 ### Értékajánlat
 
-*Azoknak a X, akik szeretnének Y, a SzlaVi Dance Art Tánciskola Z. W számára.*
+*Azoknak a fiatal és érettebb korú nőknek és férfiaknak, akik szórakozást, kikapcsolódást keresnek, mozogni vágynak, ismerkedni akarnak, szeretnék a nőiességüket, illetve a férfiasságukat jobban kiteljesíteni vagy épp a személyiségüket fejleszteni, a SzlaVi Dance Art Tánciskola ezt a hiányt szeretné pótolni, teljesebbé téve az életüket.*
+
+Légy részese a körforgásnak, a pezsgésnek, a feloldódásnak, az életnek, a táncnak!
 
 ----
 ## A korlátozó tényezők
@@ -103,6 +106,11 @@ Ezt követi a look&feel-nek, magának a vizuális design-nak a kialakítása. Az
 A végső design terv (2020. május 2.), asztali nézet:
 
 ![A SzlaVi Dance Art landing oldal végleges design-ja. Asztali nézet.](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/f8601697774423.5ecd3115d1b1e.png)
+
+Webshop design terv (2020. május 15.), asztali nézet:
+
+![A SzlaVi Dance Art webshop design. Asztali nézet.](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/8219fa97774423.5ed25261188e1.png)
+
 
 ### Színek
 

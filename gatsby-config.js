@@ -93,6 +93,14 @@ module.exports = {
               maxWidth: 800,
             },
           },
+          {
+            resolve: `gatsby-remark-classes`,
+            options: {
+              classMap: {
+                image: "mt2 mb2",
+              }
+            }
+          },
         ],
       },
     },

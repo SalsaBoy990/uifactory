@@ -31,6 +31,7 @@
     "gatsby-plugin-react-helmet": "^3.2.1",
     "gatsby-plugin-sass": "^2.2.1",
     "gatsby-plugin-sharp": "^2.5.3",
+    "gatsby-remark-classes": "^1.0.0",
     "gatsby-remark-images": "^3.2.1",
     "gatsby-remark-normalize-paths": "^1.0.0",
     "gatsby-remark-relative-images": "^0.3.0",

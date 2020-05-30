@@ -408,7 +408,7 @@ caption {
   text-align: center; }
 
 img {
-  margin-bottom: 0.5rem;
+  margin-bottom: 1.545rem;
   margin-left: 0rem;
   margin-right: 0rem;
   display: block;
@@ -1272,3 +1272,6 @@ ul {
 
 a > span > i {
   text-decoration: none !important; }
+
+.gatsby-image-wrapper {
+  margin-bottom: 1.545rem; }
