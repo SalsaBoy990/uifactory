@@ -18,12 +18,9 @@ const Footer = () => {
           tel
         }
       }
-      decoration: file(relativePath: { eq: "images/decoration.png" }) {
-        childImageSharp {
-          fixed(width: 358, height: 115, pngQuality: 90) {
-            ...GatsbyImageSharpFixed
-          }
-        }
+      cv: file(relativePath: {eq: "Andras-Gulacsi-CV-2020.pdf"}) {
+        id
+        publicURL
       }
     }
   `)
@@ -93,7 +90,7 @@ const Footer = () => {
                           top: 4px;
                         `}
                       ></i>
-                      <a href={data.mySite.siteMetadata.cv} className="white-link">
+                      <a href={data.cv.publicURL} className="white-link">
                         <span className={FooterStyles.contactInfoText}>
                           Curriculum vitae
                         </span>

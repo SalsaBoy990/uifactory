@@ -78,6 +78,14 @@ module.exports = {
       },
     },
 
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `files`,
+        path: path.join(__dirname, `src/files`),
+      },
+    },
+
 
 
     {
