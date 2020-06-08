@@ -399,6 +399,15 @@ export default () => {
                 </li>
                 <li className="no-list-image">
                   <a
+                    href="https://material.io/resources/icons/?style=baseline"
+                    rel="noreferrer noopener"
+                    target="_blank"
+                  >
+                    Material Icons
+                  </a>
+                </li>
+                <li className="no-list-image">
+                  <a
                     href="https://remixicon.com/"
                     rel="noreferrer noopener"
                     target="_blank"
@@ -772,6 +781,15 @@ export default () => {
                 </li>
                 <li className="no-list-image">
                   <a
+                    href="http://veli.ee/colorpedia/"
+                    rel="noreferrer noopener"
+                    target="_blank"
+                  >
+                    Veli - Colorpedia
+                  </a>
+                </li>
+                <li className="no-list-image">
+                  <a
                     href="https://yaytext.com"
                     rel="noreferrer noopener"
                     target="_blank"
@@ -955,6 +973,16 @@ export default () => {
                 <li className="lh110 pt0 no-list-image">
                   <a
                     className="lh110"
+                    href="https://developer.files.wordpress.com/2017/12/woocommerce-theme-testing-checklist.pdf"
+                    rel="noreferrer noopener"
+                    target="_blank"
+                  >
+                    WooCommerce theme testing checklist
+                  </a>
+                </li>
+                <li className="lh110 pt0 no-list-image">
+                  <a
+                    className="lh110"
                     href="https://szamlazzplugin.hu/"
                     rel="noreferrer noopener"
                     target="_blank"
@@ -965,11 +993,49 @@ export default () => {
                 <li className="lh110 pt0 no-list-image">
                   <a
                     className="lh110"
+                    href="https://developer.wordpress.org/"
+                    rel="noreferrer noopener"
+                    target="_blank"
+                  >
+                    Wordpress.org Developer References
+                  </a>
+                </li>
+                <li className="lh110 pt0 no-list-image">
+                  <a
+                    className="lh110"
                     href="https://codex.wordpress.org/"
                     rel="noreferrer noopener"
                     target="_blank"
                   >
                     Wordpress.org Kódex
+                  </a>
+                </li>
+                <li className="lh110 pt0 no-list-image">
+                  <a
+                    className="lh110"
+                    href="https://wphu.org/"
+                    rel="noreferrer noopener"
+                    target="_blank"
+                  >
+                    Wordpress Magyarország
+                  </a>
+                </li>
+              </ul>
+              <h2 className="listHeader">+</h2>
+              <ul
+                className="listContent no-bullets"
+                css={css`
+                  padding-right: 51px;
+                `}
+              >
+                <li className="lh110 pt0 no-list-image">
+                  <a
+                    className="lh110"
+                    href="https://www.cv-template.com/en"
+                    rel="noreferrer noopener"
+                    target="_blank"
+                  >
+                    CV Template
                   </a>
                 </li>
               </ul>
