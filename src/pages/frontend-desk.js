@@ -399,11 +399,29 @@ export default () => {
                 </li>
                 <li className="no-list-image">
                   <a
+                    href="https://ionicons.com/"
+                    rel="noreferrer noopener"
+                    target="_blank"
+                  >
+                    IonIcons (Ionic)
+                  </a>
+                </li>
+                <li className="no-list-image">
+                  <a
                     href="https://material.io/resources/icons/?style=baseline"
                     rel="noreferrer noopener"
                     target="_blank"
                   >
                     Material Icons
+                  </a>
+                </li>
+                <li className="no-list-image">
+                  <a
+                    href="https://github.com/google/material-design-icons/blob/master/iconfont/codepoints"
+                    rel="noreferrer noopener"
+                    target="_blank"
+                  >
+                    Material Icons Codes
                   </a>
                 </li>
                 <li className="no-list-image">
@@ -930,6 +948,16 @@ export default () => {
                   padding-right: 51px;
                 `}
               >
+                <li className="lh110 pt0 no-list-image">
+                  <a
+                    className="lh110"
+                    href="https://laragon.org/docs/"
+                    rel="noreferrer noopener"
+                    target="_blank"
+                  >
+                    Laragon
+                  </a>
+                </li>
                 <li className="lh110 pt0 no-list-image">
                   <a
                     className="lh110"
