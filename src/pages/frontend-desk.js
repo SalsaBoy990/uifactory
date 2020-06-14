@@ -603,6 +603,15 @@ export default () => {
                     Embed Google Map
                   </a>
                 </li>
+                <li className="no-list-image">
+                  <a
+                    href="https://support.google.com/maps/answer/18539?co=GENIE.Platform%3DDesktop&hl=en"
+                    rel="noreferrer noopener"
+                    target="_blank"
+                  >
+                    Find latitude & longitude
+                  </a>
+                </li>
               </ul>
 
               <h2 className="listHeader">Tipográfiai hierarchia</h2>
@@ -948,6 +957,16 @@ export default () => {
                   padding-right: 51px;
                 `}
               >
+                <li className="lh110 pt0 no-list-image">
+                  <a
+                    className="lh110"
+                    href="https://developer.wordpress.org/resource/dashicons/#tide"
+                    rel="noreferrer noopener"
+                    target="_blank"
+                  >
+                    Dashicons
+                  </a>
+                </li>
                 <li className="lh110 pt0 no-list-image">
                   <a
                     className="lh110"
