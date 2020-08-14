@@ -37,10 +37,13 @@ const Intro = () => {
             padding-bottom: 5px;
           `}
         >
-          UI/web designer és frontend fejlesztő
+          UI designer, frontend fejlesztő, Wordpress fejlesztő
+        </p>
+        <p className={`${IntroStyles.secondary}`}>
+          PHP, WP oldalak/áruházak, egyedi sablonok és pluginok fejlesztése, Gatsby.js
         </p>
         <p className={`${IntroStyles.secondary} mb0`}>
-          Wordpress + WooCommerce | Gatsby.js
+          Érdekel a Symfony PHP keretrendszer és az Angular.js/Angular 2+. Ezek tanulása közeljövőben lesz esedékes.
         </p>
       </div>
       <div className="col-8 col-sm-8 col-md-5 col-lg-6 col-xl-6 order-first order-sm-first order-md-last p0 mt3 mb0 m-mt2">

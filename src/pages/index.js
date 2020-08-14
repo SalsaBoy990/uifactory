@@ -19,10 +19,18 @@ export default ({ data }) => {
   const earthEngineImg = data.googleEarthEngine
   const npmImg = data.npm
   const netlifyImg = data.netlify
+  const teamImg = data.team
 
   return (
     <>
-      <SEO title={`Portfólió kezdőlap`} pathname={`/`} website={true} description={"Sziasztok! Gulácsi András vagyok. UI designer és/vagy frontend fejlesztő munkát keresek Szegeden. Sürgősen!"} />
+      <SEO
+        title={`Portfólió kezdőlap`}
+        pathname={`/`}
+        website={true}
+        description={
+          "Sziasztok! Gulácsi András vagyok. UI designer és/vagy frontend fejlesztő munkát keresek Szegeden. Sürgősen!"
+        }
+      />
       <Header></Header>
       <Container>
         <div className="bg-light-honeycombs container-max-width">
@@ -118,6 +126,35 @@ export default ({ data }) => {
               <h2 className="black-subtitle mt0 mb2 m-mb1">Fejlesztés</h2>
               <ul className="list-unstyled mb3 m-mb2">
                 <li className="media mt1">
+                <Img
+                    fixed={teamImg.edges[0].node.childImageSharp.fixed}
+                    className="mr-3"
+                    alt="Company Team Members logo"
+                  ></Img>
+                
+                  <div className="media-body">
+                    <h3 className="h4 mt0">
+                      <a
+                        href="https://github.com/SalsaBoy990/company-team-members"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                      >
+                        Company Team Members plugin / Céges Csapattagok
+                      </a>
+                    </h3>
+                    <div className="extra-small topic mbhalf">
+                      PHP, Wordpress plugin
+                    </div>
+                    <p className="mbhalf">
+                      Céges csapattagok plugin, ami a cég dolgozóit kezeli egy
+                      adattáblában, CRUD funkcionalitással. Rövidkódokkal
+                      illeszthető be a dolgozólista a bejegyzésekbe, az oldalakba (lista ás
+                      táblázatos nézet). Internacionalizáció (i18n) támogatott.
+                      Még fejlesztés alatt áll, de már működőképes.
+                    </p>
+                  </div>
+                </li>
+                <li className="media mt1">
                   <Img
                     fixed={netlifyImg.edges[0].node.childImageSharp.fixed}
                     className="mr-3"
@@ -138,9 +175,9 @@ export default ({ data }) => {
                     </div>
                     <p className="mbhalf">
                       A Node.js-ben írt statikus oldalgenerátorom, amit
-                      2018-2020 között használtam a Netlify platformon. Template engine: EJS, markup:
-                      Markdown, tartalomkezelő: Netlify CMS, devszerver:
-                      Express.
+                      2018-2020 között használtam a Netlify platformon. Template
+                      engine: EJS, markup: Markdown, tartalomkezelő: Netlify
+                      CMS, devszerver: Express.
                     </p>
                   </div>
                 </li>
@@ -335,6 +372,17 @@ export const query = graphql`
       }
     }
     npm: allFile(filter: { relativePath: { eq: "npm.png" } }) {
+      edges {
+        node {
+          childImageSharp {
+            fixed(width: 50) {
+              ...GatsbyImageSharpFixed
+            }
+          }
+        }
+      }
+    }
+    team: allFile(filter: { relativePath: { eq: "company-team.jpg" } }) {
       edges {
         node {
           childImageSharp {

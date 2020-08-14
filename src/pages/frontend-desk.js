@@ -72,6 +72,61 @@ export default () => {
                     Material Design Kit (Android Nougat Free GUI)
                   </a>
                 </li>
+                <li className="lh110 no-list-image">
+                  <a
+                    className="lh110"
+                    href="https://search.google.com/test/mobile-friendly"
+                    rel="noreferrer noopener"
+                    target="_blank"
+                  >
+                    Mobilbarát teszt
+                  </a>
+                </li>
+              </ul>
+              <h2 className="listHeader mt0">API</h2>
+              <ul
+                className="listContent no-bullets"
+                css={css`
+                  padding-right: 51px;
+                `}
+              >
+                <li className="no-list-image">
+                  <a
+                    href="https://free.currencyconverterapi.com/"
+                    rel="noreferrer noopener"
+                    target="_blank"
+                  >
+                    Currency Converter API
+                  </a>
+                </li>
+                <li className="no-list-image">
+                  <a
+                    href="https://newsapi.org/"
+                    rel="noreferrer noopener"
+                    target="_blank"
+                  >
+                    News API
+                  </a>
+                </li>
+                <li className="no-list-image">
+                  <a
+                    href="https://openweathermap.org/api"
+                    rel="noreferrer noopener"
+                    target="_blank"
+                  >
+                    Open Weather Map API
+                  </a>
+                </li>
+                <li className="lh110 no-list-image">
+                  <a
+                    className="lh110"
+                    href="https://docs.mapbox.com/mapbox-gl-js/api/"
+                    rel="noreferrer noopener"
+                    target="_blank"
+                  >
+                    Mapbox GL JS API
+                  </a>
+                </li>
               </ul>
 
               <h2 className="listHeader">Backend</h2>
@@ -351,6 +406,24 @@ export default () => {
                 </li>
                 <li className="no-list-image">
                   <a
+                    href="https://bower.io/"
+                    rel="noreferrer noopener"
+                    target="_blank"
+                  >
+                    Bower package manager
+                  </a>
+                </li>
+                <li className="no-list-image">
+                  <a
+                    href="https://material.io/components"
+                    rel="noreferrer noopener"
+                    target="_blank"
+                  >
+                    Material Web Components
+                  </a>
+                </li>
+                <li className="no-list-image">
+                  <a
                     href="https://www.typescriptlang.org/docs/home.html"
                     rel="noreferrer noopener"
                     target="_blank"
@@ -546,6 +619,15 @@ export default () => {
                     This person does not exists
                   </a>
                 </li>
+                <li className="no-list-image">
+                  <a
+                    href="https://tinypng.com/"
+                    rel="noreferrer noopener"
+                    target="_blank"
+                  >
+                    Tiny PNG
+                  </a>
+                </li>
               </ul>
 
               <h2 className="listHeader">Parancssor, egyéb</h2>
@@ -587,6 +669,55 @@ export default () => {
                 </li>
               </ul>
 
+              <h2 className="listHeader">PHP</h2>
+              <ul
+                className="listContent no-bullets"
+                css={css`
+                  padding-right: 51px;
+                `}
+              >
+                <li className="lh110 no-list-image">
+                  <a
+                    className="lh110"
+                    href="https://www.php.net/"
+                    rel="noreferrer noopener"
+                    target="_blank"
+                  >
+                    PHP.net
+                  </a>
+                </li>
+                <li className="lh110 no-list-image">
+                  <a
+                    className="lh110"
+                    href="http://gtk.php.net/"
+                    rel="noreferrer noopener"
+                    target="_blank"
+                  >
+                    PHP-GTK
+                  </a>
+                </li>
+                <li className="lh110 no-list-image">
+                  <a
+                    className="lh110"
+                    href="https://phptherightway.com/"
+                    rel="noreferrer noopener"
+                    target="_blank"
+                  >
+                    PHP The Right Way
+                  </a>
+                </li>
+                <li className="lh110 no-list-image">
+                  <a
+                    className="lh110"
+                    href="https://symfony.com/doc/current/setup.html"
+                    rel="noreferrer noopener"
+                    target="_blank"
+                  >
+                    Symfony PHP framework documentation
+                  </a>
+                </li>
+              </ul>
+
               <h2 className="listHeader">Térkép</h2>
               <ul
                 className="listContent no-bullets"
@@ -610,6 +741,26 @@ export default () => {
                     target="_blank"
                   >
                     Find latitude & longitude
+                  </a>
+                </li>
+                <li className="lh110 no-list-image">
+                  <a
+                    className="lh110"
+                    href="https://docs.mapbox.com/mapbox-gl-js/api/"
+                    rel="noreferrer noopener"
+                    target="_blank"
+                  >
+                    Mapbox GL JS API
+                  </a>
+                </li>
+                <li className="lh110 no-list-image">
+                  <a
+                    className="lh110"
+                    href="https://leafletjs.com/"
+                    rel="noreferrer noopener"
+                    target="_blank"
+                  >
+                    Leaflet JS
                   </a>
                 </li>
               </ul>
@@ -970,6 +1121,16 @@ export default () => {
                 <li className="lh110 pt0 no-list-image">
                   <a
                     className="lh110"
+                    href="https://codex.wordpress.org/I18n_for_WordPress_Developers"
+                    rel="noreferrer noopener"
+                    target="_blank"
+                  >
+                    I18n for Wordpress
+                  </a>
+                </li>
+                <li className="lh110 pt0 no-list-image">
+                  <a
+                    className="lh110"
                     href="https://laragon.org/docs/"
                     rel="noreferrer noopener"
                     target="_blank"
@@ -985,6 +1146,16 @@ export default () => {
                     target="_blank"
                   >
                     Local WP (dev tool)
+                  </a>
+                </li>
+                <li className="lh110 pt0 no-list-image">
+                  <a
+                    className="lh110"
+                    href="https://poedit.net/"
+                    rel="noreferrer noopener"
+                    target="_blank"
+                  >
+                    Poedit
                   </a>
                 </li>
                 <li className="lh110 pt0 no-list-image">
@@ -1065,6 +1236,36 @@ export default () => {
                     target="_blank"
                   >
                     Wordpress Magyarország
+                  </a>
+                </li>
+                <li className="lh110 pt0 no-list-image">
+                  <a
+                    className="lh110"
+                    href="https://wppb.me/"
+                    rel="noreferrer noopener"
+                    target="_blank"
+                  >
+                    Wordpress Plugin Boilerplate Generator
+                  </a>
+                </li>
+                <li className="lh110 pt0 no-list-image">
+                  <a
+                    className="lh110"
+                    href="https://make.wordpress.org/cli/handbook/guides/installing/"
+                    rel="noreferrer noopener"
+                    target="_blank"
+                  >
+                    WP-CLI
+                  </a>
+                </li>
+                <li className="lh110 pt0 no-list-image">
+                  <a
+                    className="lh110"
+                    href="https://wptestdrive.hu/"
+                    rel="noreferrer noopener"
+                    target="_blank"
+                  >
+                    WPTestdrive Klub
                   </a>
                 </li>
               </ul>
