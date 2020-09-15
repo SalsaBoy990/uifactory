@@ -374,7 +374,16 @@ export default () => {
                     rel="noreferrer noopener"
                     target="_blank"
                   >
-                    Angular
+                    Angular 2 Docs
+                  </a>
+                </li>
+                <li className="no-list-image">
+                  <a
+                    href="https://docs.angularjs.org/api"
+                    rel="noreferrer noopener"
+                    target="_blank"
+                  >
+                    Angular.js Docs
                   </a>
                 </li>
                 <li className="no-list-image">
@@ -383,7 +392,16 @@ export default () => {
                     rel="noreferrer noopener"
                     target="_blank"
                   >
-                    Angular Material
+                    Angular 2 Material
+                  </a>
+                </li>
+                <li className="no-list-image">
+                  <a
+                    href="https://material.angularjs.org/latest/"
+                    rel="noreferrer noopener"
+                    target="_blank"
+                  >
+                    Angular.js Material
                   </a>
                 </li>
                 <li className="no-list-image">
@@ -429,6 +447,15 @@ export default () => {
                     target="_blank"
                   >
                     TypeScript dokumentáció
+                  </a>
+                </li>
+                <li className="no-list-image">
+                  <a
+                    href="https://webpack.js.org/concepts/"
+                    rel="noreferrer noopener"
+                    target="_blank"
+                  >
+                    Webpack bundler
                   </a>
                 </li>
               </ul>
@@ -676,6 +703,26 @@ export default () => {
                   padding-right: 51px;
                 `}
               >
+                <li className="lh110 no-list-image">
+                  <a
+                    className="lh110"
+                    href="https://packagist.org/"
+                    rel="noreferrer noopener"
+                    target="_blank"
+                  >
+                    Packagist - The PHP Package Repository
+                  </a>
+                </li>
+                <li className="lh110 no-list-image">
+                  <a
+                    className="lh110"
+                    href="https://www.php-fig.org/"
+                    rel="noreferrer noopener"
+                    target="_blank"
+                  >
+                    PHP Framework Interop Group (PHP FIG)
+                  </a>
+                </li>
                 <li className="lh110 no-list-image">
                   <a
                     className="lh110"
@@ -1246,6 +1293,16 @@ export default () => {
                     target="_blank"
                   >
                     Wordpress Plugin Boilerplate Generator
+                  </a>
+                </li>
+                <li className="lh110 pt0 no-list-image">
+                  <a
+                    className="lh110"
+                    href="http://wp-api.org/node-wpapi/api-reference/wpapi/1.1.2/index.html"
+                    rel="noreferrer noopener"
+                    target="_blank"
+                  >
+                    WP-API (Node)
                   </a>
                 </li>
                 <li className="lh110 pt0 no-list-image">
