@@ -146,6 +146,16 @@ export default () => {
                     Express.js
                   </a>
                 </li>
+                <li className="lh110 no-list-image">
+                  <a
+                    className="lh110"
+                    href="https://firebase.google.com/docs/firestore/quickstart?authuser=0"
+                    rel="noreferrer noopener"
+                    target="_blank"
+                  >
+                    Firebase
+                  </a>
+                </li>
               </ul>
               <h2 className="listHeader">Betűtípus listák</h2>
               <ul
@@ -458,6 +468,35 @@ export default () => {
                     Webpack bundler
                   </a>
                 </li>
+              </ul>
+
+              <h2 className="listHeader mt0">Audió és hangjelzések</h2>
+              <ul
+                className="listContent no-bullets"
+                css={css`
+                  padding-right: 51px;
+                `}
+              >
+                <li className="no-list-image">
+                  <a
+                    href=" https://notificationsounds.com/"
+                    rel="noreferrer noopener"
+                    target="_blank"
+                  >
+                    Notification Sounds
+                  </a>
+                </li>
+                <li className="no-list-image">
+                  <a
+                    href="https://howlerjs.com/"
+                    rel="noreferrer noopener"
+                    target="_blank"
+                  >
+                    Howler.js
+                  </a>
+                </li>
+
+
               </ul>
             </div>
             <div
